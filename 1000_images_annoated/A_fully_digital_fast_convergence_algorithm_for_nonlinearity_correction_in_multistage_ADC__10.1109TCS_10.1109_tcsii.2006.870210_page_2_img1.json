@@ -1,0 +1,301 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          360.0,
+          437.0
+        ],
+        [
+          444.0,
+          437.0
+        ],
+        [
+          444.0,
+          520.0
+        ],
+        [
+          360.0,
+          520.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          137.0,
+          562.0
+        ],
+        [
+          260.0,
+          562.0
+        ],
+        [
+          260.0,
+          625.0
+        ],
+        [
+          137.0,
+          625.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          666.0,
+          94.0
+        ],
+        [
+          749.0,
+          94.0
+        ],
+        [
+          749.0,
+          177.0
+        ],
+        [
+          666.0,
+          177.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          522.0,
+          622.0
+        ],
+        [
+          567.0,
+          622.0
+        ],
+        [
+          567.0,
+          664.0
+        ],
+        [
+          522.0,
+          664.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          522.0,
+          520.0
+        ],
+        [
+          567.0,
+          520.0
+        ],
+        [
+          567.0,
+          563.0
+        ],
+        [
+          522.0,
+          563.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          379.0,
+          174.0
+        ],
+        [
+          424.0,
+          174.0
+        ],
+        [
+          424.0,
+          217.0
+        ],
+        [
+          379.0,
+          217.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          563.0,
+          113.0
+        ],
+        [
+          607.0,
+          113.0
+        ],
+        [
+          607.0,
+          157.0
+        ],
+        [
+          563.0,
+          157.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          544.0,
+          256.0
+        ],
+        [
+          626.0,
+          256.0
+        ],
+        [
+          626.0,
+          359.0
+        ],
+        [
+          544.0,
+          359.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          360.8913043478261,
+          255.9565217391305
+        ],
+        [
+          441.7608695652174,
+          255.9565217391305
+        ],
+        [
+          441.7608695652174,
+          360.304347826087
+        ],
+        [
+          360.8913043478261,
+          360.304347826087
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          950.4565217391304,
+          196.82608695652178
+        ],
+        [
+          1031.3260869565217,
+          196.82608695652178
+        ],
+        [
+          1031.3260869565217,
+          299.4347826086957
+        ],
+        [
+          950.4565217391304,
+          299.4347826086957
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "A_fully_digital_fast_convergence_algorithm_for_nonlinearity_correction_in_multistage_ADC__10.1109TCS_10.1109_tcsii.2006.870210_page_2_img1.jpg",
+  "imageData": null,
+  "imageHeight": 798,
+  "imageWidth": 1167,
+  "description": ""
+}

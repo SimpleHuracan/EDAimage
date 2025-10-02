@@ -1,0 +1,157 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    506,
+                    63
+                ],
+                [
+                    592,
+                    111
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    421,
+                    64
+                ],
+                [
+                    470,
+                    114
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    160,
+                    64
+                ],
+                [
+                    209,
+                    113
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    651,
+                    41
+                ],
+                [
+                    738,
+                    130
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    827,
+                    194
+                ],
+                [
+                    970,
+                    243
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    796,
+                    48
+                ],
+                [
+                    877,
+                    127
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    315,
+                    47
+                ],
+                [
+                    402,
+                    128
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\PLL_propagation_delay-time_influence_on_linewidth_requirements_of_optical_PSK_homodyne_detection__10_10.1109_50.90935_page_2_img2.jpg",
+    "imageData": null,
+    "imageHeight": 454,
+    "imageWidth": 1015
+}

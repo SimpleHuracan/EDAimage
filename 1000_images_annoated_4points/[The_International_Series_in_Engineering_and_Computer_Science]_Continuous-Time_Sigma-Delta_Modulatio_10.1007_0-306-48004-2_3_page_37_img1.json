@@ -1,0 +1,185 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    241.0,
+                    369.0
+                ],
+                [
+                    320.0,
+                    369.0
+                ],
+                [
+                    320.0,
+                    450.0
+                ],
+                [
+                    241.0,
+                    450.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    167.0,
+                    400.0
+                ],
+                [
+                    189.0,
+                    400.0
+                ],
+                [
+                    189.0,
+                    420.0
+                ],
+                [
+                    167.0,
+                    420.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    243.0,
+                    48.0
+                ],
+                [
+                    324.0,
+                    48.0
+                ],
+                [
+                    324.0,
+                    129.0
+                ],
+                [
+                    243.0,
+                    129.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    166.0,
+                    78.0
+                ],
+                [
+                    188.0,
+                    78.0
+                ],
+                [
+                    188.0,
+                    98.0
+                ],
+                [
+                    166.0,
+                    98.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    137.0,
+                    158.0
+                ],
+                [
+                    221.0,
+                    158.0
+                ],
+                [
+                    221.0,
+                    231.0
+                ],
+                [
+                    137.0,
+                    231.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    330.13874345549743,
+                    157.99214659685865
+                ],
+                [
+                    415.479057591623,
+                    157.99214659685865
+                ],
+                [
+                    415.479057591623,
+                    229.19633507853402
+                ],
+                [
+                    330.13874345549743,
+                    229.19633507853402
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "[The_International_Series_in_Engineering_and_Computer_Science]_Continuous-Time_Sigma-Delta_Modulatio_10.1007_0-306-48004-2_3_page_37_img1.jpg",
+    "imageData": null,
+    "imageHeight": 483,
+    "imageWidth": 543,
+    "description": ""
+}

@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    440,
+                    231
+                ],
+                [
+                    515,
+                    231
+                ],
+                [
+                    515,
+                    287
+                ],
+                [
+                    440,
+                    287
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    630,
+                    63
+                ],
+                [
+                    732,
+                    63
+                ],
+                [
+                    732,
+                    177
+                ],
+                [
+                    630,
+                    177
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    120,
+                    63
+                ],
+                [
+                    235,
+                    63
+                ],
+                [
+                    235,
+                    178
+                ],
+                [
+                    120,
+                    178
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    573,
+                    105
+                ],
+                [
+                    599,
+                    105
+                ],
+                [
+                    599,
+                    129
+                ],
+                [
+                    573,
+                    129
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    278,
+                    62
+                ],
+                [
+                    381,
+                    62
+                ],
+                [
+                    381,
+                    176
+                ],
+                [
+                    278,
+                    176
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "pentagon",
+            "score": null,
+            "points": [
+                [
+                    440,
+                    61
+                ],
+                [
+                    541,
+                    61
+                ],
+                [
+                    541,
+                    174
+                ],
+                [
+                    440,
+                    174
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    568,
+                    295
+                ],
+                [
+                    681,
+                    295
+                ],
+                [
+                    681,
+                    359
+                ],
+                [
+                    568,
+                    359
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Design_considerations_on_low-voltage_low-power_data_converters__10.110981.477196_10.1109_81.477196_page_6_img1.jpg",
+    "imageData": null,
+    "imageHeight": 436,
+    "imageWidth": 821
+}

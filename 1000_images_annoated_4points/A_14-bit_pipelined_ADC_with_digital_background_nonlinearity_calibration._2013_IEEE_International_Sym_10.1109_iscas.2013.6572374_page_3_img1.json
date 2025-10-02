@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    410,
+                    218
+                ],
+                [
+                    534,
+                    218
+                ],
+                [
+                    534,
+                    352
+                ],
+                [
+                    410,
+                    352
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    673,
+                    218
+                ],
+                [
+                    798,
+                    218
+                ],
+                [
+                    798,
+                    351
+                ],
+                [
+                    673,
+                    351
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    663,
+                    34
+                ],
+                [
+                    812,
+                    34
+                ],
+                [
+                    812,
+                    126
+                ],
+                [
+                    663,
+                    126
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    853,
+                    34
+                ],
+                [
+                    1087,
+                    34
+                ],
+                [
+                    1087,
+                    128
+                ],
+                [
+                    853,
+                    128
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    136,
+                    34
+                ],
+                [
+                    285,
+                    34
+                ],
+                [
+                    285,
+                    127
+                ],
+                [
+                    136,
+                    127
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    399,
+                    35
+                ],
+                [
+                    550,
+                    35
+                ],
+                [
+                    550,
+                    127
+                ],
+                [
+                    399,
+                    127
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    143,
+                    218
+                ],
+                [
+                    267,
+                    218
+                ],
+                [
+                    267,
+                    351
+                ],
+                [
+                    143,
+                    351
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_14-bit_pipelined_ADC_with_digital_background_nonlinearity_calibration._2013_IEEE_International_Sym_10.1109_iscas.2013.6572374_page_3_img1.jpg",
+    "imageData": null,
+    "imageHeight": 388,
+    "imageWidth": 1139
+}

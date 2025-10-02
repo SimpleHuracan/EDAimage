@@ -1,0 +1,243 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          903.0,
+          451.0
+        ],
+        [
+          1095.0,
+          451.0
+        ],
+        [
+          1095.0,
+          568.0
+        ],
+        [
+          903.0,
+          568.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          595.0,
+          180.0
+        ],
+        [
+          788.0,
+          180.0
+        ],
+        [
+          788.0,
+          297.0
+        ],
+        [
+          595.0,
+          297.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          455.0,
+          215.0
+        ],
+        [
+          504.0,
+          215.0
+        ],
+        [
+          504.0,
+          262.0
+        ],
+        [
+          455.0,
+          262.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          267.0,
+          206.0
+        ],
+        [
+          383.0,
+          206.0
+        ],
+        [
+          383.0,
+          268.0
+        ],
+        [
+          267.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          267.0,
+          92.0
+        ],
+        [
+          382.0,
+          92.0
+        ],
+        [
+          382.0,
+          154.0
+        ],
+        [
+          267.0,
+          154.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          860.0,
+          218.0
+        ],
+        [
+          908.0,
+          218.0
+        ],
+        [
+          908.0,
+          262.0
+        ],
+        [
+          860.0,
+          262.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          960.0,
+          180.0
+        ],
+        [
+          1096.0,
+          180.0
+        ],
+        [
+          1096.0,
+          300.0
+        ],
+        [
+          960.0,
+          300.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          536.0,
+          449.0
+        ],
+        [
+          673.0,
+          449.0
+        ],
+        [
+          673.0,
+          567.0
+        ],
+        [
+          536.0,
+          567.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "A_100_MSs_4_MHz_Bandwidth_70_dB_SNR__ADC_in_90_nm_CMOS__10.1109jssc.2009.2020458_10.1109_jssc.2009.2020458_page_3_img2.jpg",
+  "imageData": null,
+  "imageHeight": 610,
+  "imageWidth": 1474,
+  "description": ""
+}

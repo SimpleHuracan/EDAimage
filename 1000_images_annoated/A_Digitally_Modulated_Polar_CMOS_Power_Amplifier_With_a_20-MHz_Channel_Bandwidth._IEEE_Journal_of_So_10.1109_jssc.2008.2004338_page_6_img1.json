@@ -1,0 +1,272 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          76.0,
+          281.0
+        ],
+        [
+          241.0,
+          281.0
+        ],
+        [
+          241.0,
+          513.0
+        ],
+        [
+          76.0,
+          513.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          560.0,
+          439.0
+        ],
+        [
+          621.0,
+          439.0
+        ],
+        [
+          621.0,
+          494.0
+        ],
+        [
+          560.0,
+          494.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          984.0,
+          264.0
+        ],
+        [
+          1223.0,
+          264.0
+        ],
+        [
+          1223.0,
+          517.0
+        ],
+        [
+          984.0,
+          517.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          561.0,
+          283.0
+        ],
+        [
+          621.0,
+          283.0
+        ],
+        [
+          621.0,
+          343.0
+        ],
+        [
+          561.0,
+          343.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1014.0,
+          593.0
+        ],
+        [
+          1204.0,
+          593.0
+        ],
+        [
+          1204.0,
+          677.0
+        ],
+        [
+          1014.0,
+          677.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          671.0,
+          359.0
+        ],
+        [
+          733.0,
+          359.0
+        ],
+        [
+          733.0,
+          419.0
+        ],
+        [
+          671.0,
+          419.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          556.0,
+          365.0
+        ],
+        [
+          625.0,
+          365.0
+        ],
+        [
+          625.0,
+          410.0
+        ],
+        [
+          556.0,
+          410.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          366.0,
+          423.0
+        ],
+        [
+          488.0,
+          423.0
+        ],
+        [
+          488.0,
+          508.0
+        ],
+        [
+          366.0,
+          508.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          362.04954954954957,
+          269.93243243243245
+        ],
+        [
+          487.2747747747748,
+          269.93243243243245
+        ],
+        [
+          487.2747747747748,
+          359.12162162162167
+        ],
+        [
+          362.04954954954957,
+          359.12162162162167
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "A_Digitally_Modulated_Polar_CMOS_Power_Amplifier_With_a_20-MHz_Channel_Bandwidth._IEEE_Journal_of_So_10.1109_jssc.2008.2004338_page_6_img1.jpg",
+  "imageData": null,
+  "imageHeight": 775,
+  "imageWidth": 1425,
+  "description": ""
+}

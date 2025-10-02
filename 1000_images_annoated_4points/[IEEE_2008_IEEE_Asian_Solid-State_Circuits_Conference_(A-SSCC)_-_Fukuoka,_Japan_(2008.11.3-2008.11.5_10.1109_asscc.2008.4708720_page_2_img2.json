@@ -1,0 +1,214 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "trapezoid",
+            "score": null,
+            "points": [
+                [
+                    663.0,
+                    216.0
+                ],
+                [
+                    702.0,
+                    216.0
+                ],
+                [
+                    702.0,
+                    331.0
+                ],
+                [
+                    663.0,
+                    331.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "trapezoid",
+            "score": null,
+            "points": [
+                [
+                    460.0,
+                    214.0
+                ],
+                [
+                    500.0,
+                    214.0
+                ],
+                [
+                    500.0,
+                    328.0
+                ],
+                [
+                    460.0,
+                    328.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    96.0,
+                    186.0
+                ],
+                [
+                    171.0,
+                    186.0
+                ],
+                [
+                    171.0,
+                    303.0
+                ],
+                [
+                    96.0,
+                    303.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    344.19354838709677,
+                    333.45161290322585
+                ],
+                [
+                    421.9677419354839,
+                    333.45161290322585
+                ],
+                [
+                    421.9677419354839,
+                    457.5806451612903
+                ],
+                [
+                    344.19354838709677,
+                    457.5806451612903
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    316.80645161290323,
+                    185.96774193548384
+                ],
+                [
+                    394.8709677419355,
+                    185.96774193548384
+                ],
+                [
+                    394.8709677419355,
+                    302.0967741935484
+                ],
+                [
+                    316.80645161290323,
+                    302.0967741935484
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    530.3548387096774,
+                    216.29032258064515
+                ],
+                [
+                    608.4193548387096,
+                    216.29032258064515
+                ],
+                [
+                    608.4193548387096,
+                    335.0
+                ],
+                [
+                    530.3548387096774,
+                    335.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    745.1935483870968,
+                    215.64516129032256
+                ],
+                [
+                    819.3870967741935,
+                    215.64516129032256
+                ],
+                [
+                    819.3870967741935,
+                    331.77419354838713
+                ],
+                [
+                    745.1935483870968,
+                    331.77419354838713
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "[IEEE_2008_IEEE_Asian_Solid-State_Circuits_Conference_(A-SSCC)_-_Fukuoka,_Japan_(2008.11.3-2008.11.5_10.1109_asscc.2008.4708720_page_2_img2.jpg",
+    "imageData": null,
+    "imageHeight": 510,
+    "imageWidth": 1022,
+    "description": ""
+}

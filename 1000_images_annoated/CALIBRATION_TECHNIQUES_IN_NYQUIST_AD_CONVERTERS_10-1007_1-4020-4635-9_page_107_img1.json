@@ -1,0 +1,272 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          704.0,
+          152.0
+        ],
+        [
+          777.0,
+          152.0
+        ],
+        [
+          777.0,
+          265.0
+        ],
+        [
+          704.0,
+          265.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          887.0,
+          356.0
+        ],
+        [
+          997.0,
+          356.0
+        ],
+        [
+          997.0,
+          501.0
+        ],
+        [
+          887.0,
+          501.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          245.0,
+          152.0
+        ],
+        [
+          319.0,
+          152.0
+        ],
+        [
+          319.0,
+          265.0
+        ],
+        [
+          245.0,
+          265.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          741.0,
+          353.0
+        ],
+        [
+          813.0,
+          353.0
+        ],
+        [
+          813.0,
+          501.0
+        ],
+        [
+          741.0,
+          501.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          996.0,
+          261.0
+        ],
+        [
+          1071.0,
+          261.0
+        ],
+        [
+          1071.0,
+          338.0
+        ],
+        [
+          996.0,
+          338.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          593.0,
+          353.0
+        ],
+        [
+          705.0,
+          353.0
+        ],
+        [
+          705.0,
+          502.0
+        ],
+        [
+          593.0,
+          502.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          850.0,
+          135.0
+        ],
+        [
+          963.0,
+          135.0
+        ],
+        [
+          963.0,
+          282.0
+        ],
+        [
+          850.0,
+          282.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          502.0,
+          136.0
+        ],
+        [
+          630.0,
+          136.0
+        ],
+        [
+          630.0,
+          281.0
+        ],
+        [
+          502.0,
+          281.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          391.53571428571433,
+          150.625
+        ],
+        [
+          429.03571428571433,
+          150.625
+        ],
+        [
+          429.03571428571433,
+          193.4821428571429
+        ],
+        [
+          391.53571428571433,
+          193.4821428571429
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "CALIBRATION_TECHNIQUES_IN_NYQUIST_AD_CONVERTERS_10-1007_1-4020-4635-9_page_107_img1.jpg",
+  "imageData": null,
+  "imageHeight": 545,
+  "imageWidth": 1417,
+  "description": ""
+}

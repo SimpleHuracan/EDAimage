@@ -1,0 +1,387 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    716,
+                    166
+                ],
+                [
+                    876,
+                    166
+                ],
+                [
+                    876,
+                    232
+                ],
+                [
+                    716,
+                    232
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    458,
+                    321
+                ],
+                [
+                    530,
+                    321
+                ],
+                [
+                    530,
+                    388
+                ],
+                [
+                    458,
+                    388
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    970,
+                    391
+                ],
+                [
+                    1059,
+                    391
+                ],
+                [
+                    1059,
+                    479
+                ],
+                [
+                    970,
+                    479
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    598,
+                    166
+                ],
+                [
+                    673,
+                    166
+                ],
+                [
+                    673,
+                    233
+                ],
+                [
+                    598,
+                    233
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    186,
+                    169
+                ],
+                [
+                    316,
+                    169
+                ],
+                [
+                    316,
+                    388
+                ],
+                [
+                    186,
+                    388
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    457,
+                    165
+                ],
+                [
+                    531,
+                    165
+                ],
+                [
+                    531,
+                    233
+                ],
+                [
+                    457,
+                    233
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    566,
+                    320
+                ],
+                [
+                    635,
+                    320
+                ],
+                [
+                    635,
+                    390
+                ],
+                [
+                    566,
+                    390
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    350,
+                    321
+                ],
+                [
+                    423,
+                    321
+                ],
+                [
+                    423,
+                    388
+                ],
+                [
+                    350,
+                    388
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    1143,
+                    48
+                ],
+                [
+                    1269,
+                    48
+                ],
+                [
+                    1269,
+                    252
+                ],
+                [
+                    1143,
+                    252
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    713,
+                    439
+                ],
+                [
+                    787,
+                    439
+                ],
+                [
+                    787,
+                    507
+                ],
+                [
+                    713,
+                    507
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    724,
+                    574
+                ],
+                [
+                    867,
+                    574
+                ],
+                [
+                    867,
+                    684
+                ],
+                [
+                    724,
+                    684
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    354,
+                    164
+                ],
+                [
+                    426,
+                    164
+                ],
+                [
+                    426,
+                    233
+                ],
+                [
+                    354,
+                    233
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    807,
+                    437
+                ],
+                [
+                    869,
+                    437
+                ],
+                [
+                    869,
+                    507
+                ],
+                [
+                    807,
+                    507
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_fast-hopping_single-PLL_3-band_MB-OFDM_UWB_synthesizer__10.1109jssc.2006.873922_10.1109_jssc.2006.873922_page_3_img1.jpg",
+    "imageData": null,
+    "imageHeight": 772,
+    "imageWidth": 1527
+}

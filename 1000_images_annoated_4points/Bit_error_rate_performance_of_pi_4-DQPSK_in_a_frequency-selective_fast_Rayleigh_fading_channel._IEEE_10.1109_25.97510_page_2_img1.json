@@ -1,0 +1,242 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    346,
+                    165
+                ],
+                [
+                    557,
+                    165
+                ],
+                [
+                    557,
+                    263
+                ],
+                [
+                    346,
+                    263
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    51,
+                    91
+                ],
+                [
+                    143,
+                    91
+                ],
+                [
+                    143,
+                    179
+                ],
+                [
+                    51,
+                    179
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    244,
+                    185
+                ],
+                [
+                    313,
+                    185
+                ],
+                [
+                    313,
+                    252
+                ],
+                [
+                    244,
+                    252
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    344,
+                    28
+                ],
+                [
+                    528,
+                    28
+                ],
+                [
+                    528,
+                    125
+                ],
+                [
+                    344,
+                    125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    755,
+                    172
+                ],
+                [
+                    847,
+                    172
+                ],
+                [
+                    847,
+                    258
+                ],
+                [
+                    755,
+                    258
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    348,
+                    316
+                ],
+                [
+                    556,
+                    316
+                ],
+                [
+                    556,
+                    416
+                ],
+                [
+                    348,
+                    416
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    49,
+                    313
+                ],
+                [
+                    141,
+                    313
+                ],
+                [
+                    141,
+                    400
+                ],
+                [
+                    49,
+                    400
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    646,
+                    183
+                ],
+                [
+                    704,
+                    183
+                ],
+                [
+                    704,
+                    243
+                ],
+                [
+                    646,
+                    243
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Bit_error_rate_performance_of_pi_4-DQPSK_in_a_frequency-selective_fast_Rayleigh_fading_channel._IEEE_10.1109_25.97510_page_2_img1.jpg",
+    "imageData": null,
+    "imageHeight": 429,
+    "imageWidth": 884
+}

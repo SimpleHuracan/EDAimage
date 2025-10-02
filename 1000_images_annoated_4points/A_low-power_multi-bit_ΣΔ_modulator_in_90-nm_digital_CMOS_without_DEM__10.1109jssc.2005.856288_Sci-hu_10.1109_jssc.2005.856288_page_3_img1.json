@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    287,
+                    97
+                ],
+                [
+                    447,
+                    97
+                ],
+                [
+                    447,
+                    214
+                ],
+                [
+                    287,
+                    214
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    635,
+                    97
+                ],
+                [
+                    795,
+                    97
+                ],
+                [
+                    795,
+                    213
+                ],
+                [
+                    635,
+                    213
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    659,
+                    527
+                ],
+                [
+                    805,
+                    527
+                ],
+                [
+                    805,
+                    617
+                ],
+                [
+                    659,
+                    617
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    912,
+                    138
+                ],
+                [
+                    947,
+                    138
+                ],
+                [
+                    947,
+                    172
+                ],
+                [
+                    912,
+                    172
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    659,
+                    346
+                ],
+                [
+                    806,
+                    346
+                ],
+                [
+                    806,
+                    436
+                ],
+                [
+                    659,
+                    436
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    163,
+                    137
+                ],
+                [
+                    196,
+                    137
+                ],
+                [
+                    196,
+                    172
+                ],
+                [
+                    163,
+                    172
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    523,
+                    138
+                ],
+                [
+                    555,
+                    138
+                ],
+                [
+                    555,
+                    172
+                ],
+                [
+                    523,
+                    172
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_low-power_multi-bit_ΣΔ_modulator_in_90-nm_digital_CMOS_without_DEM__10.1109jssc.2005.856288_Sci-hu_10.1109_jssc.2005.856288_page_3_img1.jpg",
+    "imageData": null,
+    "imageHeight": 699,
+    "imageWidth": 1161
+}

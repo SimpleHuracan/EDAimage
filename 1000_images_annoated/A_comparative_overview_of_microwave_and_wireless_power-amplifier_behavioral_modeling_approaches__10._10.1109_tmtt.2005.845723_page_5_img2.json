@@ -1,0 +1,156 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          896.0,
+          66.0
+        ],
+        [
+          994.0,
+          66.0
+        ],
+        [
+          994.0,
+          165.0
+        ],
+        [
+          896.0,
+          165.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          544.0,
+          242.0
+        ],
+        [
+          642.0,
+          242.0
+        ],
+        [
+          642.0,
+          337.0
+        ],
+        [
+          544.0,
+          337.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          426.0,
+          54.0
+        ],
+        [
+          791.0,
+          54.0
+        ],
+        [
+          791.0,
+          159.0
+        ],
+        [
+          426.0,
+          159.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          141.0,
+          58.0
+        ],
+        [
+          240.0,
+          58.0
+        ],
+        [
+          240.0,
+          156.0
+        ],
+        [
+          141.0,
+          156.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          297.0,
+          79.0
+        ],
+        [
+          362.0,
+          79.0
+        ],
+        [
+          362.0,
+          142.0
+        ],
+        [
+          297.0,
+          142.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "A_comparative_overview_of_microwave_and_wireless_power-amplifier_behavioral_modeling_approaches__10._10.1109_tmtt.2005.845723_page_5_img2.jpg",
+  "imageData": null,
+  "imageHeight": 393,
+  "imageWidth": 1138,
+  "description": ""
+}

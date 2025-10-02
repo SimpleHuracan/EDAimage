@@ -1,0 +1,185 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          153.0,
+          364.0
+        ],
+        [
+          343.0,
+          364.0
+        ],
+        [
+          343.0,
+          727.0
+        ],
+        [
+          153.0,
+          727.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          672.0,
+          840.0
+        ],
+        [
+          1027.0,
+          840.0
+        ],
+        [
+          1027.0,
+          987.0
+        ],
+        [
+          672.0,
+          987.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          173.0,
+          840.0
+        ],
+        [
+          342.0,
+          840.0
+        ],
+        [
+          342.0,
+          971.0
+        ],
+        [
+          173.0,
+          971.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          430.1494252873564,
+          575.0
+        ],
+        [
+          1266.9310344827586,
+          575.0
+        ],
+        [
+          1266.9310344827586,
+          704.2873563218391
+        ],
+        [
+          430.1494252873564,
+          704.2873563218391
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          422.1034482758621,
+          352.56321839080465
+        ],
+        [
+          1265.7816091954023,
+          352.56321839080465
+        ],
+        [
+          1265.7816091954023,
+          489.3448275862069
+        ],
+        [
+          422.1034482758621,
+          489.3448275862069
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          401.41379310344837,
+          45.666666666666686
+        ],
+        [
+          1297.9655172413793,
+          45.666666666666686
+        ],
+        [
+          1297.9655172413793,
+          257.16091954022994
+        ],
+        [
+          401.41379310344837,
+          257.16091954022994
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "Clocking_in_Modern_VLSI_Systems._Integrated_Circuits_and_Systems__10.1007978-1-4419-0261-0_10.1007_978-1-4419-0261-0_page_258_img1.jpg",
+  "imageData": null,
+  "imageHeight": 1058,
+  "imageWidth": 1458,
+  "description": ""
+}

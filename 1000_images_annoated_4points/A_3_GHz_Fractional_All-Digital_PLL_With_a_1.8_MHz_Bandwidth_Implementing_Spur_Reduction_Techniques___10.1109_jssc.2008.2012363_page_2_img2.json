@@ -1,0 +1,155 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    813,
+                    62
+                ],
+                [
+                    921,
+                    62
+                ],
+                [
+                    921,
+                    170
+                ],
+                [
+                    813,
+                    170
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    535,
+                    57
+                ],
+                [
+                    730,
+                    57
+                ],
+                [
+                    730,
+                    174
+                ],
+                [
+                    535,
+                    174
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    256,
+                    63
+                ],
+                [
+                    466,
+                    63
+                ],
+                [
+                    466,
+                    167
+                ],
+                [
+                    256,
+                    167
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    535,
+                    238
+                ],
+                [
+                    730,
+                    238
+                ],
+                [
+                    730,
+                    353
+                ],
+                [
+                    535,
+                    353
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    157,
+                    95
+                ],
+                [
+                    200,
+                    95
+                ],
+                [
+                    200,
+                    136
+                ],
+                [
+                    157,
+                    136
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_3_GHz_Fractional_All-Digital_PLL_With_a_1.8_MHz_Bandwidth_Implementing_Spur_Reduction_Techniques___10.1109_jssc.2008.2012363_page_2_img2.jpg",
+    "imageData": null,
+    "imageHeight": 386,
+    "imageWidth": 1133
+}

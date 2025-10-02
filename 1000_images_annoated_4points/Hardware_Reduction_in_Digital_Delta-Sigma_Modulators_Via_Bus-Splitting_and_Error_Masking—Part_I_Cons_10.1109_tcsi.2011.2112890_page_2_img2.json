@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    631,
+                    58
+                ],
+                [
+                    706,
+                    58
+                ],
+                [
+                    706,
+                    127
+                ],
+                [
+                    631,
+                    127
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    490,
+                    58
+                ],
+                [
+                    566,
+                    58
+                ],
+                [
+                    566,
+                    127
+                ],
+                [
+                    490,
+                    127
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    153,
+                    69
+                ],
+                [
+                    206,
+                    69
+                ],
+                [
+                    206,
+                    122
+                ],
+                [
+                    153,
+                    122
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    238,
+                    209
+                ],
+                [
+                    313,
+                    209
+                ],
+                [
+                    313,
+                    278
+                ],
+                [
+                    238,
+                    278
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    394,
+                    215
+                ],
+                [
+                    447,
+                    215
+                ],
+                [
+                    447,
+                    268
+                ],
+                [
+                    394,
+                    268
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    271,
+                    369
+                ],
+                [
+                    321,
+                    369
+                ],
+                [
+                    321,
+                    421
+                ],
+                [
+                    271,
+                    421
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    353,
+                    504
+                ],
+                [
+                    426,
+                    504
+                ],
+                [
+                    426,
+                    571
+                ],
+                [
+                    353,
+                    571
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Hardware_Reduction_in_Digital_Delta-Sigma_Modulators_Via_Bus-Splitting_and_Error_Masking—Part_I_Cons_10.1109_tcsi.2011.2112890_page_2_img2.jpg",
+    "imageData": null,
+    "imageHeight": 662,
+    "imageWidth": 815
+}

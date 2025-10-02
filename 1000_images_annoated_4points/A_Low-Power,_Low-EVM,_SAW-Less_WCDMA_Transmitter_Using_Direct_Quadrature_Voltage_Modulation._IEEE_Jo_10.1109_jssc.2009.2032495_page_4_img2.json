@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    190,
+                    336
+                ],
+                [
+                    291,
+                    336
+                ],
+                [
+                    291,
+                    428
+                ],
+                [
+                    190,
+                    428
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    477,
+                    183
+                ],
+                [
+                    549,
+                    183
+                ],
+                [
+                    549,
+                    250
+                ],
+                [
+                    477,
+                    250
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    381,
+                    53
+                ],
+                [
+                    452,
+                    53
+                ],
+                [
+                    452,
+                    122
+                ],
+                [
+                    381,
+                    122
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    381,
+                    345
+                ],
+                [
+                    451,
+                    345
+                ],
+                [
+                    451,
+                    412
+                ],
+                [
+                    381,
+                    412
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    638,
+                    170
+                ],
+                [
+                    751,
+                    170
+                ],
+                [
+                    751,
+                    267
+                ],
+                [
+                    638,
+                    267
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    190,
+                    47
+                ],
+                [
+                    291,
+                    47
+                ],
+                [
+                    291,
+                    137
+                ],
+                [
+                    190,
+                    137
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    232,
+                    185
+                ],
+                [
+                    332,
+                    185
+                ],
+                [
+                    332,
+                    281
+                ],
+                [
+                    232,
+                    281
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_Low-Power,_Low-EVM,_SAW-Less_WCDMA_Transmitter_Using_Direct_Quadrature_Voltage_Modulation._IEEE_Jo_10.1109_jssc.2009.2032495_page_4_img2.jpg",
+    "imageData": null,
+    "imageHeight": 537,
+    "imageWidth": 994
+}

@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    137,
+                    44
+                ],
+                [
+                    356,
+                    44
+                ],
+                [
+                    356,
+                    162
+                ],
+                [
+                    137,
+                    162
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    685,
+                    44
+                ],
+                [
+                    896,
+                    44
+                ],
+                [
+                    896,
+                    162
+                ],
+                [
+                    685,
+                    162
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    491,
+                    273
+                ],
+                [
+                    860,
+                    273
+                ],
+                [
+                    860,
+                    335
+                ],
+                [
+                    491,
+                    335
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    955,
+                    225
+                ],
+                [
+                    1163,
+                    225
+                ],
+                [
+                    1163,
+                    343
+                ],
+                [
+                    955,
+                    343
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    416,
+                    44
+                ],
+                [
+                    624,
+                    44
+                ],
+                [
+                    624,
+                    162
+                ],
+                [
+                    416,
+                    162
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    1222,
+                    44
+                ],
+                [
+                    1430,
+                    44
+                ],
+                [
+                    1430,
+                    163
+                ],
+                [
+                    1222,
+                    163
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    954,
+                    32
+                ],
+                [
+                    1165,
+                    32
+                ],
+                [
+                    1165,
+                    182
+                ],
+                [
+                    954,
+                    182
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\[Frontiers_in_Electronic_Testing]_Essentials_of_Electronic_Testing_for_Digital,_Memory_and_Mixed-Sig_10.1007_0-306-47040-3_10_page_63_img1.jpg",
+    "imageData": null,
+    "imageHeight": 367,
+    "imageWidth": 1561
+}

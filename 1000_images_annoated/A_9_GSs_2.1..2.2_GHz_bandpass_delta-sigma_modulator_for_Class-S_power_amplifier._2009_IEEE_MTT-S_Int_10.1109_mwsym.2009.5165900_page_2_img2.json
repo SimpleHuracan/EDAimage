@@ -1,0 +1,330 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          766.0,
+          379.0
+        ],
+        [
+          871.0,
+          379.0
+        ],
+        [
+          871.0,
+          451.0
+        ],
+        [
+          766.0,
+          451.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          903.0,
+          289.0
+        ],
+        [
+          1008.0,
+          289.0
+        ],
+        [
+          1008.0,
+          361.0
+        ],
+        [
+          903.0,
+          361.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          684.0,
+          53.0
+        ],
+        [
+          844.0,
+          53.0
+        ],
+        [
+          844.0,
+          127.0
+        ],
+        [
+          684.0,
+          127.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          307.0,
+          53.0
+        ],
+        [
+          467.0,
+          53.0
+        ],
+        [
+          467.0,
+          127.0
+        ],
+        [
+          307.0,
+          127.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          158.0,
+          52.0
+        ],
+        [
+          236.0,
+          52.0
+        ],
+        [
+          236.0,
+          127.0
+        ],
+        [
+          158.0,
+          127.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          536.0,
+          51.0
+        ],
+        [
+          614.0,
+          51.0
+        ],
+        [
+          614.0,
+          127.0
+        ],
+        [
+          536.0,
+          127.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          907.0,
+          39.0
+        ],
+        [
+          1009.0,
+          39.0
+        ],
+        [
+          1009.0,
+          142.0
+        ],
+        [
+          907.0,
+          142.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          94.0,
+          180.0
+        ],
+        [
+          173.0,
+          180.0
+        ],
+        [
+          173.0,
+          271.0
+        ],
+        [
+          94.0,
+          271.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          219.83333333333337,
+          178.18518518518516
+        ],
+        [
+          299.09259259259267,
+          178.18518518518516
+        ],
+        [
+          299.09259259259267,
+          272.25925925925924
+        ],
+        [
+          219.83333333333337,
+          272.25925925925924
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          471.6851851851852,
+          180.4074074074074
+        ],
+        [
+          550.9444444444445,
+          180.4074074074074
+        ],
+        [
+          550.9444444444445,
+          271.5185185185185
+        ],
+        [
+          471.6851851851852,
+          271.5185185185185
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          596.8703703703704,
+          178.18518518518516
+        ],
+        [
+          674.6481481481482,
+          178.18518518518516
+        ],
+        [
+          674.6481481481482,
+          271.5185185185185
+        ],
+        [
+          596.8703703703704,
+          271.5185185185185
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "A_9_GSs_2.1..2.2_GHz_bandpass_delta-sigma_modulator_for_Class-S_power_amplifier._2009_IEEE_MTT-S_Int_10.1109_mwsym.2009.5165900_page_2_img2.jpg",
+  "imageData": null,
+  "imageHeight": 486,
+  "imageWidth": 1173,
+  "description": ""
+}

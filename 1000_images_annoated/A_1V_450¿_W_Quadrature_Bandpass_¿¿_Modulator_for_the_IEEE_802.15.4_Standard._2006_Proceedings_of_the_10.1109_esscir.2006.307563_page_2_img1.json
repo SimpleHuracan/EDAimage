@@ -1,0 +1,272 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          648.0,
+          203.0
+        ],
+        [
+          742.0,
+          203.0
+        ],
+        [
+          742.0,
+          284.0
+        ],
+        [
+          648.0,
+          284.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          290.0,
+          204.0
+        ],
+        [
+          362.0,
+          204.0
+        ],
+        [
+          362.0,
+          283.0
+        ],
+        [
+          290.0,
+          283.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          186.0,
+          225.0
+        ],
+        [
+          225.0,
+          225.0
+        ],
+        [
+          225.0,
+          262.0
+        ],
+        [
+          186.0,
+          262.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          418.0,
+          224.0
+        ],
+        [
+          456.0,
+          224.0
+        ],
+        [
+          456.0,
+          262.0
+        ],
+        [
+          418.0,
+          262.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          516.0,
+          204.0
+        ],
+        [
+          589.0,
+          204.0
+        ],
+        [
+          589.0,
+          284.0
+        ],
+        [
+          516.0,
+          284.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          157.0,
+          122.0
+        ],
+        [
+          255.0,
+          122.0
+        ],
+        [
+          255.0,
+          182.0
+        ],
+        [
+          157.0,
+          182.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          388.0,
+          122.0
+        ],
+        [
+          485.0,
+          122.0
+        ],
+        [
+          485.0,
+          183.0
+        ],
+        [
+          388.0,
+          183.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          389.0,
+          310.0
+        ],
+        [
+          483.0,
+          310.0
+        ],
+        [
+          483.0,
+          367.0
+        ],
+        [
+          389.0,
+          367.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          158.0,
+          308.0
+        ],
+        [
+          254.0,
+          308.0
+        ],
+        [
+          254.0,
+          368.0
+        ],
+        [
+          158.0,
+          368.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "A_1V_450¿_W_Quadrature_Bandpass_¿¿_Modulator_for_the_IEEE_802.15.4_Standard._2006_Proceedings_of_the_10.1109_esscir.2006.307563_page_2_img1.jpg",
+  "imageData": null,
+  "imageHeight": 448,
+  "imageWidth": 897,
+  "description": ""
+}

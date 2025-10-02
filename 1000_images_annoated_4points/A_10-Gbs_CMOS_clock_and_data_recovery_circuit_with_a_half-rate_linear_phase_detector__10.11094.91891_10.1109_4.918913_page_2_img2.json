@@ -1,0 +1,155 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    794,
+                    165
+                ],
+                [
+                    980,
+                    165
+                ],
+                [
+                    980,
+                    260
+                ],
+                [
+                    794,
+                    260
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    1342,
+                    32
+                ],
+                [
+                    1514,
+                    32
+                ],
+                [
+                    1514,
+                    127
+                ],
+                [
+                    1342,
+                    127
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    336,
+                    164
+                ],
+                [
+                    527,
+                    164
+                ],
+                [
+                    527,
+                    262
+                ],
+                [
+                    336,
+                    262
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    1042,
+                    163
+                ],
+                [
+                    1369,
+                    163
+                ],
+                [
+                    1369,
+                    261
+                ],
+                [
+                    1042,
+                    261
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    582,
+                    164
+                ],
+                [
+                    733,
+                    164
+                ],
+                [
+                    733,
+                    262
+                ],
+                [
+                    582,
+                    262
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_10-Gbs_CMOS_clock_and_data_recovery_circuit_with_a_half-rate_linear_phase_detector__10.11094.91891_10.1109_4.918913_page_2_img2.jpg",
+    "imageData": null,
+    "imageHeight": 347,
+    "imageWidth": 1794
+}

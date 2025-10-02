@@ -1,0 +1,185 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    239.0,
+                    45.0
+                ],
+                [
+                    387.0,
+                    45.0
+                ],
+                [
+                    387.0,
+                    275.0
+                ],
+                [
+                    239.0,
+                    275.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    926.0,
+                    42.0
+                ],
+                [
+                    1186.0,
+                    42.0
+                ],
+                [
+                    1186.0,
+                    102.0
+                ],
+                [
+                    926.0,
+                    102.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    492.0,
+                    42.0
+                ],
+                [
+                    875.8846153846154,
+                    42.0
+                ],
+                [
+                    875.8846153846154,
+                    93.75
+                ],
+                [
+                    492.0,
+                    93.75
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    930.0,
+                    220.0
+                ],
+                [
+                    1185.0,
+                    220.0
+                ],
+                [
+                    1185.0,
+                    279.0
+                ],
+                [
+                    930.0,
+                    279.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    1259.0,
+                    133.0
+                ],
+                [
+                    1320.0,
+                    133.0
+                ],
+                [
+                    1320.0,
+                    192.0
+                ],
+                [
+                    1259.0,
+                    192.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    834.0,
+                    132.0
+                ],
+                [
+                    1177.0,
+                    132.0
+                ],
+                [
+                    1177.0,
+                    188.0
+                ],
+                [
+                    834.0,
+                    188.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        }
+    ],
+    "imagePath": "Design_Techniques_for_Mash_Continuous-Time_Delta-Sigma_Modulators____10.1007978-3-319-77225-7_Sci-hu_10.1007_978-3-319-77225-7_page_176_img2.jpg",
+    "imageData": null,
+    "imageHeight": 300,
+    "imageWidth": 1521,
+    "description": ""
+}

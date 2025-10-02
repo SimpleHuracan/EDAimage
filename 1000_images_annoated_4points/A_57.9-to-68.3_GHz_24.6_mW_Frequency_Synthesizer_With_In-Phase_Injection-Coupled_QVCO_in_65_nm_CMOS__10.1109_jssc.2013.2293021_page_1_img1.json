@@ -1,0 +1,214 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    907.0,
+                    86.0
+                ],
+                [
+                    986.0,
+                    86.0
+                ],
+                [
+                    986.0,
+                    168.0
+                ],
+                [
+                    907.0,
+                    168.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    426.0,
+                    85.0
+                ],
+                [
+                    581.0,
+                    85.0
+                ],
+                [
+                    581.0,
+                    170.0
+                ],
+                [
+                    426.0,
+                    170.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    146.0,
+                    292.0
+                ],
+                [
+                    271.0,
+                    292.0
+                ],
+                [
+                    271.0,
+                    376.0
+                ],
+                [
+                    146.0,
+                    376.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    640.0,
+                    291.0
+                ],
+                [
+                    750.0,
+                    291.0
+                ],
+                [
+                    750.0,
+                    376.0
+                ],
+                [
+                    640.0,
+                    376.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    356.0,
+                    291.0
+                ],
+                [
+                    465.0,
+                    291.0
+                ],
+                [
+                    465.0,
+                    376.0
+                ],
+                [
+                    356.0,
+                    376.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    218.0,
+                    84.0
+                ],
+                [
+                    328.0,
+                    84.0
+                ],
+                [
+                    328.0,
+                    170.0
+                ],
+                [
+                    218.0,
+                    170.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    721.0,
+                    92.0
+                ],
+                [
+                    793.0,
+                    92.0
+                ],
+                [
+                    793.0,
+                    164.0
+                ],
+                [
+                    721.0,
+                    164.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        }
+    ],
+    "imagePath": "A_57.9-to-68.3_GHz_24.6_mW_Frequency_Synthesizer_With_In-Phase_Injection-Coupled_QVCO_in_65_nm_CMOS__10.1109_jssc.2013.2293021_page_1_img1.jpg",
+    "imageData": null,
+    "imageHeight": 390,
+    "imageWidth": 1141,
+    "description": ""
+}

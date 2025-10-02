@@ -1,0 +1,272 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          841.0,
+          107.0
+        ],
+        [
+          905.0,
+          107.0
+        ],
+        [
+          905.0,
+          170.0
+        ],
+        [
+          841.0,
+          170.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          666.0,
+          110.0
+        ],
+        [
+          725.0,
+          110.0
+        ],
+        [
+          725.0,
+          169.0
+        ],
+        [
+          666.0,
+          169.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          958.0,
+          107.0
+        ],
+        [
+          1022.0,
+          107.0
+        ],
+        [
+          1022.0,
+          170.0
+        ],
+        [
+          958.0,
+          170.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          546.0,
+          107.0
+        ],
+        [
+          610.0,
+          107.0
+        ],
+        [
+          610.0,
+          171.0
+        ],
+        [
+          546.0,
+          171.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          253.0,
+          108.0
+        ],
+        [
+          316.0,
+          108.0
+        ],
+        [
+          316.0,
+          170.0
+        ],
+        [
+          253.0,
+          170.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          373.0,
+          110.0
+        ],
+        [
+          431.0,
+          110.0
+        ],
+        [
+          431.0,
+          169.0
+        ],
+        [
+          373.0,
+          169.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          538.0,
+          200.0
+        ],
+        [
+          618.0,
+          200.0
+        ],
+        [
+          618.0,
+          287.0
+        ],
+        [
+          538.0,
+          287.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          833.0,
+          201.0
+        ],
+        [
+          913.0,
+          201.0
+        ],
+        [
+          913.0,
+          287.0
+        ],
+        [
+          833.0,
+          287.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          244.0,
+          203.0
+        ],
+        [
+          325.0,
+          203.0
+        ],
+        [
+          325.0,
+          287.0
+        ],
+        [
+          244.0,
+          287.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Analog-Digital_Converters_for_Industrial_Applications_Including_an_Introduction_to_Digital-Analog_Co_10.1007_978-3-662-47020-6_page_262_img1.jpg",
+  "imageData": null,
+  "imageHeight": 418,
+  "imageWidth": 1371,
+  "description": ""
+}

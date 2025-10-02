@@ -1,0 +1,271 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    299,
+                    59
+                ],
+                [
+                    453,
+                    59
+                ],
+                [
+                    453,
+                    208
+                ],
+                [
+                    299,
+                    208
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    924,
+                    63
+                ],
+                [
+                    1075,
+                    63
+                ],
+                [
+                    1075,
+                    212
+                ],
+                [
+                    924,
+                    212
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    191,
+                    106
+                ],
+                [
+                    250,
+                    106
+                ],
+                [
+                    250,
+                    167
+                ],
+                [
+                    191,
+                    167
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    769,
+                    419
+                ],
+                [
+                    897,
+                    419
+                ],
+                [
+                    897,
+                    499
+                ],
+                [
+                    769,
+                    499
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    607,
+                    58
+                ],
+                [
+                    763,
+                    58
+                ],
+                [
+                    763,
+                    205
+                ],
+                [
+                    607,
+                    205
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    815,
+                    172
+                ],
+                [
+                    859,
+                    172
+                ],
+                [
+                    859,
+                    221
+                ],
+                [
+                    815,
+                    221
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    805,
+                    308
+                ],
+                [
+                    867,
+                    308
+                ],
+                [
+                    867,
+                    366
+                ],
+                [
+                    805,
+                    366
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    1118,
+                    172
+                ],
+                [
+                    1164,
+                    172
+                ],
+                [
+                    1164,
+                    218
+                ],
+                [
+                    1118,
+                    218
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    502,
+                    173
+                ],
+                [
+                    548,
+                    173
+                ],
+                [
+                    548,
+                    219
+                ],
+                [
+                    502,
+                    219
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\[The_International_Series_in_Engineering_and_Computer_Science]_CMOS_PLL_Synthesizers_Analysis_and_De_10.1007_b102174_page_97_img1.jpg",
+    "imageData": null,
+    "imageHeight": 566,
+    "imageWidth": 1341
+}

@@ -1,0 +1,185 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          304.0,
+          67.0
+        ],
+        [
+          410.0,
+          67.0
+        ],
+        [
+          410.0,
+          173.0
+        ],
+        [
+          304.0,
+          173.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          153.0,
+          92.0
+        ],
+        [
+          198.0,
+          92.0
+        ],
+        [
+          198.0,
+          137.0
+        ],
+        [
+          153.0,
+          137.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          463.0,
+          66.0
+        ],
+        [
+          525.0,
+          66.0
+        ],
+        [
+          525.0,
+          172.0
+        ],
+        [
+          463.0,
+          172.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          920.0,
+          97.0
+        ],
+        [
+          962.0,
+          97.0
+        ],
+        [
+          962.0,
+          142.0
+        ],
+        [
+          920.0,
+          142.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          664.0,
+          66.0
+        ],
+        [
+          860.5863309352518,
+          66.0
+        ],
+        [
+          860.5863309352518,
+          118.17985611510787
+        ],
+        [
+          664.0,
+          118.17985611510787
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          662.0251798561151,
+          119.6187050359712
+        ],
+        [
+          862.0251798561151,
+          119.6187050359712
+        ],
+        [
+          862.0251798561151,
+          170.6978417266187
+        ],
+        [
+          662.0251798561151,
+          170.6978417266187
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "A_quad_0.6-3.2_Gbschannel_interference-free_CMOS_transceiver_for_backplane_serial_link__10.1109jssc._10.1109_jssc.2004.826311_page_3_img2.jpg",
+  "imageData": null,
+  "imageHeight": 286,
+  "imageWidth": 1137,
+  "description": ""
+}

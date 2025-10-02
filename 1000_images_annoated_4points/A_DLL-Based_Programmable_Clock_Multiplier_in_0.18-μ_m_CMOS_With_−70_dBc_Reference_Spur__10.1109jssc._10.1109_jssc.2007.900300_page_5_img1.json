@@ -1,0 +1,271 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    552,
+                    240
+                ],
+                [
+                    630,
+                    240
+                ],
+                [
+                    630,
+                    313
+                ],
+                [
+                    552,
+                    313
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    100,
+                    146
+                ],
+                [
+                    141,
+                    146
+                ],
+                [
+                    141,
+                    187
+                ],
+                [
+                    100,
+                    187
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    694,
+                    148
+                ],
+                [
+                    737,
+                    148
+                ],
+                [
+                    737,
+                    188
+                ],
+                [
+                    694,
+                    188
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    797,
+                    132
+                ],
+                [
+                    923,
+                    132
+                ],
+                [
+                    923,
+                    207
+                ],
+                [
+                    797,
+                    207
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    178,
+                    135
+                ],
+                [
+                    256,
+                    135
+                ],
+                [
+                    256,
+                    206
+                ],
+                [
+                    178,
+                    206
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    516,
+                    134
+                ],
+                [
+                    640,
+                    134
+                ],
+                [
+                    640,
+                    208
+                ],
+                [
+                    516,
+                    208
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    650,
+                    19
+                ],
+                [
+                    776,
+                    19
+                ],
+                [
+                    776,
+                    94
+                ],
+                [
+                    650,
+                    94
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    317,
+                    134
+                ],
+                [
+                    442,
+                    134
+                ],
+                [
+                    442,
+                    208
+                ],
+                [
+                    317,
+                    208
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    981,
+                    148
+                ],
+                [
+                    1022,
+                    148
+                ],
+                [
+                    1022,
+                    187
+                ],
+                [
+                    981,
+                    187
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_DLL-Based_Programmable_Clock_Multiplier_in_0.18-μ_m_CMOS_With_−70_dBc_Reference_Spur__10.1109jssc._10.1109_jssc.2007.900300_page_5_img1.jpg",
+    "imageData": null,
+    "imageHeight": 321,
+    "imageWidth": 1122
+}

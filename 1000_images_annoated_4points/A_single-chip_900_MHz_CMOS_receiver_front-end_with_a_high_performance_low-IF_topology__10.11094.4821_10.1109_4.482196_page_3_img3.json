@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    394,
+                    590
+                ],
+                [
+                    496,
+                    590
+                ],
+                [
+                    496,
+                    695
+                ],
+                [
+                    394,
+                    695
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    394,
+                    421
+                ],
+                [
+                    496,
+                    421
+                ],
+                [
+                    496,
+                    529
+                ],
+                [
+                    394,
+                    529
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    394,
+                    85
+                ],
+                [
+                    496,
+                    85
+                ],
+                [
+                    496,
+                    190
+                ],
+                [
+                    394,
+                    190
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    393,
+                    252
+                ],
+                [
+                    496,
+                    252
+                ],
+                [
+                    496,
+                    358
+                ],
+                [
+                    393,
+                    358
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    722,
+                    103
+                ],
+                [
+                    791,
+                    103
+                ],
+                [
+                    791,
+                    171
+                ],
+                [
+                    722,
+                    171
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    721,
+                    606
+                ],
+                [
+                    791,
+                    606
+                ],
+                [
+                    791,
+                    674
+                ],
+                [
+                    721,
+                    674
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_single-chip_900_MHz_CMOS_receiver_front-end_with_a_high_performance_low-IF_topology__10.11094.4821_10.1109_4.482196_page_3_img3.jpg",
+    "imageData": null,
+    "imageHeight": 829,
+    "imageWidth": 1045
+}

@@ -1,0 +1,214 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    239.0,
+                    62.0
+                ],
+                [
+                    449.0,
+                    62.0
+                ],
+                [
+                    449.0,
+                    188.0
+                ],
+                [
+                    239.0,
+                    188.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    488.0,
+                    223.0
+                ],
+                [
+                    679.0,
+                    223.0
+                ],
+                [
+                    679.0,
+                    324.0
+                ],
+                [
+                    488.0,
+                    324.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    243.0,
+                    226.0
+                ],
+                [
+                    447.0,
+                    226.0
+                ],
+                [
+                    447.0,
+                    325.0
+                ],
+                [
+                    243.0,
+                    325.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    951.0,
+                    238.0
+                ],
+                [
+                    1070.0,
+                    238.0
+                ],
+                [
+                    1070.0,
+                    360.0
+                ],
+                [
+                    951.0,
+                    360.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    986.0,
+                    99.0
+                ],
+                [
+                    1036.0,
+                    99.0
+                ],
+                [
+                    1036.0,
+                    152.0
+                ],
+                [
+                    986.0,
+                    152.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "label": "pentagon",
+            "score": null,
+            "points": [
+                [
+                    740.5,
+                    75.91935483870967
+                ],
+                [
+                    867.1129032258065,
+                    75.91935483870967
+                ],
+                [
+                    867.1129032258065,
+                    175.11290322580646
+                ],
+                [
+                    740.5,
+                    175.11290322580646
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "pentagon",
+            "score": null,
+            "points": [
+                [
+                    742.1129032258065,
+                    225.9193548387097
+                ],
+                [
+                    868.7258064516129,
+                    225.9193548387097
+                ],
+                [
+                    868.7258064516129,
+                    324.30645161290323
+                ],
+                [
+                    742.1129032258065,
+                    324.30645161290323
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "A_TDC-Less_7_mW_2.5_Gbs_Digital_CDR_With_Linear_Loop_Dynamics_and_Offset-Free_Data_Recovery._IEEE_Jo_10.1109_jssc.2011.2168873_page_5_img1.jpg",
+    "imageData": null,
+    "imageHeight": 472,
+    "imageWidth": 1281,
+    "description": ""
+}

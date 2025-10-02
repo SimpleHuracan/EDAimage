@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    179,
+                    126
+                ],
+                [
+                    305,
+                    126
+                ],
+                [
+                    305,
+                    213
+                ],
+                [
+                    179,
+                    213
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    831,
+                    131
+                ],
+                [
+                    957,
+                    131
+                ],
+                [
+                    957,
+                    218
+                ],
+                [
+                    831,
+                    218
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    654,
+                    309
+                ],
+                [
+                    828,
+                    309
+                ],
+                [
+                    828,
+                    416
+                ],
+                [
+                    654,
+                    416
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    298,
+                    318
+                ],
+                [
+                    415,
+                    318
+                ],
+                [
+                    415,
+                    402
+                ],
+                [
+                    298,
+                    402
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    476,
+                    319
+                ],
+                [
+                    588,
+                    319
+                ],
+                [
+                    588,
+                    404
+                ],
+                [
+                    476,
+                    404
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    828,
+                    514
+                ],
+                [
+                    954,
+                    514
+                ],
+                [
+                    954,
+                    599
+                ],
+                [
+                    828,
+                    599
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    176,
+                    508
+                ],
+                [
+                    301,
+                    508
+                ],
+                [
+                    301,
+                    595
+                ],
+                [
+                    176,
+                    595
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_Communication_Technique_for_Multipath_Channels._Proceedings_of_the_IRE,_46(3),_555–570__10.1109jrp_10.1109_jrproc.1958.286870_page_4_img1.jpg",
+    "imageData": null,
+    "imageHeight": 713,
+    "imageWidth": 1123
+}

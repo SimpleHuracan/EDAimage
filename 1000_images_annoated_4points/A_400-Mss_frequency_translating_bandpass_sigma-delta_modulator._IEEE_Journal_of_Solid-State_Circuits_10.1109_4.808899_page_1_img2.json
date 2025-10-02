@@ -1,0 +1,185 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    157.0,
+                    49.0
+                ],
+                [
+                    249.0,
+                    49.0
+                ],
+                [
+                    249.0,
+                    138.0
+                ],
+                [
+                    157.0,
+                    138.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    416.0,
+                    36.0
+                ],
+                [
+                    609.0,
+                    36.0
+                ],
+                [
+                    609.0,
+                    159.0
+                ],
+                [
+                    416.0,
+                    159.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    673.0,
+                    163.0
+                ],
+                [
+                    820.0,
+                    163.0
+                ],
+                [
+                    820.0,
+                    270.0
+                ],
+                [
+                    673.0,
+                    270.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    296.0,
+                    71.0
+                ],
+                [
+                    350.0,
+                    71.0
+                ],
+                [
+                    350.0,
+                    120.0
+                ],
+                [
+                    296.0,
+                    120.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    727.0,
+                    35.0
+                ],
+                [
+                    882.0,
+                    35.0
+                ],
+                [
+                    882.0,
+                    141.0
+                ],
+                [
+                    727.0,
+                    141.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    727.0,
+                    35.0
+                ],
+                [
+                    800.0,
+                    35.0
+                ],
+                [
+                    800.0,
+                    141.0
+                ],
+                [
+                    727.0,
+                    141.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        }
+    ],
+    "imagePath": "A_400-Mss_frequency_translating_bandpass_sigma-delta_modulator._IEEE_Journal_of_Solid-State_Circuits_10.1109_4.808899_page_1_img2.jpg",
+    "imageData": null,
+    "imageHeight": 315,
+    "imageWidth": 1134,
+    "description": ""
+}

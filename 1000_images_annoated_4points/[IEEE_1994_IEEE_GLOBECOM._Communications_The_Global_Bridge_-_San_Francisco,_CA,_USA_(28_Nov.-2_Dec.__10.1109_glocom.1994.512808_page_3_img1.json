@@ -1,0 +1,155 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    369,
+                    130
+                ],
+                [
+                    407,
+                    130
+                ],
+                [
+                    407,
+                    170
+                ],
+                [
+                    369,
+                    170
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    259,
+                    129
+                ],
+                [
+                    298,
+                    129
+                ],
+                [
+                    298,
+                    170
+                ],
+                [
+                    259,
+                    170
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    307,
+                    240
+                ],
+                [
+                    346,
+                    240
+                ],
+                [
+                    346,
+                    278
+                ],
+                [
+                    307,
+                    278
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    478,
+                    76
+                ],
+                [
+                    516,
+                    76
+                ],
+                [
+                    516,
+                    116
+                ],
+                [
+                    478,
+                    116
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    585,
+                    76
+                ],
+                [
+                    623,
+                    76
+                ],
+                [
+                    623,
+                    117
+                ],
+                [
+                    585,
+                    117
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\[IEEE_1994_IEEE_GLOBECOM._Communications_The_Global_Bridge_-_San_Francisco,_CA,_USA_(28_Nov.-2_Dec.__10.1109_glocom.1994.512808_page_3_img1.jpg",
+    "imageData": null,
+    "imageHeight": 380,
+    "imageWidth": 773
+}

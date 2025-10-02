@@ -1,0 +1,243 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          133.0,
+          154.0
+        ],
+        [
+          271.0,
+          154.0
+        ],
+        [
+          271.0,
+          221.0
+        ],
+        [
+          133.0,
+          221.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          662.0,
+          54.0
+        ],
+        [
+          764.0,
+          54.0
+        ],
+        [
+          764.0,
+          114.0
+        ],
+        [
+          662.0,
+          114.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          409.0,
+          220.0
+        ],
+        [
+          462.0,
+          220.0
+        ],
+        [
+          462.0,
+          271.0
+        ],
+        [
+          409.0,
+          271.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          661.0,
+          174.0
+        ],
+        [
+          763.0,
+          174.0
+        ],
+        [
+          763.0,
+          272.0
+        ],
+        [
+          661.0,
+          272.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          489.0,
+          103.0
+        ],
+        [
+          591.0,
+          103.0
+        ],
+        [
+          591.0,
+          201.0
+        ],
+        [
+          489.0,
+          201.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          450.0,
+          140.0
+        ],
+        [
+          481.0,
+          140.0
+        ],
+        [
+          481.0,
+          171.0
+        ],
+        [
+          450.0,
+          171.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          317.0,
+          149.0
+        ],
+        [
+          390.0,
+          149.0
+        ],
+        [
+          390.0,
+          199.0
+        ],
+        [
+          317.0,
+          199.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          318.1463414634147,
+          222.0121951219512
+        ],
+        [
+          388.26829268292687,
+          222.0121951219512
+        ],
+        [
+          388.26829268292687,
+          269.5731707317073
+        ],
+        [
+          318.1463414634147,
+          269.5731707317073
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "[IEEE_2007_Topical_Meeting_on_Silicon_Monolithic_Integrated_Circuits_in_RF_Systems_-_Long_Beach,_CA,_10.1109_smic.2007.322812_page_2_img1.jpg",
+  "imageData": null,
+  "imageHeight": 305,
+  "imageWidth": 968,
+  "description": ""
+}

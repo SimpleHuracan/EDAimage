@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    427,
+                    236
+                ],
+                [
+                    716,
+                    236
+                ],
+                [
+                    716,
+                    332
+                ],
+                [
+                    427,
+                    332
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    58,
+                    236
+                ],
+                [
+                    350,
+                    236
+                ],
+                [
+                    350,
+                    333
+                ],
+                [
+                    58,
+                    333
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    794,
+                    64
+                ],
+                [
+                    1085,
+                    64
+                ],
+                [
+                    1085,
+                    159
+                ],
+                [
+                    794,
+                    159
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    428,
+                    64
+                ],
+                [
+                    716,
+                    64
+                ],
+                [
+                    716,
+                    159
+                ],
+                [
+                    428,
+                    159
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    58,
+                    64
+                ],
+                [
+                    350,
+                    64
+                ],
+                [
+                    350,
+                    159
+                ],
+                [
+                    58,
+                    159
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    427,
+                    408
+                ],
+                [
+                    715,
+                    408
+                ],
+                [
+                    715,
+                    504
+                ],
+                [
+                    427,
+                    504
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\DVB-H_and_IP_Datacast—Broadcast_to_Handheld_Devices__10.1109tbc.2006.889210_10.1109_tbc.2006.889210_page_8_img2.jpg",
+    "imageData": null,
+    "imageHeight": 526,
+    "imageWidth": 1128
+}

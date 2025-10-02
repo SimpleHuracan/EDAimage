@@ -1,0 +1,330 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1066.0,
+          756.0
+        ],
+        [
+          1178.0,
+          756.0
+        ],
+        [
+          1178.0,
+          899.0
+        ],
+        [
+          1066.0,
+          899.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1066.0,
+          340.0
+        ],
+        [
+          1180.0,
+          340.0
+        ],
+        [
+          1180.0,
+          481.0
+        ],
+        [
+          1066.0,
+          481.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1066.0,
+          552.0
+        ],
+        [
+          1180.0,
+          552.0
+        ],
+        [
+          1180.0,
+          692.0
+        ],
+        [
+          1066.0,
+          692.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1222.0,
+          760.0
+        ],
+        [
+          1424.0,
+          760.0
+        ],
+        [
+          1424.0,
+          899.0
+        ],
+        [
+          1222.0,
+          899.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1222.0,
+          551.0
+        ],
+        [
+          1424.0,
+          551.0
+        ],
+        [
+          1424.0,
+          690.0
+        ],
+        [
+          1222.0,
+          690.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1067.0,
+          130.0
+        ],
+        [
+          1180.0,
+          130.0
+        ],
+        [
+          1180.0,
+          275.0
+        ],
+        [
+          1067.0,
+          275.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1222.0,
+          342.0
+        ],
+        [
+          1423.0,
+          342.0
+        ],
+        [
+          1423.0,
+          484.0
+        ],
+        [
+          1222.0,
+          484.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1223.0,
+          134.0
+        ],
+        [
+          1424.0,
+          134.0
+        ],
+        [
+          1424.0,
+          274.0
+        ],
+        [
+          1223.0,
+          274.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1517.0,
+          118.5925925925926
+        ],
+        [
+          1581.438271604938,
+          118.5925925925926
+        ],
+        [
+          1581.438271604938,
+          889.0
+        ],
+        [
+          1517.0,
+          889.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          453.0432098765432,
+          459.3333333333333
+        ],
+        [
+          503.66049382716045,
+          459.3333333333333
+        ],
+        [
+          503.66049382716045,
+          596.3703703703703
+        ],
+        [
+          453.0432098765432,
+          596.3703703703703
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          536.9938271604939,
+          439.5802469135802
+        ],
+        [
+          593.783950617284,
+          439.5802469135802
+        ],
+        [
+          593.783950617284,
+          595.1358024691357
+        ],
+        [
+          536.9938271604939,
+          595.1358024691357
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "An_800-MHz_quadrature_digital_synthesizer_with_ECL-compatible_output_drivers_in_0.8_μm_CMOS__10.1109_10.1109_4.482194_page_2_img1.jpg",
+  "imageData": null,
+  "imageHeight": 952,
+  "imageWidth": 1953,
+  "description": ""
+}

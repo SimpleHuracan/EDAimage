@@ -1,0 +1,185 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          318.0,
+          127.0
+        ],
+        [
+          404.0,
+          127.0
+        ],
+        [
+          404.0,
+          196.0
+        ],
+        [
+          318.0,
+          196.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          898.0,
+          128.0
+        ],
+        [
+          988.0,
+          128.0
+        ],
+        [
+          988.0,
+          199.0
+        ],
+        [
+          898.0,
+          199.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          736.0,
+          129.0
+        ],
+        [
+          825.0,
+          129.0
+        ],
+        [
+          825.0,
+          200.0
+        ],
+        [
+          736.0,
+          200.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          159.0,
+          124.0
+        ],
+        [
+          249.0,
+          124.0
+        ],
+        [
+          249.0,
+          196.0
+        ],
+        [
+          159.0,
+          196.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          546.0,
+          127.0
+        ],
+        [
+          665.0,
+          127.0
+        ],
+        [
+          665.0,
+          198.0
+        ],
+        [
+          546.0,
+          198.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          545.0,
+          255.0
+        ],
+        [
+          665.0,
+          255.0
+        ],
+        [
+          665.0,
+          325.0
+        ],
+        [
+          545.0,
+          325.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Analysis_and_minimization_of_substrate_spurs_in_fractional-N_frequency_synthesizers__10.1007s10470-0_10.1007_s10470-012-0002-x_page_9_img1.jpg",
+  "imageData": null,
+  "imageHeight": 390,
+  "imageWidth": 1129,
+  "description": ""
+}

@@ -1,0 +1,156 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "pentagon",
+            "score": null,
+            "points": [
+                [
+                    543.0,
+                    163.0
+                ],
+                [
+                    781.0,
+                    163.0
+                ],
+                [
+                    781.0,
+                    348.0
+                ],
+                [
+                    543.0,
+                    348.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "pentagon",
+            "score": null,
+            "points": [
+                [
+                    862.0,
+                    167.0
+                ],
+                [
+                    1098.0,
+                    167.0
+                ],
+                [
+                    1098.0,
+                    350.0
+                ],
+                [
+                    862.0,
+                    350.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "pentagon",
+            "score": null,
+            "points": [
+                [
+                    223.0,
+                    163.0
+                ],
+                [
+                    463.0,
+                    163.0
+                ],
+                [
+                    463.0,
+                    348.0
+                ],
+                [
+                    223.0,
+                    348.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    225.11764705882356,
+                    437.0
+                ],
+                [
+                    1086.0,
+                    437.0
+                ],
+                [
+                    1086.0,
+                    507.01470588235287
+                ],
+                [
+                    225.11764705882356,
+                    507.01470588235287
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    223.0,
+                    43.0
+                ],
+                [
+                    1098.6470588235293,
+                    43.0
+                ],
+                [
+                    1098.6470588235293,
+                    111.4264705882353
+                ],
+                [
+                    223.0,
+                    111.4264705882353
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        }
+    ],
+    "imagePath": "A_10-bit_50_MSs_Pipelined_ADC_With_Capacitor-Sharing_and_Variable-_Opamp__10.1109jssc.2009.2013761_10.1109_jssc.2009.2013761_page_2_img3.jpg",
+    "imageData": null,
+    "imageHeight": 628,
+    "imageWidth": 1162,
+    "description": ""
+}

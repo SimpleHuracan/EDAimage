@@ -1,0 +1,242 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    608,
+                    295
+                ],
+                [
+                    696,
+                    295
+                ],
+                [
+                    696,
+                    362
+                ],
+                [
+                    608,
+                    362
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    320,
+                    381
+                ],
+                [
+                    454,
+                    381
+                ],
+                [
+                    454,
+                    444
+                ],
+                [
+                    320,
+                    444
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    189,
+                    221
+                ],
+                [
+                    255,
+                    221
+                ],
+                [
+                    255,
+                    266
+                ],
+                [
+                    189,
+                    266
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    348,
+                    14
+                ],
+                [
+                    447,
+                    14
+                ],
+                [
+                    447,
+                    80
+                ],
+                [
+                    348,
+                    80
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    190,
+                    384
+                ],
+                [
+                    255,
+                    384
+                ],
+                [
+                    255,
+                    430
+                ],
+                [
+                    190,
+                    430
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    500,
+                    308
+                ],
+                [
+                    535,
+                    308
+                ],
+                [
+                    535,
+                    341
+                ],
+                [
+                    500,
+                    341
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    512,
+                    14
+                ],
+                [
+                    611,
+                    14
+                ],
+                [
+                    611,
+                    79
+                ],
+                [
+                    512,
+                    79
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    184,
+                    14
+                ],
+                [
+                    283,
+                    14
+                ],
+                [
+                    283,
+                    79
+                ],
+                [
+                    184,
+                    79
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\[IEEE_IEEE_International_Conference_on_Communications,_World_Prosperity_Through_Communications_-_Bos_10.1109_icc.1989.49923_page_1_img3.jpg",
+    "imageData": null,
+    "imageHeight": 444,
+    "imageWidth": 796
+}

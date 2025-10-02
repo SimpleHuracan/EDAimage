@@ -1,0 +1,243 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          694.0,
+          326.0
+        ],
+        [
+          761.0,
+          326.0
+        ],
+        [
+          761.0,
+          462.0
+        ],
+        [
+          694.0,
+          462.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          237.0,
+          141.0
+        ],
+        [
+          307.0,
+          141.0
+        ],
+        [
+          307.0,
+          245.0
+        ],
+        [
+          237.0,
+          245.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          828.0,
+          327.0
+        ],
+        [
+          930.0,
+          327.0
+        ],
+        [
+          930.0,
+          463.0
+        ],
+        [
+          828.0,
+          463.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          370.0,
+          142.0
+        ],
+        [
+          409.0,
+          142.0
+        ],
+        [
+          409.0,
+          176.0
+        ],
+        [
+          370.0,
+          176.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          996.0,
+          157.0
+        ],
+        [
+          1064.0,
+          157.0
+        ],
+        [
+          1064.0,
+          227.0
+        ],
+        [
+          996.0,
+          227.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          473.0,
+          124.0
+        ],
+        [
+          593.0,
+          124.0
+        ],
+        [
+          593.0,
+          261.0
+        ],
+        [
+          473.0,
+          261.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          795.0,
+          122.0
+        ],
+        [
+          897.0,
+          122.0
+        ],
+        [
+          897.0,
+          260.0
+        ],
+        [
+          795.0,
+          260.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          560.0,
+          328.0
+        ],
+        [
+          661.0,
+          328.0
+        ],
+        [
+          661.0,
+          464.0
+        ],
+        [
+          560.0,
+          464.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "CALIBRATION_TECHNIQUES_IN_NYQUIST_AD_CONVERTERS_10-1007_1-4020-4635-9_page_108_img1.jpg",
+  "imageData": null,
+  "imageHeight": 507,
+  "imageWidth": 1416,
+  "description": ""
+}

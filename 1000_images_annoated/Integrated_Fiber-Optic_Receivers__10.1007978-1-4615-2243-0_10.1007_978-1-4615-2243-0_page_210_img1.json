@@ -1,0 +1,185 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          557.0,
+          142.0
+        ],
+        [
+          649.0,
+          142.0
+        ],
+        [
+          649.0,
+          247.0
+        ],
+        [
+          557.0,
+          247.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          710.0,
+          144.0
+        ],
+        [
+          804.0,
+          144.0
+        ],
+        [
+          804.0,
+          247.0
+        ],
+        [
+          710.0,
+          247.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          374.0,
+          141.0
+        ],
+        [
+          475.0,
+          141.0
+        ],
+        [
+          475.0,
+          247.0
+        ],
+        [
+          374.0,
+          247.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          865.0,
+          144.0
+        ],
+        [
+          957.0,
+          144.0
+        ],
+        [
+          957.0,
+          247.0
+        ],
+        [
+          865.0,
+          247.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1189.0,
+          39.0
+        ],
+        [
+          1311.0,
+          39.0
+        ],
+        [
+          1311.0,
+          139.0
+        ],
+        [
+          1189.0,
+          139.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1080.0,
+          174.0
+        ],
+        [
+          1190.0,
+          174.0
+        ],
+        [
+          1190.0,
+          226.0
+        ],
+        [
+          1080.0,
+          226.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Integrated_Fiber-Optic_Receivers__10.1007978-1-4615-2243-0_10.1007_978-1-4615-2243-0_page_210_img1.jpg",
+  "imageData": null,
+  "imageHeight": 421,
+  "imageWidth": 1676,
+  "description": ""
+}

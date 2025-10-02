@@ -1,0 +1,156 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          660.0,
+          233.0
+        ],
+        [
+          741.0,
+          233.0
+        ],
+        [
+          741.0,
+          313.0
+        ],
+        [
+          660.0,
+          313.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          823.0,
+          467.0
+        ],
+        [
+          946.0,
+          467.0
+        ],
+        [
+          946.0,
+          530.0
+        ],
+        [
+          823.0,
+          530.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          905.0,
+          232.0
+        ],
+        [
+          988.0,
+          232.0
+        ],
+        [
+          988.0,
+          313.0
+        ],
+        [
+          905.0,
+          313.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          392.0,
+          180.0
+        ],
+        [
+          579.0,
+          180.0
+        ],
+        [
+          579.0,
+          367.0
+        ],
+        [
+          392.0,
+          367.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          356.58620689655174,
+          435.00000000000006
+        ],
+        [
+          701.5862068965519,
+          435.00000000000006
+        ],
+        [
+          701.5862068965519,
+          562.0000000000001
+        ],
+        [
+          356.58620689655174,
+          562.0000000000001
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Design_of_Continuous-Time_Delta-Sigma_Modulators._Design_Techniques_for_Mash_Continuous-Time_Delta-S_10.1007_978-3-319-77225-7_4_page_13_img1.jpg",
+  "imageData": null,
+  "imageHeight": 670,
+  "imageWidth": 1364,
+  "description": ""
+}

@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    237,
+                    211
+                ],
+                [
+                    338,
+                    211
+                ],
+                [
+                    338,
+                    311
+                ],
+                [
+                    237,
+                    311
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    432,
+                    41
+                ],
+                [
+                    515,
+                    41
+                ],
+                [
+                    515,
+                    135
+                ],
+                [
+                    432,
+                    135
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    765,
+                    217
+                ],
+                [
+                    848,
+                    217
+                ],
+                [
+                    848,
+                    312
+                ],
+                [
+                    765,
+                    312
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    568,
+                    41
+                ],
+                [
+                    708,
+                    41
+                ],
+                [
+                    708,
+                    134
+                ],
+                [
+                    568,
+                    134
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    432,
+                    213
+                ],
+                [
+                    703,
+                    213
+                ],
+                [
+                    703,
+                    306
+                ],
+                [
+                    432,
+                    306
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    765,
+                    40
+                ],
+                [
+                    847,
+                    40
+                ],
+                [
+                    847,
+                    136
+                ],
+                [
+                    765,
+                    136
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\[IEEE_2011_International_SoC_Design_Conference_(ISOCC_2011)_-_Jeju,_Korea_(South)_(2011.11.17-2011.1_10.1109_isocc.2011.6138627_page_1_img1.jpg",
+    "imageData": null,
+    "imageHeight": 336,
+    "imageWidth": 1078
+}

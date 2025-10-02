@@ -1,0 +1,156 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          375.0,
+          278.0
+        ],
+        [
+          651.0,
+          278.0
+        ],
+        [
+          651.0,
+          463.0
+        ],
+        [
+          375.0,
+          463.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1212.0,
+          226.0
+        ],
+        [
+          1398.0,
+          226.0
+        ],
+        [
+          1398.0,
+          521.0
+        ],
+        [
+          1212.0,
+          521.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          838.0,
+          647.0
+        ],
+        [
+          1116.0,
+          647.0
+        ],
+        [
+          1116.0,
+          832.0
+        ],
+        [
+          838.0,
+          832.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          841.0,
+          408.0
+        ],
+        [
+          1116.0,
+          408.0
+        ],
+        [
+          1116.0,
+          519.0
+        ],
+        [
+          841.0,
+          519.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          842.0,
+          226.0
+        ],
+        [
+          1116.0,
+          226.0
+        ],
+        [
+          1116.0,
+          335.0
+        ],
+        [
+          842.0,
+          335.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "[IEEE_23rd_Annual_Symposium_on_Frequency_Control_-_Atlantic_City,_NJ,_USA_(1969.05.6-1969.05.8)]_23r_10.1109_freq.1969.199763_page_9_img1.jpg",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 2120,
+  "description": ""
+}

@@ -1,0 +1,243 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          1013.0,
+          107.0
+        ],
+        [
+          1054.0,
+          107.0
+        ],
+        [
+          1054.0,
+          146.0
+        ],
+        [
+          1013.0,
+          146.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          674.0,
+          108.0
+        ],
+        [
+          715.0,
+          108.0
+        ],
+        [
+          715.0,
+          147.0
+        ],
+        [
+          674.0,
+          147.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          576.0,
+          81.0
+        ],
+        [
+          656.0,
+          81.0
+        ],
+        [
+          656.0,
+          172.0
+        ],
+        [
+          576.0,
+          172.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          732.0,
+          76.0
+        ],
+        [
+          816.0,
+          76.0
+        ],
+        [
+          816.0,
+          176.0
+        ],
+        [
+          732.0,
+          176.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          203.0,
+          78.0
+        ],
+        [
+          286.0,
+          78.0
+        ],
+        [
+          286.0,
+          178.0
+        ],
+        [
+          203.0,
+          178.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          833.3740157480315,
+          83.0
+        ],
+        [
+          936.0,
+          83.0
+        ],
+        [
+          936.0,
+          176.58661417322836
+        ],
+        [
+          833.3740157480315,
+          176.58661417322836
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          310.53937007874015,
+          86.8228346456693
+        ],
+        [
+          403.4527559055118,
+          86.8228346456693
+        ],
+        [
+          403.4527559055118,
+          169.49999999999997
+        ],
+        [
+          310.53937007874015,
+          169.49999999999997
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          457.7834645669291,
+          103.35826771653544
+        ],
+        [
+          550.6968503937007,
+          103.35826771653544
+        ],
+        [
+          550.6968503937007,
+          152.96456692913384
+        ],
+        [
+          457.7834645669291,
+          152.96456692913384
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "A_50_MHz_BW_76.1_dB_DR_Two-Stage_Continuous-Time_Delta-Sigma_Modulator_With_VCO_Quantizer_Nonlineari_10.1109_jssc.2017.2777455_page_3_img2.jpg",
+  "imageData": null,
+  "imageHeight": 239,
+  "imageWidth": 1251,
+  "description": ""
+}

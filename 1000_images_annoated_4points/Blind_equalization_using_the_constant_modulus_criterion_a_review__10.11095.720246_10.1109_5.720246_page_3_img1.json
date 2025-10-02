@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    527,
+                    140
+                ],
+                [
+                    647,
+                    140
+                ],
+                [
+                    647,
+                    231
+                ],
+                [
+                    527,
+                    231
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    230,
+                    142
+                ],
+                [
+                    350,
+                    142
+                ],
+                [
+                    350,
+                    232
+                ],
+                [
+                    230,
+                    232
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    674,
+                    244
+                ],
+                [
+                    739,
+                    244
+                ],
+                [
+                    739,
+                    304
+                ],
+                [
+                    674,
+                    304
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    229,
+                    321
+                ],
+                [
+                    349,
+                    321
+                ],
+                [
+                    349,
+                    411
+                ],
+                [
+                    229,
+                    411
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    527,
+                    319
+                ],
+                [
+                    647,
+                    319
+                ],
+                [
+                    647,
+                    409
+                ],
+                [
+                    527,
+                    409
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    406,
+                    335
+                ],
+                [
+                    469,
+                    335
+                ],
+                [
+                    469,
+                    395
+                ],
+                [
+                    406,
+                    395
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    407,
+                    155
+                ],
+                [
+                    470,
+                    155
+                ],
+                [
+                    470,
+                    218
+                ],
+                [
+                    407,
+                    218
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Blind_equalization_using_the_constant_modulus_criterion_a_review__10.11095.720246_10.1109_5.720246_page_3_img1.jpg",
+    "imageData": null,
+    "imageHeight": 532,
+    "imageWidth": 905
+}

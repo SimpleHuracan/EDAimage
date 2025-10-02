@@ -1,0 +1,185 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          902.0,
+          88.0
+        ],
+        [
+          1034.0,
+          88.0
+        ],
+        [
+          1034.0,
+          351.0
+        ],
+        [
+          902.0,
+          351.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          713.0,
+          88.0
+        ],
+        [
+          832.0,
+          88.0
+        ],
+        [
+          832.0,
+          350.0
+        ],
+        [
+          713.0,
+          350.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          356.0,
+          89.0
+        ],
+        [
+          592.0,
+          89.0
+        ],
+        [
+          592.0,
+          352.0
+        ],
+        [
+          356.0,
+          352.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          230.0,
+          105.0
+        ],
+        [
+          299.0,
+          105.0
+        ],
+        [
+          299.0,
+          175.0
+        ],
+        [
+          230.0,
+          175.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          114.0,
+          100.0
+        ],
+        [
+          198.0,
+          100.0
+        ],
+        [
+          198.0,
+          181.0
+        ],
+        [
+          114.0,
+          181.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          214.0,
+          256.0
+        ],
+        [
+          301.0,
+          256.0
+        ],
+        [
+          301.0,
+          340.0
+        ],
+        [
+          214.0,
+          340.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "A_Low-Power_Wideband_Reconfigurable_Integrated_Active-RC_Filter_With_73_dB_SFDR._IEEE_Journal_of_Sol_10.1109_jssc.2006.880616_page_7_img4.jpg",
+  "imageData": null,
+  "imageHeight": 428,
+  "imageWidth": 1254,
+  "description": ""
+}

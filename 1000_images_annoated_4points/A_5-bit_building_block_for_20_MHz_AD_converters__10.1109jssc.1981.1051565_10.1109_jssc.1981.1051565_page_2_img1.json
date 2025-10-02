@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    763,
+                    74
+                ],
+                [
+                    948,
+                    74
+                ],
+                [
+                    948,
+                    171
+                ],
+                [
+                    763,
+                    171
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    160,
+                    68
+                ],
+                [
+                    260,
+                    68
+                ],
+                [
+                    260,
+                    211
+                ],
+                [
+                    160,
+                    211
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    451,
+                    367
+                ],
+                [
+                    568,
+                    367
+                ],
+                [
+                    568,
+                    484
+                ],
+                [
+                    451,
+                    484
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    591,
+                    73
+                ],
+                [
+                    706,
+                    73
+                ],
+                [
+                    706,
+                    170
+                ],
+                [
+                    591,
+                    170
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    452,
+                    210
+                ],
+                [
+                    569,
+                    210
+                ],
+                [
+                    569,
+                    305
+                ],
+                [
+                    452,
+                    305
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    317,
+                    69
+                ],
+                [
+                    431,
+                    69
+                ],
+                [
+                    431,
+                    168
+                ],
+                [
+                    317,
+                    168
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    298,
+                    346
+                ],
+                [
+                    410,
+                    346
+                ],
+                [
+                    410,
+                    441
+                ],
+                [
+                    298,
+                    441
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_5-bit_building_block_for_20_MHz_AD_converters__10.1109jssc.1981.1051565_10.1109_jssc.1981.1051565_page_2_img1.jpg",
+    "imageData": null,
+    "imageHeight": 539,
+    "imageWidth": 1128
+}

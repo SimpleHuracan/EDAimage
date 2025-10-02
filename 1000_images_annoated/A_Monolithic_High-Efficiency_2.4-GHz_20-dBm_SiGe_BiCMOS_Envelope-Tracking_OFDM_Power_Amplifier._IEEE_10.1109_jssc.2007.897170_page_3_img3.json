@@ -1,0 +1,214 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          152.0,
+          192.0
+        ],
+        [
+          285.0,
+          192.0
+        ],
+        [
+          285.0,
+          286.0
+        ],
+        [
+          152.0,
+          286.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          563.0,
+          188.0
+        ],
+        [
+          652.0,
+          188.0
+        ],
+        [
+          652.0,
+          272.0
+        ],
+        [
+          563.0,
+          272.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          406.0,
+          214.0
+        ],
+        [
+          454.0,
+          214.0
+        ],
+        [
+          454.0,
+          259.0
+        ],
+        [
+          406.0,
+          259.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          769.0,
+          184.0
+        ],
+        [
+          878.0,
+          184.0
+        ],
+        [
+          878.0,
+          278.0
+        ],
+        [
+          769.0,
+          278.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          618.0,
+          335.0
+        ],
+        [
+          827.0,
+          335.0
+        ],
+        [
+          827.0,
+          430.0
+        ],
+        [
+          618.0,
+          430.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          661.0,
+          98.0
+        ],
+        [
+          711.0,
+          98.0
+        ],
+        [
+          711.0,
+          144.0
+        ],
+        [
+          661.0,
+          144.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          1027.0,
+          215.0
+        ],
+        [
+          1069.0,
+          215.0
+        ],
+        [
+          1069.0,
+          255.0
+        ],
+        [
+          1027.0,
+          255.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "A_Monolithic_High-Efficiency_2.4-GHz_20-dBm_SiGe_BiCMOS_Envelope-Tracking_OFDM_Power_Amplifier._IEEE_10.1109_jssc.2007.897170_page_3_img3.jpg",
+  "imageData": null,
+  "imageHeight": 498,
+  "imageWidth": 1104,
+  "description": ""
+}

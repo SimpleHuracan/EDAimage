@@ -1,0 +1,156 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          514.0,
+          18.0
+        ],
+        [
+          700.0,
+          18.0
+        ],
+        [
+          700.0,
+          112.0
+        ],
+        [
+          514.0,
+          112.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          368.0,
+          134.0
+        ],
+        [
+          502.0,
+          134.0
+        ],
+        [
+          502.0,
+          223.0
+        ],
+        [
+          368.0,
+          223.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          425.0,
+          331.0
+        ],
+        [
+          559.0,
+          331.0
+        ],
+        [
+          559.0,
+          418.0
+        ],
+        [
+          425.0,
+          418.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          183.0,
+          73.0
+        ],
+        [
+          231.0,
+          73.0
+        ],
+        [
+          231.0,
+          125.0
+        ],
+        [
+          183.0,
+          125.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "trapezoid",
+      "score": null,
+      "points": [
+        [
+          238.0,
+          258.0
+        ],
+        [
+          371.0,
+          258.0
+        ],
+        [
+          371.0,
+          415.0
+        ],
+        [
+          238.0,
+          415.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "block_circuit_train_15k_0321_003924.jpg",
+  "imageData": null,
+  "imageHeight": 422,
+  "imageWidth": 890,
+  "description": ""
+}

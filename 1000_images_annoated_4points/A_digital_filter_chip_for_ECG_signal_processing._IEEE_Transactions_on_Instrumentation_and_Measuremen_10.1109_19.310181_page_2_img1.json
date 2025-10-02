@@ -1,0 +1,155 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    547,
+                    53
+                ],
+                [
+                    647,
+                    53
+                ],
+                [
+                    647,
+                    122
+                ],
+                [
+                    547,
+                    122
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    346,
+                    53
+                ],
+                [
+                    447,
+                    53
+                ],
+                [
+                    447,
+                    120
+                ],
+                [
+                    346,
+                    120
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    243,
+                    67
+                ],
+                [
+                    280,
+                    67
+                ],
+                [
+                    280,
+                    102
+                ],
+                [
+                    243,
+                    102
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    145,
+                    54
+                ],
+                [
+                    211,
+                    54
+                ],
+                [
+                    211,
+                    121
+                ],
+                [
+                    145,
+                    121
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    712,
+                    72
+                ],
+                [
+                    750,
+                    72
+                ],
+                [
+                    750,
+                    107
+                ],
+                [
+                    712,
+                    107
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_digital_filter_chip_for_ECG_signal_processing._IEEE_Transactions_on_Instrumentation_and_Measuremen_10.1109_19.310181_page_2_img1.jpg",
+    "imageData": null,
+    "imageHeight": 164,
+    "imageWidth": 882
+}

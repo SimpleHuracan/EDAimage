@@ -1,0 +1,243 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          418.0,
+          522.0
+        ],
+        [
+          473.0,
+          522.0
+        ],
+        [
+          473.0,
+          574.0
+        ],
+        [
+          418.0,
+          574.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          236.0,
+          177.0
+        ],
+        [
+          371.0,
+          177.0
+        ],
+        [
+          371.0,
+          282.0
+        ],
+        [
+          236.0,
+          282.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          671.0,
+          36.0
+        ],
+        [
+          868.0,
+          36.0
+        ],
+        [
+          868.0,
+          208.0
+        ],
+        [
+          671.0,
+          208.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1047.0,
+          69.0
+        ],
+        [
+          1182.0,
+          69.0
+        ],
+        [
+          1182.0,
+          172.0
+        ],
+        [
+          1047.0,
+          172.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          384.0,
+          247.0
+        ],
+        [
+          506.0,
+          247.0
+        ],
+        [
+          506.0,
+          431.0
+        ],
+        [
+          384.0,
+          431.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          537.0,
+          249.0
+        ],
+        [
+          658.0,
+          249.0
+        ],
+        [
+          658.0,
+          431.0
+        ],
+        [
+          537.0,
+          431.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          237.0,
+          71.0
+        ],
+        [
+          372.0,
+          71.0
+        ],
+        [
+          372.0,
+          174.0
+        ],
+        [
+          237.0,
+          174.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          1199.6315789473686,
+          142.63157894736844
+        ],
+        [
+          1320.6315789473686,
+          142.63157894736844
+        ],
+        [
+          1320.6315789473686,
+          325.63157894736844
+        ],
+        [
+          1199.6315789473686,
+          325.63157894736844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "A_130_mW_100_MSs_Pipelined_ADC_With_69_dB_SNDR_Enabled_by_Digital_Harmonic_Distortion_Correction._IE_10.1109_jssc.2009.2032637_page_10_img1.jpg",
+  "imageData": null,
+  "imageHeight": 641,
+  "imageWidth": 1387,
+  "description": ""
+}

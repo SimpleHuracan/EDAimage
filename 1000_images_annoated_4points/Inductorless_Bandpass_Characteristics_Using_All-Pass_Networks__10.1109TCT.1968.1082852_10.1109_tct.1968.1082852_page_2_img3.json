@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    135,
+                    14
+                ],
+                [
+                    240,
+                    14
+                ],
+                [
+                    240,
+                    96
+                ],
+                [
+                    135,
+                    96
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    331,
+                    141
+                ],
+                [
+                    423,
+                    141
+                ],
+                [
+                    423,
+                    219
+                ],
+                [
+                    331,
+                    219
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    340,
+                    19
+                ],
+                [
+                    401,
+                    19
+                ],
+                [
+                    401,
+                    82
+                ],
+                [
+                    340,
+                    82
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    818,
+                    285
+                ],
+                [
+                    970,
+                    285
+                ],
+                [
+                    970,
+                    353
+                ],
+                [
+                    818,
+                    353
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    447,
+                    285
+                ],
+                [
+                    517,
+                    285
+                ],
+                [
+                    517,
+                    354
+                ],
+                [
+                    447,
+                    354
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    598,
+                    284
+                ],
+                [
+                    760,
+                    284
+                ],
+                [
+                    760,
+                    353
+                ],
+                [
+                    598,
+                    353
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Inductorless_Bandpass_Characteristics_Using_All-Pass_Networks__10.1109TCT.1968.1082852_10.1109_tct.1968.1082852_page_2_img3.jpg",
+    "imageData": null,
+    "imageHeight": 364,
+    "imageWidth": 1128
+}

@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    368,
+                    45
+                ],
+                [
+                    468,
+                    45
+                ],
+                [
+                    468,
+                    186
+                ],
+                [
+                    368,
+                    186
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    824,
+                    44
+                ],
+                [
+                    925,
+                    44
+                ],
+                [
+                    925,
+                    185
+                ],
+                [
+                    824,
+                    185
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    609,
+                    45
+                ],
+                [
+                    710,
+                    45
+                ],
+                [
+                    710,
+                    187
+                ],
+                [
+                    609,
+                    187
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    824,
+                    244
+                ],
+                [
+                    926,
+                    244
+                ],
+                [
+                    926,
+                    385
+                ],
+                [
+                    824,
+                    385
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    522,
+                    98
+                ],
+                [
+                    554,
+                    98
+                ],
+                [
+                    554,
+                    131
+                ],
+                [
+                    522,
+                    131
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    251,
+                    98
+                ],
+                [
+                    284,
+                    98
+                ],
+                [
+                    284,
+                    131
+                ],
+                [
+                    251,
+                    131
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\[The_International_Series_in_Engineering_and_Computer_Science]_Low-Power_Low-Voltage_Sigma-Delta_Mod_10.1007_1-4020-4140-3_page_56_img1.jpg",
+    "imageData": null,
+    "imageHeight": 418,
+    "imageWidth": 1266
+}

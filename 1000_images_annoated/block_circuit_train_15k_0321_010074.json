@@ -1,0 +1,214 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          108.0,
+          208.0
+        ],
+        [
+          282.0,
+          208.0
+        ],
+        [
+          282.0,
+          277.0
+        ],
+        [
+          108.0,
+          277.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          611.0,
+          208.0
+        ],
+        [
+          784.0,
+          208.0
+        ],
+        [
+          784.0,
+          278.0
+        ],
+        [
+          611.0,
+          278.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          610.0,
+          55.0
+        ],
+        [
+          786.0,
+          55.0
+        ],
+        [
+          786.0,
+          122.0
+        ],
+        [
+          610.0,
+          122.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          403.0,
+          208.0
+        ],
+        [
+          543.0,
+          208.0
+        ],
+        [
+          543.0,
+          278.0
+        ],
+        [
+          403.0,
+          278.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          454.0,
+          53.0
+        ],
+        [
+          516.0,
+          53.0
+        ],
+        [
+          516.0,
+          125.0
+        ],
+        [
+          454.0,
+          125.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          315.6666666666667,
+          150.61864406779665
+        ],
+        [
+          388.5480225988701,
+          150.61864406779665
+        ],
+        [
+          388.5480225988701,
+          209.37570621468927
+        ],
+        [
+          315.6666666666667,
+          209.37570621468927
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          110.01694915254238,
+          55.13841807909607
+        ],
+        [
+          284.5932203389831,
+          55.13841807909607
+        ],
+        [
+          284.5932203389831,
+          121.80508474576273
+        ],
+        [
+          110.01694915254238,
+          121.80508474576273
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "block_circuit_train_15k_0321_010074.jpg",
+  "imageData": null,
+  "imageHeight": 347,
+  "imageWidth": 898,
+  "description": ""
+}

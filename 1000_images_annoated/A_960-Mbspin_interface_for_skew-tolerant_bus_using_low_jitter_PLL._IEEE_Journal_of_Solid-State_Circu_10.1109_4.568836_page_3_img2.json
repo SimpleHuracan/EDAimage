@@ -1,0 +1,156 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          520.0,
+          46.0
+        ],
+        [
+          689.0,
+          46.0
+        ],
+        [
+          689.0,
+          147.0
+        ],
+        [
+          520.0,
+          147.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          749.0,
+          47.0
+        ],
+        [
+          889.0,
+          47.0
+        ],
+        [
+          889.0,
+          153.0
+        ],
+        [
+          749.0,
+          153.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          271.0,
+          44.0
+        ],
+        [
+          410.0,
+          44.0
+        ],
+        [
+          410.0,
+          145.0
+        ],
+        [
+          271.0,
+          145.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          195.0,
+          185.0
+        ],
+        [
+          258.0,
+          185.0
+        ],
+        [
+          258.0,
+          241.0
+        ],
+        [
+          195.0,
+          241.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          513.8367346938776,
+          224.0
+        ],
+        [
+          919.8367346938776,
+          224.0
+        ],
+        [
+          919.8367346938776,
+          374.0
+        ],
+        [
+          513.8367346938776,
+          374.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "A_960-Mbspin_interface_for_skew-tolerant_bus_using_low_jitter_PLL._IEEE_Journal_of_Solid-State_Circu_10.1109_4.568836_page_3_img2.jpg",
+  "imageData": null,
+  "imageHeight": 443,
+  "imageWidth": 1080,
+  "description": ""
+}

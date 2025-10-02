@@ -1,0 +1,185 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          683.0,
+          443.0
+        ],
+        [
+          771.0,
+          443.0
+        ],
+        [
+          771.0,
+          532.0
+        ],
+        [
+          683.0,
+          532.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          448.0,
+          326.0
+        ],
+        [
+          538.0,
+          326.0
+        ],
+        [
+          538.0,
+          415.0
+        ],
+        [
+          448.0,
+          415.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          648.0,
+          333.0
+        ],
+        [
+          779.0,
+          333.0
+        ],
+        [
+          779.0,
+          403.0
+        ],
+        [
+          648.0,
+          403.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          165.80555555555557,
+          325.90277777777777
+        ],
+        [
+          357.4722222222223,
+          325.90277777777777
+        ],
+        [
+          357.4722222222223,
+          418.26388888888886
+        ],
+        [
+          165.80555555555557,
+          418.26388888888886
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          400.5277777777778,
+          63.40277777777775
+        ],
+        [
+          756.0833333333334,
+          63.40277777777775
+        ],
+        [
+          756.0833333333334,
+          143.95833333333331
+        ],
+        [
+          400.5277777777778,
+          143.95833333333331
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          581.7777777777777,
+          167.56944444444443
+        ],
+        [
+          772.75,
+          167.56944444444443
+        ],
+        [
+          772.75,
+          314.79166666666663
+        ],
+        [
+          581.7777777777777,
+          314.79166666666663
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "Adaptive_equalization_in_magnetic-disk_storage_channels__10.110935.46683_Sci-Hub2025_10.1109_35.46683_page_10_img1.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 908,
+  "description": ""
+}

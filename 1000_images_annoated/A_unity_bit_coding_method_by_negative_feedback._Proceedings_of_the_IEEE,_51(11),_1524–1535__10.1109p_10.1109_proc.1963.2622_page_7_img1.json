@@ -1,0 +1,272 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          690.0,
+          160.0
+        ],
+        [
+          779.0,
+          160.0
+        ],
+        [
+          779.0,
+          207.0
+        ],
+        [
+          690.0,
+          207.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          688.0,
+          253.0
+        ],
+        [
+          734.5373134328358,
+          253.0
+        ],
+        [
+          734.5373134328358,
+          298.14179104477614
+        ],
+        [
+          688.0,
+          298.14179104477614
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          554.0,
+          242.0
+        ],
+        [
+          644.0,
+          242.0
+        ],
+        [
+          644.0,
+          311.0
+        ],
+        [
+          554.0,
+          311.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          691.0,
+          45.0
+        ],
+        [
+          779.0,
+          45.0
+        ],
+        [
+          779.0,
+          116.0
+        ],
+        [
+          691.0,
+          116.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          258.0,
+          150.0
+        ],
+        [
+          347.0,
+          150.0
+        ],
+        [
+          347.0,
+          221.0
+        ],
+        [
+          258.0,
+          221.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          392.0,
+          150.0
+        ],
+        [
+          484.0,
+          150.0
+        ],
+        [
+          484.0,
+          220.0
+        ],
+        [
+          392.0,
+          220.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          803.0,
+          312.0
+        ],
+        [
+          892.0,
+          312.0
+        ],
+        [
+          892.0,
+          380.0
+        ],
+        [
+          803.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          192.0,
+          165.0
+        ],
+        [
+          231.0,
+          165.0
+        ],
+        [
+          231.0,
+          205.0
+        ],
+        [
+          192.0,
+          205.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          733.7910447761194,
+          253.365671641791
+        ],
+        [
+          780.0597014925373,
+          253.365671641791
+        ],
+        [
+          780.0597014925373,
+          299.6343283582089
+        ],
+        [
+          733.7910447761194,
+          299.6343283582089
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "A_unity_bit_coding_method_by_negative_feedback._Proceedings_of_the_IEEE,_51(11),_1524–1535__10.1109p_10.1109_proc.1963.2622_page_7_img1.jpg",
+  "imageData": null,
+  "imageHeight": 403,
+  "imageWidth": 1184,
+  "description": ""
+}

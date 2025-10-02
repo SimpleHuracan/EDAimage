@@ -1,0 +1,155 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    308,
+                    266
+                ],
+                [
+                    452,
+                    266
+                ],
+                [
+                    452,
+                    378
+                ],
+                [
+                    308,
+                    378
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    164,
+                    292
+                ],
+                [
+                    226,
+                    292
+                ],
+                [
+                    226,
+                    350
+                ],
+                [
+                    164,
+                    350
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    535,
+                    291
+                ],
+                [
+                    596,
+                    291
+                ],
+                [
+                    596,
+                    349
+                ],
+                [
+                    535,
+                    349
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    308,
+                    92
+                ],
+                [
+                    453,
+                    92
+                ],
+                [
+                    453,
+                    208
+                ],
+                [
+                    308,
+                    208
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    307,
+                    433
+                ],
+                [
+                    452,
+                    433
+                ],
+                [
+                    452,
+                    550
+                ],
+                [
+                    307,
+                    550
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_detailed_analysis_of_power-supply_noise_attenuation_in_bandgap_voltage_references__10.1109TCSI.200_10.1109_tcsi.2002.808188_page_6_img1.jpg",
+    "imageData": null,
+    "imageHeight": 598,
+    "imageWidth": 816
+}

@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    154,
+                    355
+                ],
+                [
+                    276,
+                    355
+                ],
+                [
+                    276,
+                    502
+                ],
+                [
+                    154,
+                    502
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    151,
+                    75
+                ],
+                [
+                    276,
+                    75
+                ],
+                [
+                    276,
+                    222
+                ],
+                [
+                    151,
+                    222
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    388,
+                    401
+                ],
+                [
+                    450,
+                    401
+                ],
+                [
+                    450,
+                    463
+                ],
+                [
+                    388,
+                    463
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    419,
+                    117
+                ],
+                [
+                    482,
+                    117
+                ],
+                [
+                    482,
+                    180
+                ],
+                [
+                    419,
+                    180
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    550,
+                    129
+                ],
+                [
+                    592,
+                    129
+                ],
+                [
+                    592,
+                    169
+                ],
+                [
+                    550,
+                    169
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    334,
+                    298
+                ],
+                [
+                    377,
+                    298
+                ],
+                [
+                    377,
+                    337
+                ],
+                [
+                    334,
+                    337
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\74_dB_SNDR_Multi-Loop_Sturdy-MASH_Delta-Sigma_Modulator_Using_35_dB_Open-Loop_Opamp_Gain__10.1109jss_10.1109_jssc.2009.2022302_page_4_img1.jpg",
+    "imageData": null,
+    "imageHeight": 581,
+    "imageWidth": 838
+}

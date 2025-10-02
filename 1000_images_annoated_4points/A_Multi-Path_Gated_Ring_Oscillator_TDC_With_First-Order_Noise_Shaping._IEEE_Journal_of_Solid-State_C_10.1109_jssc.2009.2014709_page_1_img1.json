@@ -1,0 +1,155 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    479,
+                    45
+                ],
+                [
+                    678,
+                    45
+                ],
+                [
+                    678,
+                    144
+                ],
+                [
+                    479,
+                    144
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    737,
+                    56
+                ],
+                [
+                    818,
+                    56
+                ],
+                [
+                    818,
+                    137
+                ],
+                [
+                    737,
+                    137
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    281,
+                    320
+                ],
+                [
+                    427,
+                    320
+                ],
+                [
+                    427,
+                    389
+                ],
+                [
+                    281,
+                    389
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    280,
+                    46
+                ],
+                [
+                    418,
+                    46
+                ],
+                [
+                    418,
+                    145
+                ],
+                [
+                    280,
+                    145
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    495,
+                    215
+                ],
+                [
+                    645,
+                    215
+                ],
+                [
+                    645,
+                    294
+                ],
+                [
+                    495,
+                    294
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_Multi-Path_Gated_Ring_Oscillator_TDC_With_First-Order_Noise_Shaping._IEEE_Journal_of_Solid-State_C_10.1109_jssc.2009.2014709_page_1_img1.jpg",
+    "imageData": null,
+    "imageHeight": 424,
+    "imageWidth": 1024
+}

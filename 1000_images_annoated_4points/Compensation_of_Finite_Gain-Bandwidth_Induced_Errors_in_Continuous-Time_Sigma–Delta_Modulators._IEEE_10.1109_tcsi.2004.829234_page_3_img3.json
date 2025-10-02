@@ -1,0 +1,416 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    915,
+                    66
+                ],
+                [
+                    989,
+                    66
+                ],
+                [
+                    989,
+                    140
+                ],
+                [
+                    915,
+                    140
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    689,
+                    56
+                ],
+                [
+                    810,
+                    56
+                ],
+                [
+                    810,
+                    150
+                ],
+                [
+                    689,
+                    150
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    385,
+                    55
+                ],
+                [
+                    508,
+                    55
+                ],
+                [
+                    508,
+                    150
+                ],
+                [
+                    385,
+                    150
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    183,
+                    60
+                ],
+                [
+                    255,
+                    60
+                ],
+                [
+                    255,
+                    144
+                ],
+                [
+                    183,
+                    144
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    602,
+                    158
+                ],
+                [
+                    683,
+                    158
+                ],
+                [
+                    683,
+                    227
+                ],
+                [
+                    602,
+                    227
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    532,
+                    62
+                ],
+                [
+                    601,
+                    62
+                ],
+                [
+                    601,
+                    143
+                ],
+                [
+                    532,
+                    143
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    593,
+                    246
+                ],
+                [
+                    695,
+                    246
+                ],
+                [
+                    695,
+                    320
+                ],
+                [
+                    593,
+                    320
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    276,
+                    246
+                ],
+                [
+                    378,
+                    246
+                ],
+                [
+                    378,
+                    321
+                ],
+                [
+                    276,
+                    321
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    624,
+                    84
+                ],
+                [
+                    661,
+                    84
+                ],
+                [
+                    661,
+                    119
+                ],
+                [
+                    624,
+                    119
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    285,
+                    155
+                ],
+                [
+                    366,
+                    155
+                ],
+                [
+                    366,
+                    227
+                ],
+                [
+                    285,
+                    227
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    717,
+                    310
+                ],
+                [
+                    828,
+                    310
+                ],
+                [
+                    828,
+                    377
+                ],
+                [
+                    717,
+                    377
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    310,
+                    84
+                ],
+                [
+                    346,
+                    84
+                ],
+                [
+                    346,
+                    119
+                ],
+                [
+                    310,
+                    119
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    839,
+                    52
+                ],
+                [
+                    875,
+                    52
+                ],
+                [
+                    875,
+                    88
+                ],
+                [
+                    839,
+                    88
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    840,
+                    53
+                ],
+                [
+                    874,
+                    53
+                ],
+                [
+                    874,
+                    91
+                ],
+                [
+                    840,
+                    91
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Compensation_of_Finite_Gain-Bandwidth_Induced_Errors_in_Continuous-Time_Sigma–Delta_Modulators._IEEE_10.1109_tcsi.2004.829234_page_3_img3.jpg",
+    "imageData": null,
+    "imageHeight": 422,
+    "imageWidth": 1163
+}

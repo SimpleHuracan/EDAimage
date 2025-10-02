@@ -1,0 +1,155 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    366,
+                    120
+                ],
+                [
+                    473,
+                    120
+                ],
+                [
+                    473,
+                    226
+                ],
+                [
+                    366,
+                    226
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    577,
+                    119
+                ],
+                [
+                    710,
+                    119
+                ],
+                [
+                    710,
+                    227
+                ],
+                [
+                    577,
+                    227
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    740,
+                    47
+                ],
+                [
+                    784,
+                    47
+                ],
+                [
+                    784,
+                    88
+                ],
+                [
+                    740,
+                    88
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    265,
+                    152
+                ],
+                [
+                    309,
+                    152
+                ],
+                [
+                    309,
+                    195
+                ],
+                [
+                    265,
+                    195
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    160,
+                    152
+                ],
+                [
+                    203,
+                    152
+                ],
+                [
+                    203,
+                    195
+                ],
+                [
+                    160,
+                    195
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Multistage_sigma-delta_modulation__10.110918.32155_Sci-hub_10.1109_18.32155_page_2_img2.jpg",
+    "imageData": null,
+    "imageHeight": 404,
+    "imageWidth": 924
+}

@@ -1,0 +1,214 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          254.0,
+          131.0
+        ],
+        [
+          364.0,
+          131.0
+        ],
+        [
+          364.0,
+          268.0
+        ],
+        [
+          254.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          621.0,
+          186.0
+        ],
+        [
+          652.0,
+          186.0
+        ],
+        [
+          652.0,
+          215.0
+        ],
+        [
+          621.0,
+          215.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          116.0,
+          159.0
+        ],
+        [
+          185.0,
+          159.0
+        ],
+        [
+          185.0,
+          241.0
+        ],
+        [
+          116.0,
+          241.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          473.0,
+          131.0
+        ],
+        [
+          582.0,
+          131.0
+        ],
+        [
+          582.0,
+          269.0
+        ],
+        [
+          473.0,
+          269.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          678.0,
+          144.0
+        ],
+        [
+          758.0,
+          144.0
+        ],
+        [
+          758.0,
+          256.0
+        ],
+        [
+          678.0,
+          256.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          947.0,
+          21.0
+        ],
+        [
+          1005.0,
+          21.0
+        ],
+        [
+          1005.0,
+          269.0
+        ],
+        [
+          947.0,
+          269.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          787.0,
+          132.0
+        ],
+        [
+          895.0,
+          132.0
+        ],
+        [
+          895.0,
+          269.0
+        ],
+        [
+          787.0,
+          269.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "A_3.3-V,_10-b,_25-MSamples_two-step_ADC_in_0.35-μm_CMOS__10.11094.808905_10.1109_4.808905_page_1_img1.jpg",
+  "imageData": null,
+  "imageHeight": 282,
+  "imageWidth": 1136,
+  "description": ""
+}

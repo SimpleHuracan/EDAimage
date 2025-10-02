@@ -1,0 +1,330 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          742.0,
+          166.0
+        ],
+        [
+          805.0,
+          166.0
+        ],
+        [
+          805.0,
+          228.0
+        ],
+        [
+          742.0,
+          228.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          981.0,
+          172.0
+        ],
+        [
+          1024.0,
+          172.0
+        ],
+        [
+          1024.0,
+          216.0
+        ],
+        [
+          981.0,
+          216.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          450.0,
+          179.0
+        ],
+        [
+          494.0,
+          179.0
+        ],
+        [
+          494.0,
+          222.0
+        ],
+        [
+          450.0,
+          222.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          633.0,
+          176.0
+        ],
+        [
+          676.0,
+          176.0
+        ],
+        [
+          676.0,
+          217.0
+        ],
+        [
+          633.0,
+          217.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          152.0,
+          362.0
+        ],
+        [
+          195.0,
+          362.0
+        ],
+        [
+          195.0,
+          404.0
+        ],
+        [
+          152.0,
+          404.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          929.0,
+          32.0
+        ],
+        [
+          970.0,
+          32.0
+        ],
+        [
+          970.0,
+          73.0
+        ],
+        [
+          929.0,
+          73.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          533.0,
+          174.0
+        ],
+        [
+          579.0,
+          174.0
+        ],
+        [
+          579.0,
+          226.0
+        ],
+        [
+          533.0,
+          226.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          327.0,
+          173.0
+        ],
+        [
+          376.0,
+          173.0
+        ],
+        [
+          376.0,
+          230.0
+        ],
+        [
+          327.0,
+          230.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          152.0,
+          177.0
+        ],
+        [
+          195.0,
+          177.0
+        ],
+        [
+          195.0,
+          221.0
+        ],
+        [
+          152.0,
+          221.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          877.0,
+          175.0
+        ],
+        [
+          920.0,
+          175.0
+        ],
+        [
+          920.0,
+          217.0
+        ],
+        [
+          877.0,
+          217.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          228.0,
+          179.0
+        ],
+        [
+          273.0,
+          179.0
+        ],
+        [
+          273.0,
+          222.0
+        ],
+        [
+          228.0,
+          222.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "A_new_type_of_wave_digital_filter._Journal_of_the_Franklin_Institute,_300(1),_41–58__10.10160016-003_10.1016_0016-0032(75)90186-6_page_7_img2.jpg",
+  "imageData": null,
+  "imageHeight": 465,
+  "imageWidth": 1124,
+  "description": ""
+}

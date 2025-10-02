@@ -1,0 +1,126 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    425,
+                    100
+                ],
+                [
+                    581,
+                    100
+                ],
+                [
+                    581,
+                    191
+                ],
+                [
+                    425,
+                    191
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    206,
+                    99
+                ],
+                [
+                    332,
+                    99
+                ],
+                [
+                    332,
+                    191
+                ],
+                [
+                    206,
+                    191
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    612,
+                    289
+                ],
+                [
+                    735,
+                    289
+                ],
+                [
+                    735,
+                    380
+                ],
+                [
+                    612,
+                    380
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    752,
+                    100
+                ],
+                [
+                    876,
+                    100
+                ],
+                [
+                    876,
+                    191
+                ],
+                [
+                    752,
+                    191
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_Fully_Integrated_Auto-Calibrated_Super-Regenerative_Receiver_in_0.13-μm_CMOS__10.1109jssc.2007.903_10.1109_jssc.2007.903092_page_6_img2.jpg",
+    "imageData": null,
+    "imageHeight": 516,
+    "imageWidth": 1134
+}

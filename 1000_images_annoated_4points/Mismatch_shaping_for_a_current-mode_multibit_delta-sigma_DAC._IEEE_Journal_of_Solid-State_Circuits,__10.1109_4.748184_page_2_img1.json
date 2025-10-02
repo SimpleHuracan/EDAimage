@@ -1,0 +1,185 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    147.0,
+                    165.0
+                ],
+                [
+                    295.0,
+                    165.0
+                ],
+                [
+                    295.0,
+                    252.0
+                ],
+                [
+                    147.0,
+                    252.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    655.0,
+                    161.0
+                ],
+                [
+                    865.0,
+                    161.0
+                ],
+                [
+                    865.0,
+                    253.0
+                ],
+                [
+                    655.0,
+                    253.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    356.0,
+                    314.0
+                ],
+                [
+                    483.0,
+                    314.0
+                ],
+                [
+                    483.0,
+                    402.0
+                ],
+                [
+                    356.0,
+                    402.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    398.0,
+                    185.0
+                ],
+                [
+                    444.0,
+                    185.0
+                ],
+                [
+                    444.0,
+                    230.0
+                ],
+                [
+                    398.0,
+                    230.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    545.0,
+                    336.0
+                ],
+                [
+                    591.0,
+                    336.0
+                ],
+                [
+                    591.0,
+                    381.0
+                ],
+                [
+                    545.0,
+                    381.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    361.30136986301375,
+                    473.0
+                ],
+                [
+                    835.9589041095891,
+                    473.0
+                ],
+                [
+                    835.9589041095891,
+                    557.1438356164384
+                ],
+                [
+                    361.30136986301375,
+                    557.1438356164384
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        }
+    ],
+    "imagePath": "Mismatch_shaping_for_a_current-mode_multibit_delta-sigma_DAC._IEEE_Journal_of_Solid-State_Circuits,__10.1109_4.748184_page_2_img1.jpg",
+    "imageData": null,
+    "imageHeight": 591,
+    "imageWidth": 1050,
+    "description": ""
+}

@@ -1,0 +1,214 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          478.0,
+          280.0
+        ],
+        [
+          521.0,
+          280.0
+        ],
+        [
+          521.0,
+          322.0
+        ],
+        [
+          478.0,
+          322.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          189.0,
+          94.0
+        ],
+        [
+          232.0,
+          94.0
+        ],
+        [
+          232.0,
+          135.0
+        ],
+        [
+          189.0,
+          135.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          238.0,
+          280.0
+        ],
+        [
+          284.0,
+          280.0
+        ],
+        [
+          284.0,
+          322.0
+        ],
+        [
+          238.0,
+          322.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          314.0,
+          53.0
+        ],
+        [
+          440.0,
+          53.0
+        ],
+        [
+          440.0,
+          179.0
+        ],
+        [
+          314.0,
+          179.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          521.0,
+          53.0
+        ],
+        [
+          648.0,
+          53.0
+        ],
+        [
+          648.0,
+          178.0
+        ],
+        [
+          521.0,
+          178.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          561.0,
+          239.0
+        ],
+        [
+          728.0,
+          239.0
+        ],
+        [
+          728.0,
+          366.0
+        ],
+        [
+          561.0,
+          366.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          334.0,
+          274.0
+        ],
+        [
+          394.0,
+          274.0
+        ],
+        [
+          394.0,
+          334.0
+        ],
+        [
+          334.0,
+          334.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Computing_Timing_Jitter_From_Phase_Noise_Spectra_for_Oscillators_and_Phase-Locked_Loops_With_White_a_10.1109_tcsi.2006.881184_page_9_img1.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 840,
+  "description": ""
+}

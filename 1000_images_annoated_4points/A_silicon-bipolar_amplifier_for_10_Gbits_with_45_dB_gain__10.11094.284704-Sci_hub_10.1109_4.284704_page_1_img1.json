@@ -1,0 +1,242 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    466,
+                    82
+                ],
+                [
+                    558,
+                    82
+                ],
+                [
+                    558,
+                    138
+                ],
+                [
+                    466,
+                    138
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    324,
+                    82
+                ],
+                [
+                    417,
+                    82
+                ],
+                [
+                    417,
+                    138
+                ],
+                [
+                    324,
+                    138
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    184,
+                    81
+                ],
+                [
+                    276,
+                    81
+                ],
+                [
+                    276,
+                    138
+                ],
+                [
+                    184,
+                    138
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    392,
+                    185
+                ],
+                [
+                    500,
+                    185
+                ],
+                [
+                    500,
+                    242
+                ],
+                [
+                    392,
+                    242
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    606,
+                    79
+                ],
+                [
+                    729,
+                    79
+                ],
+                [
+                    729,
+                    135
+                ],
+                [
+                    606,
+                    135
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    123,
+                    148
+                ],
+                [
+                    142,
+                    148
+                ],
+                [
+                    142,
+                    180
+                ],
+                [
+                    123,
+                    180
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    795,
+                    22
+                ],
+                [
+                    906,
+                    22
+                ],
+                [
+                    906,
+                    79
+                ],
+                [
+                    795,
+                    79
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    796,
+                    133
+                ],
+                [
+                    906,
+                    133
+                ],
+                [
+                    906,
+                    189
+                ],
+                [
+                    796,
+                    189
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_silicon-bipolar_amplifier_for_10_Gbits_with_45_dB_gain__10.11094.284704-Sci_hub_10.1109_4.284704_page_1_img1.jpg",
+    "imageData": null,
+    "imageHeight": 258,
+    "imageWidth": 1025
+}

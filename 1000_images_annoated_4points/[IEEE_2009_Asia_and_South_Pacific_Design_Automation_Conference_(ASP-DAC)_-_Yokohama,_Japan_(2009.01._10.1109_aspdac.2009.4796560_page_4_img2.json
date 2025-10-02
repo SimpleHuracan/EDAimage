@@ -1,0 +1,185 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    313.0,
+                    173.0
+                ],
+                [
+                    578.0,
+                    173.0
+                ],
+                [
+                    578.0,
+                    254.0
+                ],
+                [
+                    313.0,
+                    254.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    736.0,
+                    174.0
+                ],
+                [
+                    848.0,
+                    174.0
+                ],
+                [
+                    848.0,
+                    254.0
+                ],
+                [
+                    736.0,
+                    254.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    640.0,
+                    192.0
+                ],
+                [
+                    685.0,
+                    192.0
+                ],
+                [
+                    685.0,
+                    235.0
+                ],
+                [
+                    640.0,
+                    235.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    209.0,
+                    192.0
+                ],
+                [
+                    255.0,
+                    192.0
+                ],
+                [
+                    255.0,
+                    234.0
+                ],
+                [
+                    209.0,
+                    234.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    210.72784810126583,
+                    326.7974683544304
+                ],
+                [
+                    253.76582278481013,
+                    326.7974683544304
+                ],
+                [
+                    253.76582278481013,
+                    366.0379746835443
+                ],
+                [
+                    210.72784810126583,
+                    366.0379746835443
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    638.5759493670887,
+                    323.63291139240505
+                ],
+                [
+                    684.7784810126583,
+                    323.63291139240505
+                ],
+                [
+                    684.7784810126583,
+                    364.7721518987342
+                ],
+                [
+                    638.5759493670887,
+                    364.7721518987342
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "[IEEE_2009_Asia_and_South_Pacific_Design_Automation_Conference_(ASP-DAC)_-_Yokohama,_Japan_(2009.01._10.1109_aspdac.2009.4796560_page_4_img2.jpg",
+    "imageData": null,
+    "imageHeight": 446,
+    "imageWidth": 1005,
+    "description": ""
+}

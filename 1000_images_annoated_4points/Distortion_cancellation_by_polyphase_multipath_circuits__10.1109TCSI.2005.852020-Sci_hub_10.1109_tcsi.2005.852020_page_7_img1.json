@@ -1,0 +1,185 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    205.50000000000006,
+                    195.75000000000003
+                ],
+                [
+                    471.75000000000006,
+                    195.75000000000003
+                ],
+                [
+                    471.75000000000006,
+                    997.0
+                ],
+                [
+                    205.50000000000006,
+                    997.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    558.0,
+                    655.0
+                ],
+                [
+                    671.0,
+                    655.0
+                ],
+                [
+                    671.0,
+                    769.0
+                ],
+                [
+                    558.0,
+                    769.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    558.0,
+                    902.0
+                ],
+                [
+                    671.0,
+                    902.0
+                ],
+                [
+                    671.0,
+                    1016.0
+                ],
+                [
+                    558.0,
+                    1016.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    558.0,
+                    168.0
+                ],
+                [
+                    671.0,
+                    168.0
+                ],
+                [
+                    671.0,
+                    283.0
+                ],
+                [
+                    558.0,
+                    283.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    558.0,
+                    410.0
+                ],
+                [
+                    670.0,
+                    410.0
+                ],
+                [
+                    670.0,
+                    525.0
+                ],
+                [
+                    558.0,
+                    525.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    912.0,
+                    554.0
+                ],
+                [
+                    986.0,
+                    554.0
+                ],
+                [
+                    986.0,
+                    626.0
+                ],
+                [
+                    912.0,
+                    626.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        }
+    ],
+    "imagePath": "Distortion_cancellation_by_polyphase_multipath_circuits__10.1109TCSI.2005.852020-Sci_hub_10.1109_tcsi.2005.852020_page_7_img1.jpg",
+    "imageData": null,
+    "imageHeight": 1069,
+    "imageWidth": 1136,
+    "description": ""
+}

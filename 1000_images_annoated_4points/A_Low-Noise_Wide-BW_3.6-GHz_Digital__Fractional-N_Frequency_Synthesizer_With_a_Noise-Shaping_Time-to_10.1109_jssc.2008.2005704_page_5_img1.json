@@ -1,0 +1,185 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    462.0,
+                    83.0
+                ],
+                [
+                    562.0,
+                    83.0
+                ],
+                [
+                    562.0,
+                    156.0
+                ],
+                [
+                    462.0,
+                    156.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    326.0,
+                    118.0
+                ],
+                [
+                    378.0,
+                    118.0
+                ],
+                [
+                    378.0,
+                    174.0
+                ],
+                [
+                    326.0,
+                    174.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "trapezoid",
+            "score": null,
+            "points": [
+                [
+                    683.0,
+                    336.0
+                ],
+                [
+                    742.0,
+                    336.0
+                ],
+                [
+                    742.0,
+                    472.0
+                ],
+                [
+                    683.0,
+                    472.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    488.0,
+                    207.0
+                ],
+                [
+                    620.0,
+                    207.0
+                ],
+                [
+                    620.0,
+                    278.0
+                ],
+                [
+                    488.0,
+                    278.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    406.0,
+                    365.0
+                ],
+                [
+                    520.0,
+                    365.0
+                ],
+                [
+                    520.0,
+                    438.0
+                ],
+                [
+                    406.0,
+                    438.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    752.8053097345133,
+                    279.23893805309734
+                ],
+                [
+                    919.1769911504425,
+                    279.23893805309734
+                ],
+                [
+                    919.1769911504425,
+                    335.87610619469024
+                ],
+                [
+                    752.8053097345133,
+                    335.87610619469024
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "A_Low-Noise_Wide-BW_3.6-GHz_Digital__Fractional-N_Frequency_Synthesizer_With_a_Noise-Shaping_Time-to_10.1109_jssc.2008.2005704_page_5_img1.jpg",
+    "imageData": null,
+    "imageHeight": 816,
+    "imageWidth": 1118,
+    "description": ""
+}

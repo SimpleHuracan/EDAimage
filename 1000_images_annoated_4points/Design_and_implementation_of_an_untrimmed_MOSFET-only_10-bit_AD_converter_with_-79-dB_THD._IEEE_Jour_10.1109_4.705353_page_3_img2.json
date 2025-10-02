@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    188,
+                    250
+                ],
+                [
+                    459,
+                    250
+                ],
+                [
+                    459,
+                    432
+                ],
+                [
+                    188,
+                    432
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    985,
+                    516
+                ],
+                [
+                    1204,
+                    516
+                ],
+                [
+                    1204,
+                    701
+                ],
+                [
+                    985,
+                    701
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    188,
+                    517
+                ],
+                [
+                    458,
+                    517
+                ],
+                [
+                    458,
+                    700
+                ],
+                [
+                    188,
+                    700
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    535,
+                    516
+                ],
+                [
+                    813,
+                    516
+                ],
+                [
+                    813,
+                    698
+                ],
+                [
+                    535,
+                    698
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    761,
+                    70
+                ],
+                [
+                    1026,
+                    70
+                ],
+                [
+                    1026,
+                    252
+                ],
+                [
+                    761,
+                    252
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    578,
+                    98
+                ],
+                [
+                    704,
+                    98
+                ],
+                [
+                    704,
+                    222
+                ],
+                [
+                    578,
+                    222
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Design_and_implementation_of_an_untrimmed_MOSFET-only_10-bit_AD_converter_with_-79-dB_THD._IEEE_Jour_10.1109_4.705353_page_3_img2.jpg",
+    "imageData": null,
+    "imageHeight": 732,
+    "imageWidth": 1484
+}

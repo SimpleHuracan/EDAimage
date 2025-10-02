@@ -1,0 +1,271 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    456,
+                    33
+                ],
+                [
+                    595,
+                    33
+                ],
+                [
+                    595,
+                    139
+                ],
+                [
+                    456,
+                    139
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    117,
+                    33
+                ],
+                [
+                    257,
+                    33
+                ],
+                [
+                    257,
+                    140
+                ],
+                [
+                    117,
+                    140
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    911,
+                    38
+                ],
+                [
+                    1024,
+                    38
+                ],
+                [
+                    1024,
+                    125
+                ],
+                [
+                    911,
+                    125
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    795,
+                    254
+                ],
+                [
+                    934,
+                    254
+                ],
+                [
+                    934,
+                    361
+                ],
+                [
+                    795,
+                    361
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    719,
+                    63
+                ],
+                [
+                    786,
+                    63
+                ],
+                [
+                    786,
+                    104
+                ],
+                [
+                    719,
+                    104
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    825,
+                    164
+                ],
+                [
+                    890,
+                    164
+                ],
+                [
+                    890,
+                    205
+                ],
+                [
+                    825,
+                    205
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    366,
+                    103
+                ],
+                [
+                    403,
+                    103
+                ],
+                [
+                    403,
+                    139
+                ],
+                [
+                    366,
+                    139
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    296,
+                    34
+                ],
+                [
+                    335,
+                    34
+                ],
+                [
+                    335,
+                    71
+                ],
+                [
+                    296,
+                    71
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    640,
+                    67
+                ],
+                [
+                    676,
+                    67
+                ],
+                [
+                    676,
+                    105
+                ],
+                [
+                    640,
+                    105
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\From_PID_to_Active_Disturbance_Rejection_Control._IEEE_Transactions_on_Industrial_Electronics,_56(3)_10.1109_tie.2008.2011621_page_4_img1.jpg",
+    "imageData": null,
+    "imageHeight": 372,
+    "imageWidth": 1126
+}

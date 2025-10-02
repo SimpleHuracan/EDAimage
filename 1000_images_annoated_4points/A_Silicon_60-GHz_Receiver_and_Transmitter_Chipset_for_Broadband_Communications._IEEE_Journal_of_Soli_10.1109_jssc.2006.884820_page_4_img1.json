@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    855,
+                    359
+                ],
+                [
+                    1032,
+                    359
+                ],
+                [
+                    1032,
+                    447
+                ],
+                [
+                    855,
+                    447
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    435,
+                    177
+                ],
+                [
+                    564,
+                    177
+                ],
+                [
+                    564,
+                    267
+                ],
+                [
+                    435,
+                    267
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    628,
+                    177
+                ],
+                [
+                    756,
+                    177
+                ],
+                [
+                    756,
+                    266
+                ],
+                [
+                    628,
+                    266
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    823,
+                    178
+                ],
+                [
+                    953,
+                    178
+                ],
+                [
+                    953,
+                    266
+                ],
+                [
+                    823,
+                    266
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    1035,
+                    165
+                ],
+                [
+                    1127,
+                    165
+                ],
+                [
+                    1127,
+                    274
+                ],
+                [
+                    1035,
+                    274
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    563,
+                    351
+                ],
+                [
+                    756,
+                    351
+                ],
+                [
+                    756,
+                    454
+                ],
+                [
+                    563,
+                    454
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    1206,
+                    177
+                ],
+                [
+                    1274,
+                    177
+                ],
+                [
+                    1274,
+                    269
+                ],
+                [
+                    1206,
+                    269
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_Silicon_60-GHz_Receiver_and_Transmitter_Chipset_for_Broadband_Communications._IEEE_Journal_of_Soli_10.1109_jssc.2006.884820_page_4_img1.jpg",
+    "imageData": null,
+    "imageHeight": 535,
+    "imageWidth": 1719
+}

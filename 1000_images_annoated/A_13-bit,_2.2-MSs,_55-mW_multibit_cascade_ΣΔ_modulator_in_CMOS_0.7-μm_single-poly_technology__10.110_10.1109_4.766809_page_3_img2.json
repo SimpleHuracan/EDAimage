@@ -1,0 +1,243 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          657.0,
+          215.0
+        ],
+        [
+          753.0,
+          215.0
+        ],
+        [
+          753.0,
+          291.0
+        ],
+        [
+          657.0,
+          291.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          642.0,
+          351.0
+        ],
+        [
+          732.0,
+          351.0
+        ],
+        [
+          732.0,
+          424.0
+        ],
+        [
+          642.0,
+          424.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          584.0,
+          456.0
+        ],
+        [
+          677.0,
+          456.0
+        ],
+        [
+          677.0,
+          530.0
+        ],
+        [
+          584.0,
+          530.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          681.0,
+          99.0
+        ],
+        [
+          746.0,
+          99.0
+        ],
+        [
+          746.0,
+          173.0
+        ],
+        [
+          681.0,
+          173.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          844.0,
+          85.0
+        ],
+        [
+          935.0,
+          85.0
+        ],
+        [
+          935.0,
+          526.0
+        ],
+        [
+          844.0,
+          526.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          416.0,
+          70.0
+        ],
+        [
+          580.0,
+          70.0
+        ],
+        [
+          580.0,
+          204.0
+        ],
+        [
+          416.0,
+          204.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          151.0,
+          69.0
+        ],
+        [
+          317.0,
+          69.0
+        ],
+        [
+          317.0,
+          205.0
+        ],
+        [
+          151.0,
+          205.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          398.1006711409396,
+          321.0
+        ],
+        [
+          561.0,
+          321.0
+        ],
+        [
+          561.0,
+          455.76510067114094
+        ],
+        [
+          398.1006711409396,
+          455.76510067114094
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "A_13-bit,_2.2-MSs,_55-mW_multibit_cascade_ΣΔ_modulator_in_CMOS_0.7-μm_single-poly_technology__10.110_10.1109_4.766809_page_3_img2.jpg",
+  "imageData": null,
+  "imageHeight": 582,
+  "imageWidth": 1066,
+  "description": ""
+}

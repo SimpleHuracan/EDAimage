@@ -1,0 +1,185 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "trapezoid",
+      "score": null,
+      "points": [
+        [
+          431.0,
+          99.0
+        ],
+        [
+          490.0,
+          99.0
+        ],
+        [
+          490.0,
+          246.0
+        ],
+        [
+          431.0,
+          246.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          625.0,
+          87.0
+        ],
+        [
+          845.0,
+          87.0
+        ],
+        [
+          845.0,
+          250.0
+        ],
+        [
+          625.0,
+          250.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          416.0,
+          382.0
+        ],
+        [
+          526.0,
+          382.0
+        ],
+        [
+          526.0,
+          477.0
+        ],
+        [
+          416.0,
+          477.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          917.0,
+          158.0
+        ],
+        [
+          946.0,
+          158.0
+        ],
+        [
+          946.0,
+          179.0
+        ],
+        [
+          917.0,
+          179.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          424.0,
+          276.0
+        ],
+        [
+          516.0,
+          276.0
+        ],
+        [
+          516.0,
+          355.0
+        ],
+        [
+          424.0,
+          355.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          178.5789473684211,
+          63.74999999999998
+        ],
+        [
+          366.0789473684211,
+          63.74999999999998
+        ],
+        [
+          366.0789473684211,
+          201.25
+        ],
+        [
+          178.5789473684211,
+          201.25
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "A_TDC-Less_7_mW_2.5_Gbs_Digital_CDR_With_Linear_Loop_Dynamics_and_Offset-Free_Data_Recovery._IEEE_Jo_10.1109_jssc.2011.2168873_page_7_img4.jpg",
+  "imageData": null,
+  "imageHeight": 515,
+  "imageWidth": 1044,
+  "description": ""
+}

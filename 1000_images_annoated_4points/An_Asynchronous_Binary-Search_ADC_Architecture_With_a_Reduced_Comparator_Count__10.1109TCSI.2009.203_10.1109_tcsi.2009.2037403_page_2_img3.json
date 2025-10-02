@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    891,
+                    534
+                ],
+                [
+                    1088,
+                    534
+                ],
+                [
+                    1088,
+                    643
+                ],
+                [
+                    891,
+                    643
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    892,
+                    372
+                ],
+                [
+                    1087,
+                    372
+                ],
+                [
+                    1087,
+                    481
+                ],
+                [
+                    892,
+                    481
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    543,
+                    372
+                ],
+                [
+                    737,
+                    372
+                ],
+                [
+                    737,
+                    482
+                ],
+                [
+                    543,
+                    482
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    891,
+                    213
+                ],
+                [
+                    1088,
+                    213
+                ],
+                [
+                    1088,
+                    323
+                ],
+                [
+                    891,
+                    323
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    194,
+                    324
+                ],
+                [
+                    388,
+                    324
+                ],
+                [
+                    388,
+                    433
+                ],
+                [
+                    194,
+                    433
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    543,
+                    212
+                ],
+                [
+                    738,
+                    212
+                ],
+                [
+                    738,
+                    323
+                ],
+                [
+                    543,
+                    323
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    892,
+                    46
+                ],
+                [
+                    1087,
+                    46
+                ],
+                [
+                    1087,
+                    157
+                ],
+                [
+                    892,
+                    157
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\An_Asynchronous_Binary-Search_ADC_Architecture_With_a_Reduced_Comparator_Count__10.1109TCSI.2009.203_10.1109_tcsi.2009.2037403_page_2_img3.jpg",
+    "imageData": null,
+    "imageHeight": 716,
+    "imageWidth": 1154
+}

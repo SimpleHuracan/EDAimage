@@ -1,0 +1,272 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1132.0,
+          543.0
+        ],
+        [
+          1261.0,
+          543.0
+        ],
+        [
+          1261.0,
+          630.0
+        ],
+        [
+          1132.0,
+          630.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          832.0,
+          544.0
+        ],
+        [
+          961.0,
+          544.0
+        ],
+        [
+          961.0,
+          630.0
+        ],
+        [
+          832.0,
+          630.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          878.0,
+          95.0
+        ],
+        [
+          978.0,
+          95.0
+        ],
+        [
+          978.0,
+          298.0
+        ],
+        [
+          878.0,
+          298.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1168.0,
+          93.0
+        ],
+        [
+          1274.0,
+          93.0
+        ],
+        [
+          1274.0,
+          299.0
+        ],
+        [
+          1168.0,
+          299.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          181.0,
+          95.0
+        ],
+        [
+          269.0,
+          95.0
+        ],
+        [
+          269.0,
+          179.0
+        ],
+        [
+          181.0,
+          179.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1023.0,
+          94.0
+        ],
+        [
+          1125.0,
+          94.0
+        ],
+        [
+          1125.0,
+          298.0
+        ],
+        [
+          1023.0,
+          298.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          333.0,
+          279.0
+        ],
+        [
+          458.0,
+          279.0
+        ],
+        [
+          458.0,
+          343.0
+        ],
+        [
+          333.0,
+          343.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          332.0,
+          96.0
+        ],
+        [
+          636.0,
+          96.0
+        ],
+        [
+          636.0,
+          182.0
+        ],
+        [
+          332.0,
+          182.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          334.0714285714286,
+          188.08928571428572
+        ],
+        [
+          635.8571428571429,
+          188.08928571428572
+        ],
+        [
+          635.8571428571429,
+          271.125
+        ],
+        [
+          334.0714285714286,
+          271.125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "A_1_GHz_ADPLL_With_a_1.25_ps_Minimum-Resolution_Sub-Exponent_TDC_in_0.18_$mu$m_CMOS._IEEE_Journal_of_10.1109_jssc.2010.2077110_page_5_img2.jpg",
+  "imageData": null,
+  "imageHeight": 661,
+  "imageWidth": 1411,
+  "description": ""
+}

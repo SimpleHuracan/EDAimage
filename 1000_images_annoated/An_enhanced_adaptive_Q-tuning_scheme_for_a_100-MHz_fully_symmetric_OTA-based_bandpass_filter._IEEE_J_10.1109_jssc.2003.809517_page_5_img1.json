@@ -1,0 +1,301 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          493.0,
+          658.0
+        ],
+        [
+          555.0,
+          658.0
+        ],
+        [
+          555.0,
+          718.0
+        ],
+        [
+          493.0,
+          718.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          493.0,
+          73.0
+        ],
+        [
+          555.0,
+          73.0
+        ],
+        [
+          555.0,
+          133.0
+        ],
+        [
+          493.0,
+          133.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          405.0,
+          189.0
+        ],
+        [
+          467.0,
+          189.0
+        ],
+        [
+          467.0,
+          250.0
+        ],
+        [
+          405.0,
+          250.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          404.0,
+          540.0
+        ],
+        [
+          467.0,
+          540.0
+        ],
+        [
+          467.0,
+          601.0
+        ],
+        [
+          404.0,
+          601.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          260.0,
+          408.0
+        ],
+        [
+          348.0,
+          408.0
+        ],
+        [
+          348.0,
+          499.0
+        ],
+        [
+          260.0,
+          499.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          260.0,
+          175.0
+        ],
+        [
+          347.0,
+          175.0
+        ],
+        [
+          347.0,
+          266.0
+        ],
+        [
+          260.0,
+          266.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          260.0,
+          642.0
+        ],
+        [
+          347.0,
+          642.0
+        ],
+        [
+          347.0,
+          733.0
+        ],
+        [
+          260.0,
+          733.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          260.0,
+          526.0
+        ],
+        [
+          347.0,
+          526.0
+        ],
+        [
+          347.0,
+          616.0
+        ],
+        [
+          260.0,
+          616.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          260.0,
+          58.0
+        ],
+        [
+          347.0,
+          58.0
+        ],
+        [
+          347.0,
+          149.0
+        ],
+        [
+          260.0,
+          149.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          260.0,
+          292.0
+        ],
+        [
+          347.0,
+          292.0
+        ],
+        [
+          347.0,
+          383.0
+        ],
+        [
+          260.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "An_enhanced_adaptive_Q-tuning_scheme_for_a_100-MHz_fully_symmetric_OTA-based_bandpass_filter._IEEE_J_10.1109_jssc.2003.809517_page_5_img1.jpg",
+  "imageData": null,
+  "imageHeight": 778,
+  "imageWidth": 751,
+  "description": ""
+}

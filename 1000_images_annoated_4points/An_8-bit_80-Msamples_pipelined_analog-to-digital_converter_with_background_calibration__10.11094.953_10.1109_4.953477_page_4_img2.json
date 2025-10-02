@@ -1,0 +1,214 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    919.0,
+                    292.0
+                ],
+                [
+                    1026.0,
+                    292.0
+                ],
+                [
+                    1026.0,
+                    424.0
+                ],
+                [
+                    919.0,
+                    424.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    775.0,
+                    292.0
+                ],
+                [
+                    881.0,
+                    292.0
+                ],
+                [
+                    881.0,
+                    424.0
+                ],
+                [
+                    775.0,
+                    424.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    510.0,
+                    330.0
+                ],
+                [
+                    567.0,
+                    330.0
+                ],
+                [
+                    567.0,
+                    384.0
+                ],
+                [
+                    510.0,
+                    384.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    281.0,
+                    225.0
+                ],
+                [
+                    401.0,
+                    225.0
+                ],
+                [
+                    401.0,
+                    279.0
+                ],
+                [
+                    281.0,
+                    279.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    482.0,
+                    226.0
+                ],
+                [
+                    598.0,
+                    226.0
+                ],
+                [
+                    598.0,
+                    279.0
+                ],
+                [
+                    482.0,
+                    279.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    605.0,
+                    293.0
+                ],
+                [
+                    711.0,
+                    293.0
+                ],
+                [
+                    711.0,
+                    422.0
+                ],
+                [
+                    605.0,
+                    422.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    379.0,
+                    119.0
+                ],
+                [
+                    1023.956834532374,
+                    119.0
+                ],
+                [
+                    1023.956834532374,
+                    171.78057553956836
+                ],
+                [
+                    379.0,
+                    171.78057553956836
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        }
+    ],
+    "imagePath": "An_8-bit_80-Msamples_pipelined_analog-to-digital_converter_with_background_calibration__10.11094.953_10.1109_4.953477_page_4_img2.jpg",
+    "imageData": null,
+    "imageHeight": 445,
+    "imageWidth": 1140,
+    "description": ""
+}

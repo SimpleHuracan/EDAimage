@@ -1,0 +1,185 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          317.76258992805754,
+          395.0
+        ],
+        [
+          932.8705035971223,
+          395.0
+        ],
+        [
+          932.8705035971223,
+          460.44244604316543
+        ],
+        [
+          317.76258992805754,
+          460.44244604316543
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          519.0,
+          123.0
+        ],
+        [
+          583.0,
+          123.0
+        ],
+        [
+          583.0,
+          187.0
+        ],
+        [
+          519.0,
+          187.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          801.0,
+          96.0
+        ],
+        [
+          965.0,
+          96.0
+        ],
+        [
+          965.0,
+          217.0
+        ],
+        [
+          801.0,
+          217.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          631.0,
+          106.0
+        ],
+        [
+          722.0,
+          106.0
+        ],
+        [
+          722.0,
+          207.0
+        ],
+        [
+          631.0,
+          207.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          379.0,
+          204.0
+        ],
+        [
+          512.0,
+          204.0
+        ],
+        [
+          512.0,
+          288.0
+        ],
+        [
+          379.0,
+          288.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          204.8129496402878,
+          203.60791366906471
+        ],
+        [
+          337.18705035971226,
+          203.60791366906471
+        ],
+        [
+          337.18705035971226,
+          287.7805755395683
+        ],
+        [
+          204.8129496402878,
+          287.7805755395683
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "A_SAR-Assisted_Two-Stage_Pipeline_ADC__10.1109jssc.2011.2108133_10.1109_jssc.2011.2108133_page_5_img1.jpg",
+  "imageData": null,
+  "imageHeight": 477,
+  "imageWidth": 1142,
+  "description": ""
+}

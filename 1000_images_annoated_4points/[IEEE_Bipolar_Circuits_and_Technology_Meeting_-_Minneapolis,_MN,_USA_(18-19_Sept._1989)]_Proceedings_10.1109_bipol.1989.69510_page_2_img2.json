@@ -1,0 +1,272 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    739.0,
+                    44.0
+                ],
+                [
+                    925.0,
+                    44.0
+                ],
+                [
+                    925.0,
+                    168.0
+                ],
+                [
+                    739.0,
+                    168.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "trapezoid",
+            "score": null,
+            "points": [
+                [
+                    832.0,
+                    250.0
+                ],
+                [
+                    873.0,
+                    250.0
+                ],
+                [
+                    873.0,
+                    318.0
+                ],
+                [
+                    832.0,
+                    318.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    686.0,
+                    192.0
+                ],
+                [
+                    727.0,
+                    192.0
+                ],
+                [
+                    727.0,
+                    243.0
+                ],
+                [
+                    686.0,
+                    243.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    733.0,
+                    275.0
+                ],
+                [
+                    785.0,
+                    275.0
+                ],
+                [
+                    785.0,
+                    318.0
+                ],
+                [
+                    733.0,
+                    318.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "trapezoid",
+            "score": null,
+            "points": [
+                [
+                    331.0,
+                    223.77358490566039
+                ],
+                [
+                    414.09433962264154,
+                    223.77358490566039
+                ],
+                [
+                    414.09433962264154,
+                    387.92452830188677
+                ],
+                [
+                    331.0,
+                    387.92452830188677
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    213.0,
+                    35.0
+                ],
+                [
+                    342.0,
+                    35.0
+                ],
+                [
+                    342.0,
+                    94.0
+                ],
+                [
+                    213.0,
+                    94.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    415.0,
+                    121.0
+                ],
+                [
+                    606.0,
+                    121.0
+                ],
+                [
+                    606.0,
+                    200.0
+                ],
+                [
+                    415.0,
+                    200.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "label": "trapezoid",
+            "score": null,
+            "points": [
+                [
+                    206.5471698113208,
+                    224.40251572327045
+                ],
+                [
+                    290.19496855345915,
+                    224.40251572327045
+                ],
+                [
+                    290.19496855345915,
+                    387.92452830188677
+                ],
+                [
+                    206.5471698113208,
+                    387.92452830188677
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    192.71069182389942,
+                    118.11320754716982
+                ],
+                [
+                    358.119496855346,
+                    118.11320754716982
+                ],
+                [
+                    358.119496855346,
+                    199.24528301886792
+                ],
+                [
+                    192.71069182389942,
+                    199.24528301886792
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "[IEEE_Bipolar_Circuits_and_Technology_Meeting_-_Minneapolis,_MN,_USA_(18-19_Sept._1989)]_Proceedings_10.1109_bipol.1989.69510_page_2_img2.jpg",
+    "imageData": null,
+    "imageHeight": 440,
+    "imageWidth": 998,
+    "description": ""
+}

@@ -1,0 +1,242 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    163,
+                    213
+                ],
+                [
+                    258,
+                    213
+                ],
+                [
+                    258,
+                    277
+                ],
+                [
+                    163,
+                    277
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    445,
+                    394
+                ],
+                [
+                    511,
+                    394
+                ],
+                [
+                    511,
+                    458
+                ],
+                [
+                    445,
+                    458
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    333,
+                    226
+                ],
+                [
+                    375,
+                    226
+                ],
+                [
+                    375,
+                    267
+                ],
+                [
+                    333,
+                    267
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    585,
+                    227
+                ],
+                [
+                    628,
+                    227
+                ],
+                [
+                    628,
+                    268
+                ],
+                [
+                    585,
+                    268
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    445,
+                    304
+                ],
+                [
+                    511,
+                    304
+                ],
+                [
+                    511,
+                    367
+                ],
+                [
+                    445,
+                    367
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    448,
+                    213
+                ],
+                [
+                    544,
+                    213
+                ],
+                [
+                    544,
+                    277
+                ],
+                [
+                    448,
+                    277
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    221,
+                    32
+                ],
+                [
+                    287,
+                    32
+                ],
+                [
+                    287,
+                    96
+                ],
+                [
+                    221,
+                    96
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    221,
+                    124
+                ],
+                [
+                    286,
+                    124
+                ],
+                [
+                    286,
+                    187
+                ],
+                [
+                    221,
+                    187
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\MOS_switched-capacitor_filters__10.1109PROC.1979.11203_10.1109_proc.1979.11203_page_2_img2.jpg",
+    "imageData": null,
+    "imageHeight": 478,
+    "imageWidth": 782
+}

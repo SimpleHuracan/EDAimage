@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    352,
+                    51
+                ],
+                [
+                    477,
+                    51
+                ],
+                [
+                    477,
+                    122
+                ],
+                [
+                    352,
+                    122
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    350,
+                    156
+                ],
+                [
+                    475,
+                    156
+                ],
+                [
+                    475,
+                    228
+                ],
+                [
+                    350,
+                    228
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    350,
+                    261
+                ],
+                [
+                    476,
+                    261
+                ],
+                [
+                    476,
+                    335
+                ],
+                [
+                    350,
+                    335
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    202,
+                    153
+                ],
+                [
+                    269,
+                    153
+                ],
+                [
+                    269,
+                    227
+                ],
+                [
+                    202,
+                    227
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    351,
+                    408
+                ],
+                [
+                    477,
+                    408
+                ],
+                [
+                    477,
+                    482
+                ],
+                [
+                    351,
+                    482
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    707,
+                    144
+                ],
+                [
+                    819,
+                    144
+                ],
+                [
+                    819,
+                    241
+                ],
+                [
+                    707,
+                    241
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    572,
+                    154
+                ],
+                [
+                    638,
+                    154
+                ],
+                [
+                    638,
+                    228
+                ],
+                [
+                    572,
+                    228
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_fully_digital,_energy-efficient,_adaptive_power-supply_regulator__10.11094.753685_Sci-hub_10.1109_4.753685_page_3_img1.jpg",
+    "imageData": null,
+    "imageHeight": 513,
+    "imageWidth": 1047
+}

@@ -1,0 +1,243 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    491.0,
+                    259.0
+                ],
+                [
+                    573.0,
+                    259.0
+                ],
+                [
+                    573.0,
+                    300.0
+                ],
+                [
+                    491.0,
+                    300.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    217.0,
+                    120.0
+                ],
+                [
+                    323.0,
+                    120.0
+                ],
+                [
+                    323.0,
+                    174.0
+                ],
+                [
+                    217.0,
+                    174.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    408.0,
+                    120.0
+                ],
+                [
+                    454.0,
+                    120.0
+                ],
+                [
+                    454.0,
+                    175.0
+                ],
+                [
+                    408.0,
+                    175.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    606.0,
+                    121.0
+                ],
+                [
+                    743.0,
+                    121.0
+                ],
+                [
+                    743.0,
+                    175.0
+                ],
+                [
+                    606.0,
+                    175.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    487.0,
+                    115.0
+                ],
+                [
+                    554.0,
+                    115.0
+                ],
+                [
+                    554.0,
+                    182.0
+                ],
+                [
+                    487.0,
+                    182.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    816.0,
+                    120.0
+                ],
+                [
+                    935.0,
+                    120.0
+                ],
+                [
+                    935.0,
+                    174.0
+                ],
+                [
+                    816.0,
+                    174.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    160.0,
+                    135.0
+                ],
+                [
+                    184.0,
+                    135.0
+                ],
+                [
+                    184.0,
+                    155.0
+                ],
+                [
+                    160.0,
+                    155.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    354.0,
+                    136.0
+                ],
+                [
+                    370.0,
+                    136.0
+                ],
+                [
+                    370.0,
+                    153.0
+                ],
+                [
+                    354.0,
+                    153.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        }
+    ],
+    "imagePath": "[IEEE_2008_IEEE_Asian_Solid-State_Circuits_Conference_(A-SSCC)_-_Fukuoka,_Japan_(2008.11.3-2008.11.5_10.1109_asscc.2008.4708803_page_1_img3.jpg",
+    "imageData": null,
+    "imageHeight": 381,
+    "imageWidth": 1121,
+    "description": ""
+}

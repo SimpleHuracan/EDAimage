@@ -1,0 +1,185 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    884.0,
+                    102.0
+                ],
+                [
+                    1007.0,
+                    102.0
+                ],
+                [
+                    1007.0,
+                    223.0
+                ],
+                [
+                    884.0,
+                    223.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    301.0,
+                    97.0
+                ],
+                [
+                    463.0,
+                    97.0
+                ],
+                [
+                    463.0,
+                    227.0
+                ],
+                [
+                    301.0,
+                    227.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    593.0,
+                    97.0
+                ],
+                [
+                    752.0,
+                    97.0
+                ],
+                [
+                    752.0,
+                    226.0
+                ],
+                [
+                    593.0,
+                    226.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    560.0,
+                    321.0
+                ],
+                [
+                    782.0,
+                    321.0
+                ],
+                [
+                    782.0,
+                    453.0
+                ],
+                [
+                    560.0,
+                    453.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    367.0,
+                    757.0
+                ],
+                [
+                    439.0,
+                    757.0
+                ],
+                [
+                    439.0,
+                    808.0
+                ],
+                [
+                    367.0,
+                    808.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "trapezoid",
+            "score": null,
+            "points": [
+                [
+                    334.0,
+                    553.0
+                ],
+                [
+                    464.0,
+                    553.0
+                ],
+                [
+                    464.0,
+                    745.0
+                ],
+                [
+                    334.0,
+                    745.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        }
+    ],
+    "imagePath": "[The_International_Series_in_Engineering_and_Computer_Science]_CMOS_Fractional-N_Synthesizers_Volume_10.1007_0-306-48001-8_6_page_2_img1.jpg",
+    "imageData": null,
+    "imageHeight": 878,
+    "imageWidth": 1269,
+    "description": ""
+}

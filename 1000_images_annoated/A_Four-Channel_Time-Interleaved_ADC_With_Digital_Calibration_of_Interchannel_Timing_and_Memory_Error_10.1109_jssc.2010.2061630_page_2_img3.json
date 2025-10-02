@@ -1,0 +1,359 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          235.0,
+          230.0
+        ],
+        [
+          334.0,
+          230.0
+        ],
+        [
+          334.0,
+          303.0
+        ],
+        [
+          235.0,
+          303.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          235.0,
+          503.0
+        ],
+        [
+          334.0,
+          503.0
+        ],
+        [
+          334.0,
+          575.0
+        ],
+        [
+          235.0,
+          575.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          824.0,
+          101.0
+        ],
+        [
+          967.0,
+          101.0
+        ],
+        [
+          967.0,
+          585.0
+        ],
+        [
+          824.0,
+          585.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          236.0,
+          95.0
+        ],
+        [
+          334.0,
+          95.0
+        ],
+        [
+          334.0,
+          170.0
+        ],
+        [
+          236.0,
+          170.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          377.0,
+          503.0
+        ],
+        [
+          478.0,
+          503.0
+        ],
+        [
+          478.0,
+          575.0
+        ],
+        [
+          377.0,
+          575.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          235.0,
+          368.0
+        ],
+        [
+          333.0,
+          368.0
+        ],
+        [
+          333.0,
+          442.0
+        ],
+        [
+          235.0,
+          442.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          376.0,
+          230.0
+        ],
+        [
+          478.0,
+          230.0
+        ],
+        [
+          478.0,
+          303.0
+        ],
+        [
+          376.0,
+          303.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          521.0,
+          99.16546762589928
+        ],
+        [
+          603.0323741007194,
+          99.16546762589928
+        ],
+        [
+          603.0323741007194,
+          577.0
+        ],
+        [
+          521.0,
+          577.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          672.0,
+          99.88489208633095
+        ],
+        [
+          761.3057553956834,
+          99.88489208633095
+        ],
+        [
+          761.3057553956834,
+          581.0
+        ],
+        [
+          672.0,
+          581.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          377.0,
+          96.0
+        ],
+        [
+          479.0,
+          96.0
+        ],
+        [
+          479.0,
+          170.0
+        ],
+        [
+          377.0,
+          170.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          375.0,
+          369.0
+        ],
+        [
+          478.0,
+          369.0
+        ],
+        [
+          478.0,
+          443.0
+        ],
+        [
+          375.0,
+          443.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          3.0,
+          0.0
+        ],
+        [
+          201.0,
+          0.0
+        ],
+        [
+          201.0,
+          601.0
+        ],
+        [
+          3.0,
+          601.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "A_Four-Channel_Time-Interleaved_ADC_With_Digital_Calibration_of_Interchannel_Timing_and_Memory_Error_10.1109_jssc.2010.2061630_page_2_img3.jpg",
+  "imageData": null,
+  "imageHeight": 612,
+  "imageWidth": 1137,
+  "description": ""
+}

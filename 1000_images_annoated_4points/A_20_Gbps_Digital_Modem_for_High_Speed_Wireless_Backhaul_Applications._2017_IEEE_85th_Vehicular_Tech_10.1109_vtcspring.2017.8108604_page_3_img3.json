@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    209,
+                    132
+                ],
+                [
+                    338,
+                    132
+                ],
+                [
+                    338,
+                    208
+                ],
+                [
+                    209,
+                    208
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    599,
+                    133
+                ],
+                [
+                    746,
+                    133
+                ],
+                [
+                    746,
+                    208
+                ],
+                [
+                    599,
+                    208
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    209,
+                    21
+                ],
+                [
+                    338,
+                    21
+                ],
+                [
+                    338,
+                    97
+                ],
+                [
+                    209,
+                    97
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    600,
+                    20
+                ],
+                [
+                    747,
+                    20
+                ],
+                [
+                    747,
+                    96
+                ],
+                [
+                    600,
+                    96
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    403,
+                    133
+                ],
+                [
+                    532,
+                    133
+                ],
+                [
+                    532,
+                    207
+                ],
+                [
+                    403,
+                    207
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    402,
+                    21
+                ],
+                [
+                    532,
+                    21
+                ],
+                [
+                    532,
+                    96
+                ],
+                [
+                    402,
+                    96
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    814,
+                    20
+                ],
+                [
+                    923,
+                    20
+                ],
+                [
+                    923,
+                    96
+                ],
+                [
+                    814,
+                    96
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_20_Gbps_Digital_Modem_for_High_Speed_Wireless_Backhaul_Applications._2017_IEEE_85th_Vehicular_Tech_10.1109_vtcspring.2017.8108604_page_3_img3.jpg",
+    "imageData": null,
+    "imageHeight": 214,
+    "imageWidth": 1127
+}

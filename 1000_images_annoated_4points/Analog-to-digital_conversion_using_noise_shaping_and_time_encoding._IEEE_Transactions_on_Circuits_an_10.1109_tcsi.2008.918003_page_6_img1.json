@@ -1,0 +1,156 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    429.0,
+                    329.0
+                ],
+                [
+                    565.0,
+                    329.0
+                ],
+                [
+                    565.0,
+                    401.0
+                ],
+                [
+                    429.0,
+                    401.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    455.0,
+                    102.0
+                ],
+                [
+                    568.0,
+                    102.0
+                ],
+                [
+                    568.0,
+                    215.0
+                ],
+                [
+                    455.0,
+                    215.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    158.0,
+                    97.0
+                ],
+                [
+                    364.0,
+                    97.0
+                ],
+                [
+                    364.0,
+                    217.0
+                ],
+                [
+                    158.0,
+                    217.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    577.0,
+                    248.0
+                ],
+                [
+                    653.0,
+                    248.0
+                ],
+                [
+                    653.0,
+                    311.0
+                ],
+                [
+                    577.0,
+                    311.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "pentagon",
+            "score": null,
+            "points": [
+                [
+                    235.0,
+                    325.0
+                ],
+                [
+                    377.0,
+                    325.0
+                ],
+                [
+                    377.0,
+                    398.0
+                ],
+                [
+                    235.0,
+                    398.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        }
+    ],
+    "imagePath": "Analog-to-digital_conversion_using_noise_shaping_and_time_encoding._IEEE_Transactions_on_Circuits_an_10.1109_tcsi.2008.918003_page_6_img1.jpg",
+    "imageData": null,
+    "imageHeight": 435,
+    "imageWidth": 771,
+    "description": ""
+}

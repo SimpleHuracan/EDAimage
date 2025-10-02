@@ -1,0 +1,243 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          980.0,
+          46.0
+        ],
+        [
+          1187.0,
+          46.0
+        ],
+        [
+          1187.0,
+          225.0
+        ],
+        [
+          980.0,
+          225.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          361.0,
+          43.0
+        ],
+        [
+          591.0,
+          43.0
+        ],
+        [
+          591.0,
+          224.0
+        ],
+        [
+          361.0,
+          224.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1105.0,
+          375.0
+        ],
+        [
+          1315.0,
+          375.0
+        ],
+        [
+          1315.0,
+          558.0
+        ],
+        [
+          1105.0,
+          558.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          803.0,
+          376.0
+        ],
+        [
+          1011.0,
+          376.0
+        ],
+        [
+          1011.0,
+          560.0
+        ],
+        [
+          803.0,
+          560.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          627.0,
+          223.0
+        ],
+        [
+          774.0,
+          223.0
+        ],
+        [
+          774.0,
+          347.0
+        ],
+        [
+          627.0,
+          347.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          97.0,
+          73.0
+        ],
+        [
+          245.0,
+          73.0
+        ],
+        [
+          245.0,
+          195.0
+        ],
+        [
+          97.0,
+          195.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          1037.0,
+          448.0
+        ],
+        [
+          1074.0,
+          448.0
+        ],
+        [
+          1074.0,
+          483.0
+        ],
+        [
+          1037.0,
+          483.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          684.0,
+          115.0
+        ],
+        [
+          719.0,
+          115.0
+        ],
+        [
+          719.0,
+          148.0
+        ],
+        [
+          684.0,
+          148.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Digital_Video_Broadcasting_(DVB)__10.1007978-3-662-04562-6_10.1007_978-3-662-04562-6_page_79_img1.jpg",
+  "imageData": null,
+  "imageHeight": 591,
+  "imageWidth": 1566,
+  "description": ""
+}

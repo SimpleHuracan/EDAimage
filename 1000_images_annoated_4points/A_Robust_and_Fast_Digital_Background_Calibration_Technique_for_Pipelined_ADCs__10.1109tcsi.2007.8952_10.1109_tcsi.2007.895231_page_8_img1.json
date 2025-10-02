@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    464,
+                    141
+                ],
+                [
+                    543,
+                    141
+                ],
+                [
+                    543,
+                    225
+                ],
+                [
+                    464,
+                    225
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    302,
+                    141
+                ],
+                [
+                    382,
+                    141
+                ],
+                [
+                    382,
+                    225
+                ],
+                [
+                    302,
+                    225
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    787,
+                    143
+                ],
+                [
+                    867,
+                    143
+                ],
+                [
+                    867,
+                    225
+                ],
+                [
+                    787,
+                    225
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    626,
+                    141
+                ],
+                [
+                    706,
+                    141
+                ],
+                [
+                    706,
+                    225
+                ],
+                [
+                    626,
+                    225
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    199,
+                    161
+                ],
+                [
+                    243,
+                    161
+                ],
+                [
+                    243,
+                    205
+                ],
+                [
+                    199,
+                    205
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    953,
+                    161
+                ],
+                [
+                    998,
+                    161
+                ],
+                [
+                    998,
+                    205
+                ],
+                [
+                    953,
+                    205
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_Robust_and_Fast_Digital_Background_Calibration_Technique_for_Pipelined_ADCs__10.1109tcsi.2007.8952_10.1109_tcsi.2007.895231_page_8_img1.jpg",
+    "imageData": null,
+    "imageHeight": 472,
+    "imageWidth": 1090
+}

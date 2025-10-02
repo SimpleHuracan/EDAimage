@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    855,
+                    203
+                ],
+                [
+                    925,
+                    203
+                ],
+                [
+                    925,
+                    274
+                ],
+                [
+                    855,
+                    274
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    372,
+                    35
+                ],
+                [
+                    495,
+                    35
+                ],
+                [
+                    495,
+                    116
+                ],
+                [
+                    372,
+                    116
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    657,
+                    36
+                ],
+                [
+                    780,
+                    36
+                ],
+                [
+                    780,
+                    116
+                ],
+                [
+                    657,
+                    116
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    261,
+                    46
+                ],
+                [
+                    321,
+                    46
+                ],
+                [
+                    321,
+                    102
+                ],
+                [
+                    261,
+                    102
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    547,
+                    46
+                ],
+                [
+                    606,
+                    46
+                ],
+                [
+                    606,
+                    103
+                ],
+                [
+                    547,
+                    103
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    855,
+                    40
+                ],
+                [
+                    924,
+                    40
+                ],
+                [
+                    924,
+                    110
+                ],
+                [
+                    855,
+                    110
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    562,
+                    155
+                ],
+                [
+                    592,
+                    155
+                ],
+                [
+                    592,
+                    185
+                ],
+                [
+                    562,
+                    185
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_1.5-V-100-μW_ΔΣ_modulator_with_12-b_dynamic_range_using_the_switched-opamp_technique._IEEE_Journal_10.1109_4.597284_page_4_img1.jpg",
+    "imageData": null,
+    "imageHeight": 296,
+    "imageWidth": 1218
+}

@@ -1,0 +1,185 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    476.0,
+                    474.0
+                ],
+                [
+                    1010.0,
+                    474.0
+                ],
+                [
+                    1010.0,
+                    651.0
+                ],
+                [
+                    476.0,
+                    651.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    722.0,
+                    55.0
+                ],
+                [
+                    1100.0,
+                    55.0
+                ],
+                [
+                    1100.0,
+                    200.0
+                ],
+                [
+                    722.0,
+                    200.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    911.0,
+                    333.0
+                ],
+                [
+                    1105.0,
+                    333.0
+                ],
+                [
+                    1105.0,
+                    410.0
+                ],
+                [
+                    911.0,
+                    410.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    445.0,
+                    83.0
+                ],
+                [
+                    588.0,
+                    83.0
+                ],
+                [
+                    588.0,
+                    173.0
+                ],
+                [
+                    445.0,
+                    173.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    910.0,
+                    223.0
+                ],
+                [
+                    1106.0,
+                    223.0
+                ],
+                [
+                    1106.0,
+                    297.0
+                ],
+                [
+                    910.0,
+                    297.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    72.17857142857144,
+                    30.946428571428584
+                ],
+                [
+                    332.0,
+                    30.946428571428584
+                ],
+                [
+                    332.0,
+                    216.66071428571428
+                ],
+                [
+                    72.17857142857144,
+                    216.66071428571428
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "Control_of_DC–DC_power_converters_in_the_presence_of_coil_magnetic_saturation._Control_Engineering_P_10.1016_j.conengprac.2009.02.004_page_5_img1.jpg",
+    "imageData": null,
+    "imageHeight": 686,
+    "imageWidth": 1414,
+    "description": ""
+}

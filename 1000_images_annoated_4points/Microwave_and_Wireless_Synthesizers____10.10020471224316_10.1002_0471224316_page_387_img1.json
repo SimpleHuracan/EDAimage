@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    1021,
+                    182
+                ],
+                [
+                    1179,
+                    182
+                ],
+                [
+                    1179,
+                    302
+                ],
+                [
+                    1021,
+                    302
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    1303,
+                    181
+                ],
+                [
+                    1462,
+                    181
+                ],
+                [
+                    1462,
+                    301
+                ],
+                [
+                    1303,
+                    301
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    738,
+                    182
+                ],
+                [
+                    896,
+                    182
+                ],
+                [
+                    896,
+                    303
+                ],
+                [
+                    738,
+                    303
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    453,
+                    182
+                ],
+                [
+                    615,
+                    182
+                ],
+                [
+                    615,
+                    305
+                ],
+                [
+                    453,
+                    305
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    963,
+                    424
+                ],
+                [
+                    1242,
+                    424
+                ],
+                [
+                    1242,
+                    546
+                ],
+                [
+                    963,
+                    546
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    295,
+                    427
+                ],
+                [
+                    454,
+                    427
+                ],
+                [
+                    454,
+                    549
+                ],
+                [
+                    295,
+                    549
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Microwave_and_Wireless_Synthesizers____10.10020471224316_10.1002_0471224316_page_387_img1.jpg",
+    "imageData": null,
+    "imageHeight": 678,
+    "imageWidth": 1692
+}

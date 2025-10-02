@@ -1,0 +1,272 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          352.0,
+          300.0
+        ],
+        [
+          459.0,
+          300.0
+        ],
+        [
+          459.0,
+          406.0
+        ],
+        [
+          352.0,
+          406.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          352.0,
+          478.0
+        ],
+        [
+          459.0,
+          478.0
+        ],
+        [
+          459.0,
+          584.0
+        ],
+        [
+          352.0,
+          584.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          512.0,
+          116.0
+        ],
+        [
+          632.0,
+          116.0
+        ],
+        [
+          632.0,
+          222.0
+        ],
+        [
+          512.0,
+          222.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          314.0,
+          115.0
+        ],
+        [
+          420.0,
+          115.0
+        ],
+        [
+          420.0,
+          221.0
+        ],
+        [
+          314.0,
+          221.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          525.0,
+          307.0
+        ],
+        [
+          645.0,
+          307.0
+        ],
+        [
+          645.0,
+          412.0
+        ],
+        [
+          525.0,
+          412.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          725.0,
+          115.0
+        ],
+        [
+          844.0,
+          115.0
+        ],
+        [
+          844.0,
+          222.0
+        ],
+        [
+          725.0,
+          222.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          525.0,
+          477.0
+        ],
+        [
+          645.0,
+          477.0
+        ],
+        [
+          645.0,
+          583.0
+        ],
+        [
+          525.0,
+          583.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          184.0,
+          145.0
+        ],
+        [
+          229.0,
+          145.0
+        ],
+        [
+          229.0,
+          190.0
+        ],
+        [
+          184.0,
+          190.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          283.0,
+          423.0
+        ],
+        [
+          328.0,
+          423.0
+        ],
+        [
+          328.0,
+          466.0
+        ],
+        [
+          283.0,
+          466.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "A_glitch-corrector_circuit_for_low-spur_ADPLLs._2009_16th_IEEE_International_Conference_on_Electroni_10.1109_icecs.2009.5410853_page_1_img1.jpg",
+  "imageData": null,
+  "imageHeight": 662,
+  "imageWidth": 988,
+  "description": ""
+}

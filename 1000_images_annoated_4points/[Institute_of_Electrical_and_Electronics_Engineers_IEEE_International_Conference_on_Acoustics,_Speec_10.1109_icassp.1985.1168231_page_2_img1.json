@@ -1,0 +1,242 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    335,
+                    283
+                ],
+                [
+                    385,
+                    283
+                ],
+                [
+                    385,
+                    330
+                ],
+                [
+                    335,
+                    330
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    572,
+                    219
+                ],
+                [
+                    632,
+                    219
+                ],
+                [
+                    632,
+                    278
+                ],
+                [
+                    572,
+                    278
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    155,
+                    195
+                ],
+                [
+                    204,
+                    195
+                ],
+                [
+                    204,
+                    240
+                ],
+                [
+                    155,
+                    240
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    479,
+                    277
+                ],
+                [
+                    543,
+                    277
+                ],
+                [
+                    543,
+                    341
+                ],
+                [
+                    479,
+                    341
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    157,
+                    105
+                ],
+                [
+                    207,
+                    105
+                ],
+                [
+                    207,
+                    152
+                ],
+                [
+                    157,
+                    152
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    422,
+                    70
+                ],
+                [
+                    544,
+                    70
+                ],
+                [
+                    544,
+                    190
+                ],
+                [
+                    422,
+                    190
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    242,
+                    40
+                ],
+                [
+                    302,
+                    40
+                ],
+                [
+                    302,
+                    99
+                ],
+                [
+                    242,
+                    99
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    242,
+                    335
+                ],
+                [
+                    303,
+                    335
+                ],
+                [
+                    303,
+                    396
+                ],
+                [
+                    242,
+                    396
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\[Institute_of_Electrical_and_Electronics_Engineers_IEEE_International_Conference_on_Acoustics,_Speec_10.1109_icassp.1985.1168231_page_2_img1.jpg",
+    "imageData": null,
+    "imageHeight": 420,
+    "imageWidth": 746
+}

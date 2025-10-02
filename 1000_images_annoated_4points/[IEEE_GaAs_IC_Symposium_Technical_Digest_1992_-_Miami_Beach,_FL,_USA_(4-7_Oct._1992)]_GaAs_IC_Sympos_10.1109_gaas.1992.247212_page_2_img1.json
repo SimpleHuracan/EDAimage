@@ -1,0 +1,242 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    911,
+                    185
+                ],
+                [
+                    1036,
+                    185
+                ],
+                [
+                    1036,
+                    308
+                ],
+                [
+                    911,
+                    308
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    545,
+                    31
+                ],
+                [
+                    656,
+                    31
+                ],
+                [
+                    656,
+                    158
+                ],
+                [
+                    545,
+                    158
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    451,
+                    181
+                ],
+                [
+                    562,
+                    181
+                ],
+                [
+                    562,
+                    307
+                ],
+                [
+                    451,
+                    307
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    621,
+                    184
+                ],
+                [
+                    732,
+                    184
+                ],
+                [
+                    732,
+                    308
+                ],
+                [
+                    621,
+                    308
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    1315,
+                    176
+                ],
+                [
+                    1418,
+                    176
+                ],
+                [
+                    1418,
+                    421
+                ],
+                [
+                    1315,
+                    421
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    247,
+                    183
+                ],
+                [
+                    358,
+                    183
+                ],
+                [
+                    358,
+                    309
+                ],
+                [
+                    247,
+                    309
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    1094,
+                    185
+                ],
+                [
+                    1206,
+                    185
+                ],
+                [
+                    1206,
+                    309
+                ],
+                [
+                    1094,
+                    309
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    773,
+                    196
+                ],
+                [
+                    862,
+                    196
+                ],
+                [
+                    862,
+                    286
+                ],
+                [
+                    773,
+                    286
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\[IEEE_GaAs_IC_Symposium_Technical_Digest_1992_-_Miami_Beach,_FL,_USA_(4-7_Oct._1992)]_GaAs_IC_Sympos_10.1109_gaas.1992.247212_page_2_img1.jpg",
+    "imageData": null,
+    "imageHeight": 447,
+    "imageWidth": 1690
+}

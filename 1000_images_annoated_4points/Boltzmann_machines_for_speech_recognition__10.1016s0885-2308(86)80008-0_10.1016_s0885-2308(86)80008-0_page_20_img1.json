@@ -1,0 +1,185 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    435.0,
+                    141.0
+                ],
+                [
+                    733.0,
+                    141.0
+                ],
+                [
+                    733.0,
+                    528.0
+                ],
+                [
+                    435.0,
+                    528.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    188.0,
+                    139.0
+                ],
+                [
+                    349.0,
+                    139.0
+                ],
+                [
+                    349.0,
+                    363.0
+                ],
+                [
+                    188.0,
+                    363.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    559.0,
+                    656.0
+                ],
+                [
+                    776.0,
+                    656.0
+                ],
+                [
+                    776.0,
+                    774.0
+                ],
+                [
+                    559.0,
+                    774.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    189.0,
+                    408.0
+                ],
+                [
+                    350.0,
+                    408.0
+                ],
+                [
+                    350.0,
+                    535.0
+                ],
+                [
+                    189.0,
+                    535.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    811.0,
+                    234.0
+                ],
+                [
+                    965.0,
+                    234.0
+                ],
+                [
+                    965.0,
+                    533.0
+                ],
+                [
+                    811.0,
+                    533.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    807.6238938053098,
+                    134.26106194690266
+                ],
+                [
+                    964.2610619469026,
+                    134.26106194690266
+                ],
+                [
+                    964.2610619469026,
+                    224.52654867256638
+                ],
+                [
+                    807.6238938053098,
+                    224.52654867256638
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "Boltzmann_machines_for_speech_recognition__10.1016s0885-2308(86)80008-0_10.1016_s0885-2308(86)80008-0_page_20_img1.jpg",
+    "imageData": null,
+    "imageHeight": 811,
+    "imageWidth": 1171,
+    "description": ""
+}

@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    516,
+                    79
+                ],
+                [
+                    646,
+                    79
+                ],
+                [
+                    646,
+                    197
+                ],
+                [
+                    516,
+                    197
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    262,
+                    374
+                ],
+                [
+                    320,
+                    374
+                ],
+                [
+                    320,
+                    430
+                ],
+                [
+                    262,
+                    430
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    852,
+                    371
+                ],
+                [
+                    908,
+                    371
+                ],
+                [
+                    908,
+                    425
+                ],
+                [
+                    852,
+                    425
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    513,
+                    336
+                ],
+                [
+                    643,
+                    336
+                ],
+                [
+                    643,
+                    454
+                ],
+                [
+                    513,
+                    454
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    370,
+                    351
+                ],
+                [
+                    450,
+                    351
+                ],
+                [
+                    450,
+                    452
+                ],
+                [
+                    370,
+                    452
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    714,
+                    351
+                ],
+                [
+                    792,
+                    351
+                ],
+                [
+                    792,
+                    452
+                ],
+                [
+                    714,
+                    452
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\A_fully_integrated,_untrimmed_CMOS_instrumentation_amplifier_with_submicrovolt_offset__10.11094.7481_10.1109_4.748194_page_3_img2.jpg",
+    "imageData": null,
+    "imageHeight": 574,
+    "imageWidth": 1093
+}

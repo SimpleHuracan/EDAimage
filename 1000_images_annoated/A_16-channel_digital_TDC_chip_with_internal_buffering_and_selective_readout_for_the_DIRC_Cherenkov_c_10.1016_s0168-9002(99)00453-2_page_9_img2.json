@@ -1,0 +1,272 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          416.0,
+          411.0
+        ],
+        [
+          560.0,
+          411.0
+        ],
+        [
+          560.0,
+          509.0
+        ],
+        [
+          416.0,
+          509.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          71.0,
+          410.0
+        ],
+        [
+          160.0,
+          410.0
+        ],
+        [
+          160.0,
+          507.0
+        ],
+        [
+          71.0,
+          507.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          215.0,
+          411.0
+        ],
+        [
+          344.0,
+          411.0
+        ],
+        [
+          344.0,
+          507.0
+        ],
+        [
+          215.0,
+          507.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          53.0,
+          116.0
+        ],
+        [
+          291.0,
+          116.0
+        ],
+        [
+          291.0,
+          208.0
+        ],
+        [
+          53.0,
+          208.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          780.0454545454545,
+          120.41558441558442
+        ],
+        [
+          911.2467532467532,
+          120.41558441558442
+        ],
+        [
+          911.2467532467532,
+          460.2142857142857
+        ],
+        [
+          780.0454545454545,
+          460.2142857142857
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          631.0,
+          527.0
+        ],
+        [
+          896.0,
+          527.0
+        ],
+        [
+          896.0,
+          574.0
+        ],
+        [
+          631.0,
+          574.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          680.0454545454545,
+          121.90259740259741
+        ],
+        [
+          777.4480519480519,
+          121.90259740259741
+        ],
+        [
+          777.4480519480519,
+          288.78571428571433
+        ],
+        [
+          680.0454545454545,
+          288.78571428571433
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          382.0519480519481,
+          117.64935064935071
+        ],
+        [
+          583.0519480519481,
+          117.64935064935071
+        ],
+        [
+          583.0519480519481,
+          253.64935064935082
+        ],
+        [
+          382.0519480519481,
+          253.64935064935082
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          680.6948051948052,
+          291.3831168831169
+        ],
+        [
+          776.1493506493506,
+          291.3831168831169
+        ],
+        [
+          776.1493506493506,
+          460.8636363636364
+        ],
+        [
+          680.6948051948052,
+          460.8636363636364
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "A_16-channel_digital_TDC_chip_with_internal_buffering_and_selective_readout_for_the_DIRC_Cherenkov_c_10.1016_s0168-9002(99)00453-2_page_9_img2.jpg",
+  "imageData": null,
+  "imageHeight": 599,
+  "imageWidth": 951,
+  "description": ""
+}

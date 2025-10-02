@@ -1,0 +1,243 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          380.0,
+          197.0
+        ],
+        [
+          450.0,
+          197.0
+        ],
+        [
+          450.0,
+          254.0
+        ],
+        [
+          380.0,
+          254.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          441.0,
+          56.0
+        ],
+        [
+          726.0,
+          56.0
+        ],
+        [
+          726.0,
+          178.0
+        ],
+        [
+          441.0,
+          178.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          296.0,
+          197.0
+        ],
+        [
+          366.0,
+          197.0
+        ],
+        [
+          366.0,
+          254.0
+        ],
+        [
+          296.0,
+          254.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          442.0,
+          285.0
+        ],
+        [
+          727.0,
+          285.0
+        ],
+        [
+          727.0,
+          398.0
+        ],
+        [
+          442.0,
+          398.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          795.0,
+          478.0
+        ],
+        [
+          880.0,
+          478.0
+        ],
+        [
+          880.0,
+          565.0
+        ],
+        [
+          795.0,
+          565.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          235.0,
+          478.0
+        ],
+        [
+          323.0,
+          478.0
+        ],
+        [
+          323.0,
+          566.0
+        ],
+        [
+          235.0,
+          566.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          161.0,
+          53.0
+        ],
+        [
+          308.0,
+          53.0
+        ],
+        [
+          308.0,
+          177.0
+        ],
+        [
+          161.0,
+          177.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          250.19607843137254,
+          673.0784313725491
+        ],
+        [
+          864.9019607843136,
+          673.0784313725491
+        ],
+        [
+          864.9019607843136,
+          760.3333333333334
+        ],
+        [
+          250.19607843137254,
+          760.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "A_review_of_median_filter_systems_for_analog_signal_processing__10.1007bf01239371_10.1007_bf01239371_page_6_img1.jpg",
+  "imageData": null,
+  "imageHeight": 904,
+  "imageWidth": 920,
+  "description": ""
+}

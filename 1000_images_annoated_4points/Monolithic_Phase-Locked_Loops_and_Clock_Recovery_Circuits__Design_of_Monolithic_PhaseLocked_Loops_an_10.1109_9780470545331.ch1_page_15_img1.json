@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    269,
+                    39
+                ],
+                [
+                    386,
+                    39
+                ],
+                [
+                    386,
+                    133
+                ],
+                [
+                    269,
+                    133
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    461,
+                    365
+                ],
+                [
+                    598,
+                    365
+                ],
+                [
+                    598,
+                    458
+                ],
+                [
+                    461,
+                    458
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    681,
+                    221
+                ],
+                [
+                    741,
+                    221
+                ],
+                [
+                    741,
+                    278
+                ],
+                [
+                    681,
+                    278
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    459,
+                    38
+                ],
+                [
+                    597,
+                    38
+                ],
+                [
+                    597,
+                    133
+                ],
+                [
+                    459,
+                    133
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    270,
+                    366
+                ],
+                [
+                    389,
+                    366
+                ],
+                [
+                    389,
+                    459
+                ],
+                [
+                    270,
+                    459
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    458,
+                    203
+                ],
+                [
+                    597,
+                    203
+                ],
+                [
+                    597,
+                    296
+                ],
+                [
+                    458,
+                    296
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Monolithic_Phase-Locked_Loops_and_Clock_Recovery_Circuits__Design_of_Monolithic_PhaseLocked_Loops_an_10.1109_9780470545331.ch1_page_15_img1.jpg",
+    "imageData": null,
+    "imageHeight": 488,
+    "imageWidth": 785
+}

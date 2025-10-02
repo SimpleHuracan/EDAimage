@@ -1,0 +1,272 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          263.0,
+          182.0
+        ],
+        [
+          362.0,
+          182.0
+        ],
+        [
+          362.0,
+          262.0
+        ],
+        [
+          263.0,
+          262.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          677.0,
+          308.0
+        ],
+        [
+          744.0,
+          308.0
+        ],
+        [
+          744.0,
+          370.0
+        ],
+        [
+          677.0,
+          370.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          781.0,
+          319.0
+        ],
+        [
+          822.0,
+          319.0
+        ],
+        [
+          822.0,
+          360.0
+        ],
+        [
+          781.0,
+          360.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          446.0,
+          182.0
+        ],
+        [
+          547.0,
+          182.0
+        ],
+        [
+          547.0,
+          262.0
+        ],
+        [
+          446.0,
+          262.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          192.0,
+          203.0
+        ],
+        [
+          231.0,
+          203.0
+        ],
+        [
+          231.0,
+          242.0
+        ],
+        [
+          192.0,
+          242.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          617.0,
+          204.0
+        ],
+        [
+          655.0,
+          204.0
+        ],
+        [
+          655.0,
+          243.0
+        ],
+        [
+          617.0,
+          243.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          857.0,
+          181.0
+        ],
+        [
+          941.0,
+          181.0
+        ],
+        [
+          941.0,
+          263.0
+        ],
+        [
+          857.0,
+          263.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          853.0,
+          416.0
+        ],
+        [
+          941.0,
+          416.0
+        ],
+        [
+          941.0,
+          498.0
+        ],
+        [
+          853.0,
+          498.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          852.0,
+          416.0
+        ],
+        [
+          941.0,
+          416.0
+        ],
+        [
+          941.0,
+          499.0
+        ],
+        [
+          852.0,
+          499.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "An_8.1_mW,_82_dB_Delta-Sigma_ADC_With_1.9_MHz_BW_and_98_dB_THD__10.1109jssc.2009.2022298_Sci-hub_10.1109_jssc.2009.2022298_page_4_img2.jpg",
+  "imageData": null,
+  "imageHeight": 535,
+  "imageWidth": 1177,
+  "description": ""
+}

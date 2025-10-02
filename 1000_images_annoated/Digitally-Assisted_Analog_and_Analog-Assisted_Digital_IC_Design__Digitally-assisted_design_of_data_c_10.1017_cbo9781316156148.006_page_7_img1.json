@@ -1,0 +1,156 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          556.0,
+          128.0
+        ],
+        [
+          740.0,
+          128.0
+        ],
+        [
+          740.0,
+          244.0
+        ],
+        [
+          556.0,
+          244.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          937.0,
+          128.0
+        ],
+        [
+          1099.0,
+          128.0
+        ],
+        [
+          1099.0,
+          243.0
+        ],
+        [
+          937.0,
+          243.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          825.0,
+          167.0
+        ],
+        [
+          865.0,
+          167.0
+        ],
+        [
+          865.0,
+          206.0
+        ],
+        [
+          825.0,
+          206.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          212.0,
+          167.0
+        ],
+        [
+          251.0,
+          167.0
+        ],
+        [
+          251.0,
+          204.0
+        ],
+        [
+          212.0,
+          204.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          324.0,
+          129.0
+        ],
+        [
+          463.0,
+          129.0
+        ],
+        [
+          463.0,
+          245.0
+        ],
+        [
+          324.0,
+          245.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Digitally-Assisted_Analog_and_Analog-Assisted_Digital_IC_Design__Digitally-assisted_design_of_data_c_10.1017_cbo9781316156148.006_page_7_img1.jpg",
+  "imageData": null,
+  "imageHeight": 300,
+  "imageWidth": 1197,
+  "description": ""
+}

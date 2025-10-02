@@ -1,0 +1,272 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    713.0,
+                    60.0
+                ],
+                [
+                    817.0,
+                    60.0
+                ],
+                [
+                    817.0,
+                    163.0
+                ],
+                [
+                    713.0,
+                    163.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    372.0,
+                    60.0
+                ],
+                [
+                    475.0,
+                    60.0
+                ],
+                [
+                    475.0,
+                    162.0
+                ],
+                [
+                    372.0,
+                    162.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    884.0,
+                    75.0
+                ],
+                [
+                    952.0,
+                    75.0
+                ],
+                [
+                    952.0,
+                    146.0
+                ],
+                [
+                    884.0,
+                    146.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    166.0,
+                    83.0
+                ],
+                [
+                    221.0,
+                    83.0
+                ],
+                [
+                    221.0,
+                    137.0
+                ],
+                [
+                    166.0,
+                    137.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    194.0,
+                    469.0
+                ],
+                [
+                    313.0,
+                    469.0
+                ],
+                [
+                    313.0,
+                    538.0
+                ],
+                [
+                    194.0,
+                    538.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    591.0,
+                    82.0
+                ],
+                [
+                    649.0,
+                    82.0
+                ],
+                [
+                    649.0,
+                    138.0
+                ],
+                [
+                    591.0,
+                    138.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "pentagon",
+            "score": null,
+            "points": [
+                [
+                    577.0,
+                    248.0
+                ],
+                [
+                    662.0,
+                    248.0
+                ],
+                [
+                    662.0,
+                    366.0
+                ],
+                [
+                    577.0,
+                    366.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "pentagon",
+            "score": null,
+            "points": [
+                [
+                    150.0,
+                    250.0
+                ],
+                [
+                    237.0,
+                    250.0
+                ],
+                [
+                    237.0,
+                    376.0
+                ],
+                [
+                    150.0,
+                    376.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    1044.0,
+                    101.0
+                ],
+                [
+                    1065.0,
+                    101.0
+                ],
+                [
+                    1065.0,
+                    121.0
+                ],
+                [
+                    1044.0,
+                    121.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        }
+    ],
+    "imagePath": "[IEEE_2010_IEEE_Custom_Integrated_Circuits_Conference_-CICC_2010_-_San_Jose,_CA,_USA_(2010.09.19-201_10.1109_cicc.2010.5617612_page_2_img2.jpg",
+    "imageData": null,
+    "imageHeight": 551,
+    "imageWidth": 1129,
+    "description": ""
+}

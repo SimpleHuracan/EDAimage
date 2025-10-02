@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    195,
+                    140
+                ],
+                [
+                    250,
+                    140
+                ],
+                [
+                    250,
+                    224
+                ],
+                [
+                    195,
+                    224
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    706,
+                    137
+                ],
+                [
+                    812,
+                    137
+                ],
+                [
+                    812,
+                    221
+                ],
+                [
+                    706,
+                    221
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    722,
+                    363
+                ],
+                [
+                    779,
+                    363
+                ],
+                [
+                    779,
+                    446
+                ],
+                [
+                    722,
+                    446
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    916,
+                    141
+                ],
+                [
+                    1025,
+                    141
+                ],
+                [
+                    1025,
+                    217
+                ],
+                [
+                    916,
+                    217
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    362,
+                    142
+                ],
+                [
+                    431,
+                    142
+                ],
+                [
+                    431,
+                    212
+                ],
+                [
+                    362,
+                    212
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    576,
+                    143
+                ],
+                [
+                    646,
+                    143
+                ],
+                [
+                    646,
+                    212
+                ],
+                [
+                    576,
+                    212
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Carrier_synchronization_for_3-_and_4-bit-per-symbol_optical_transmission__10.1109JLT.2005.859428_10.1109_jlt.2005.859428_page_12_img1.jpg",
+    "imageData": null,
+    "imageHeight": 465,
+    "imageWidth": 1128
+}

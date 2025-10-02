@@ -1,0 +1,156 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          688.0,
+          158.0
+        ],
+        [
+          966.0,
+          158.0
+        ],
+        [
+          966.0,
+          312.0
+        ],
+        [
+          688.0,
+          312.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          159.0,
+          163.0
+        ],
+        [
+          437.0,
+          163.0
+        ],
+        [
+          437.0,
+          320.0
+        ],
+        [
+          159.0,
+          320.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          473.0,
+          30.0
+        ],
+        [
+          648.0,
+          30.0
+        ],
+        [
+          648.0,
+          131.0
+        ],
+        [
+          473.0,
+          131.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          255.33333333333331,
+          430.0
+        ],
+        [
+          863.3333333333334,
+          430.0
+        ],
+        [
+          863.3333333333334,
+          480.83333333333337
+        ],
+        [
+          255.33333333333331,
+          480.83333333333337
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          504.0,
+          157.0
+        ],
+        [
+          627.0,
+          157.0
+        ],
+        [
+          627.0,
+          317.0
+        ],
+        [
+          504.0,
+          317.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "[IEEE_2019_International_Conference_on_IC_Design_and_Technology_(ICICDT)_-_SUZHOU,_China_(2019.6.17-_10.1109_icicdt.2019.8790872_page_1_img1.jpg",
+  "imageData": null,
+  "imageHeight": 507,
+  "imageWidth": 1056,
+  "description": ""
+}

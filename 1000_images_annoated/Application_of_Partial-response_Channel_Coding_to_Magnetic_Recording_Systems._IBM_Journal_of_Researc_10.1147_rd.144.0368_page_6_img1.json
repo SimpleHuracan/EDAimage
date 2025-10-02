@@ -1,0 +1,214 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          375.0,
+          296.0
+        ],
+        [
+          447.0,
+          296.0
+        ],
+        [
+          447.0,
+          366.0
+        ],
+        [
+          375.0,
+          366.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          555.0,
+          164.0
+        ],
+        [
+          725.0,
+          164.0
+        ],
+        [
+          725.0,
+          275.0
+        ],
+        [
+          555.0,
+          275.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          230.0,
+          70.0
+        ],
+        [
+          301.0,
+          70.0
+        ],
+        [
+          301.0,
+          140.0
+        ],
+        [
+          230.0,
+          140.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          782.0,
+          68.0
+        ],
+        [
+          852.0,
+          68.0
+        ],
+        [
+          852.0,
+          138.0
+        ],
+        [
+          782.0,
+          138.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          366.0,
+          410.0
+        ],
+        [
+          458.0,
+          410.0
+        ],
+        [
+          458.0,
+          525.0
+        ],
+        [
+          366.0,
+          525.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          366.0,
+          410.0
+        ],
+        [
+          458.52941176470586,
+          410.0
+        ],
+        [
+          458.52941176470586,
+          463.13235294117646
+        ],
+        [
+          366.0,
+          463.13235294117646
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          367.4705882352941,
+          469.20588235294116
+        ],
+        [
+          458.4705882352941,
+          469.20588235294116
+        ],
+        [
+          458.4705882352941,
+          527.2058823529412
+        ],
+        [
+          367.4705882352941,
+          527.2058823529412
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Application_of_Partial-response_Channel_Coding_to_Magnetic_Recording_Systems._IBM_Journal_of_Researc_10.1147_rd.144.0368_page_6_img1.jpg",
+  "imageData": null,
+  "imageHeight": 677,
+  "imageWidth": 1070,
+  "description": ""
+}

@@ -1,0 +1,156 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          866.0,
+          296.0
+        ],
+        [
+          1146.0,
+          296.0
+        ],
+        [
+          1146.0,
+          433.0
+        ],
+        [
+          866.0,
+          433.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1216.0,
+          300.0
+        ],
+        [
+          1407.0,
+          300.0
+        ],
+        [
+          1407.0,
+          434.0
+        ],
+        [
+          1216.0,
+          434.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          287.0,
+          296.0
+        ],
+        [
+          576.0,
+          296.0
+        ],
+        [
+          576.0,
+          431.0
+        ],
+        [
+          287.0,
+          431.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          642.0,
+          296.0
+        ],
+        [
+          795.0,
+          296.0
+        ],
+        [
+          795.0,
+          431.0
+        ],
+        [
+          642.0,
+          431.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          1220.0,
+          68.0
+        ],
+        [
+          1409.0,
+          68.0
+        ],
+        [
+          1409.0,
+          199.0
+        ],
+        [
+          1220.0,
+          199.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "CMOS_Integrated_Analog-to-Digital_and_Digital-to-Analog_Converters____10.1007978-1-4757-3768-4_10.1007_978-1-4757-3768-4_page_226_img2.jpg",
+  "imageData": null,
+  "imageHeight": 525,
+  "imageWidth": 1717,
+  "description": ""
+}

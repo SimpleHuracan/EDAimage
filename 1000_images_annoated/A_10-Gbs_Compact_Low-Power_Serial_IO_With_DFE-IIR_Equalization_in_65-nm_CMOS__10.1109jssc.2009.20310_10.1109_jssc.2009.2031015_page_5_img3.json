@@ -1,0 +1,185 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "trapezoid",
+      "score": null,
+      "points": [
+        [
+          643.0,
+          235.0
+        ],
+        [
+          679.0,
+          235.0
+        ],
+        [
+          679.0,
+          339.0
+        ],
+        [
+          643.0,
+          339.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          454.0,
+          407.0
+        ],
+        [
+          545.0,
+          407.0
+        ],
+        [
+          545.0,
+          497.0
+        ],
+        [
+          454.0,
+          497.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          249.0,
+          95.0
+        ],
+        [
+          311.0,
+          95.0
+        ],
+        [
+          311.0,
+          145.0
+        ],
+        [
+          249.0,
+          145.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          244.0,
+          424.0
+        ],
+        [
+          310.0,
+          424.0
+        ],
+        [
+          310.0,
+          471.0
+        ],
+        [
+          244.0,
+          471.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          479.0,
+          243.0
+        ],
+        [
+          584.0,
+          243.0
+        ],
+        [
+          584.0,
+          322.0
+        ],
+        [
+          479.0,
+          322.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          457.1851851851852,
+          67.52469135802471
+        ],
+        [
+          547.3086419753087,
+          67.52469135802471
+        ],
+        [
+          547.3086419753087,
+          155.179012345679
+        ],
+        [
+          457.1851851851852,
+          155.179012345679
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "A_10-Gbs_Compact_Low-Power_Serial_IO_With_DFE-IIR_Equalization_in_65-nm_CMOS__10.1109jssc.2009.20310_10.1109_jssc.2009.2031015_page_5_img3.jpg",
+  "imageData": null,
+  "imageHeight": 569,
+  "imageWidth": 844,
+  "description": ""
+}

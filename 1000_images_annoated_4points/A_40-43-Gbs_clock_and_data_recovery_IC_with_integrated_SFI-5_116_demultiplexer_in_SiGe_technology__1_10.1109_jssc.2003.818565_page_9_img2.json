@@ -1,0 +1,214 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    95.0,
+                    698.0
+                ],
+                [
+                    342.0,
+                    698.0
+                ],
+                [
+                    342.0,
+                    902.0
+                ],
+                [
+                    95.0,
+                    902.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    111.0,
+                    154.0
+                ],
+                [
+                    232.0,
+                    154.0
+                ],
+                [
+                    232.0,
+                    355.0
+                ],
+                [
+                    111.0,
+                    355.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "trapezoid",
+            "score": null,
+            "points": [
+                [
+                    836.0,
+                    358.0
+                ],
+                [
+                    1016.098901098901,
+                    358.0
+                ],
+                [
+                    1016.098901098901,
+                    741.3131868131868
+                ],
+                [
+                    836.0,
+                    741.3131868131868
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    588.0,
+                    126.0
+                ],
+                [
+                    706.0,
+                    126.0
+                ],
+                [
+                    706.0,
+                    325.0
+                ],
+                [
+                    588.0,
+                    325.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    390.8241758241759,
+                    453.4010989010989
+                ],
+                [
+                    506.20879120879124,
+                    453.4010989010989
+                ],
+                [
+                    506.20879120879124,
+                    653.4010989010989
+                ],
+                [
+                    390.8241758241759,
+                    653.4010989010989
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    1042.4725274725274,
+                    228.12637362637366
+                ],
+                [
+                    1146.8681318681317,
+                    228.12637362637366
+                ],
+                [
+                    1146.8681318681317,
+                    367.6868131868132
+                ],
+                [
+                    1042.4725274725274,
+                    367.6868131868132
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "trapezoid",
+            "score": null,
+            "points": [
+                [
+                    598.5164835164835,
+                    632.521978021978
+                ],
+                [
+                    715.0,
+                    632.521978021978
+                ],
+                [
+                    715.0,
+                    965.489010989011
+                ],
+                [
+                    598.5164835164835,
+                    965.489010989011
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "A_40-43-Gbs_clock_and_data_recovery_IC_with_integrated_SFI-5_116_demultiplexer_in_SiGe_technology__1_10.1109_jssc.2003.818565_page_9_img2.jpg",
+    "imageData": null,
+    "imageHeight": 1009,
+    "imageWidth": 1430,
+    "description": ""
+}

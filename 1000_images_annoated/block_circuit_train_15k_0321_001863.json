@@ -1,0 +1,214 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          342.0,
+          67.0
+        ],
+        [
+          400.0,
+          67.0
+        ],
+        [
+          400.0,
+          126.0
+        ],
+        [
+          342.0,
+          126.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          191.0,
+          67.0
+        ],
+        [
+          250.0,
+          67.0
+        ],
+        [
+          250.0,
+          125.0
+        ],
+        [
+          191.0,
+          125.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          489.0,
+          68.0
+        ],
+        [
+          547.0,
+          68.0
+        ],
+        [
+          547.0,
+          126.0
+        ],
+        [
+          489.0,
+          126.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          144.0,
+          184.0
+        ],
+        [
+          293.0,
+          184.0
+        ],
+        [
+          293.0,
+          296.0
+        ],
+        [
+          144.0,
+          296.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          634.0,
+          69.0
+        ],
+        [
+          692.0,
+          69.0
+        ],
+        [
+          692.0,
+          128.0
+        ],
+        [
+          634.0,
+          128.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          783.0,
+          69.0
+        ],
+        [
+          842.0,
+          69.0
+        ],
+        [
+          842.0,
+          128.0
+        ],
+        [
+          783.0,
+          128.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          492.0,
+          211.0
+        ],
+        [
+          695.0,
+          211.0
+        ],
+        [
+          695.0,
+          291.0
+        ],
+        [
+          492.0,
+          291.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "block_circuit_train_15k_0321_001863.jpg",
+  "imageData": null,
+  "imageHeight": 394,
+  "imageWidth": 871,
+  "description": ""
+}

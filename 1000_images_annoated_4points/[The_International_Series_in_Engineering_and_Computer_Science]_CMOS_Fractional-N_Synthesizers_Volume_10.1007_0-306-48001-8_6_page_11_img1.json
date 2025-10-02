@@ -1,0 +1,155 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    335,
+                    451
+                ],
+                [
+                    561,
+                    451
+                ],
+                [
+                    561,
+                    580
+                ],
+                [
+                    335,
+                    580
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    650,
+                    71
+                ],
+                [
+                    811,
+                    71
+                ],
+                [
+                    811,
+                    201
+                ],
+                [
+                    650,
+                    201
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    617,
+                    297
+                ],
+                [
+                    844,
+                    297
+                ],
+                [
+                    844,
+                    428
+                ],
+                [
+                    617,
+                    428
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    360,
+                    72
+                ],
+                [
+                    521,
+                    72
+                ],
+                [
+                    521,
+                    201
+                ],
+                [
+                    360,
+                    201
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    942,
+                    77
+                ],
+                [
+                    1063,
+                    77
+                ],
+                [
+                    1063,
+                    200
+                ],
+                [
+                    942,
+                    200
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\[The_International_Series_in_Engineering_and_Computer_Science]_CMOS_Fractional-N_Synthesizers_Volume_10.1007_0-306-48001-8_6_page_11_img1.jpg",
+    "imageData": null,
+    "imageHeight": 628,
+    "imageWidth": 1333
+}

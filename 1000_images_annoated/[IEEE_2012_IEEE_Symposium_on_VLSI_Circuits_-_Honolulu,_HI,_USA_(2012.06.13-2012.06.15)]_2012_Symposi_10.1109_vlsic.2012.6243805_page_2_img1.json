@@ -1,0 +1,185 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          204.0,
+          62.0
+        ],
+        [
+          395.0,
+          62.0
+        ],
+        [
+          395.0,
+          182.0
+        ],
+        [
+          204.0,
+          182.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          204.0,
+          301.0
+        ],
+        [
+          398.0,
+          301.0
+        ],
+        [
+          398.0,
+          409.0
+        ],
+        [
+          204.0,
+          409.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          706.0,
+          375.0
+        ],
+        [
+          935.0,
+          375.0
+        ],
+        [
+          935.0,
+          455.0
+        ],
+        [
+          706.0,
+          455.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          422.0,
+          58.0
+        ],
+        [
+          673.0,
+          58.0
+        ],
+        [
+          673.0,
+          182.0
+        ],
+        [
+          422.0,
+          182.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          425.0,
+          300.0
+        ],
+        [
+          651.0,
+          300.0
+        ],
+        [
+          651.0,
+          409.0
+        ],
+        [
+          425.0,
+          409.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          746.0,
+          40.0
+        ],
+        [
+          867.0,
+          40.0
+        ],
+        [
+          867.0,
+          206.0
+        ],
+        [
+          746.0,
+          206.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "[IEEE_2012_IEEE_Symposium_on_VLSI_Circuits_-_Honolulu,_HI,_USA_(2012.06.13-2012.06.15)]_2012_Symposi_10.1109_vlsic.2012.6243805_page_2_img1.jpg",
+  "imageData": null,
+  "imageHeight": 520,
+  "imageWidth": 1142,
+  "description": ""
+}

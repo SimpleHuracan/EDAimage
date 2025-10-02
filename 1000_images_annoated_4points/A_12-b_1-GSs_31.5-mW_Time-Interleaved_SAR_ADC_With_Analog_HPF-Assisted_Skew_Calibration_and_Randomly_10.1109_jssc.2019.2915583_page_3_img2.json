@@ -1,0 +1,214 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    907.0,
+                    278.0
+                ],
+                [
+                    956.0,
+                    278.0
+                ],
+                [
+                    956.0,
+                    324.0
+                ],
+                [
+                    907.0,
+                    324.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    723.0,
+                    277.0
+                ],
+                [
+                    771.0,
+                    277.0
+                ],
+                [
+                    771.0,
+                    325.0
+                ],
+                [
+                    723.0,
+                    325.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    850.0,
+                    375.0
+                ],
+                [
+                    1012.0,
+                    375.0
+                ],
+                [
+                    1012.0,
+                    434.0
+                ],
+                [
+                    850.0,
+                    434.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    722.0,
+                    145.0
+                ],
+                [
+                    771.0,
+                    145.0
+                ],
+                [
+                    771.0,
+                    193.0
+                ],
+                [
+                    722.0,
+                    193.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    306.0,
+                    147.0
+                ],
+                [
+                    354.0,
+                    147.0
+                ],
+                [
+                    354.0,
+                    193.0
+                ],
+                [
+                    306.0,
+                    193.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "pentagon",
+            "score": null,
+            "points": [
+                [
+                    406.0,
+                    104.0
+                ],
+                [
+                    613.0,
+                    104.0
+                ],
+                [
+                    613.0,
+                    239.0
+                ],
+                [
+                    406.0,
+                    239.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "pentagon",
+            "score": null,
+            "points": [
+                [
+                    407.0,
+                    238.0
+                ],
+                [
+                    613.0,
+                    238.0
+                ],
+                [
+                    613.0,
+                    368.0
+                ],
+                [
+                    407.0,
+                    368.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        }
+    ],
+    "imagePath": "A_12-b_1-GSs_31.5-mW_Time-Interleaved_SAR_ADC_With_Analog_HPF-Assisted_Skew_Calibration_and_Randomly_10.1109_jssc.2019.2915583_page_3_img2.jpg",
+    "imageData": null,
+    "imageHeight": 482,
+    "imageWidth": 1157,
+    "description": ""
+}

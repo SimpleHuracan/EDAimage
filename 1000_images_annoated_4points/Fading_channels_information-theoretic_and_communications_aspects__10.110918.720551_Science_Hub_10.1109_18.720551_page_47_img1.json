@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    543,
+                    462
+                ],
+                [
+                    771,
+                    462
+                ],
+                [
+                    771,
+                    615
+                ],
+                [
+                    543,
+                    615
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    581,
+                    46
+                ],
+                [
+                    808,
+                    46
+                ],
+                [
+                    808,
+                    201
+                ],
+                [
+                    581,
+                    201
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    920,
+                    46
+                ],
+                [
+                    1188,
+                    46
+                ],
+                [
+                    1188,
+                    199
+                ],
+                [
+                    920,
+                    199
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    884,
+                    462
+                ],
+                [
+                    1187,
+                    462
+                ],
+                [
+                    1187,
+                    615
+                ],
+                [
+                    884,
+                    615
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    234,
+                    44
+                ],
+                [
+                    466,
+                    44
+                ],
+                [
+                    466,
+                    201
+                ],
+                [
+                    234,
+                    201
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    1270,
+                    229
+                ],
+                [
+                    1328,
+                    229
+                ],
+                [
+                    1328,
+                    284
+                ],
+                [
+                    1270,
+                    284
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    1271,
+                    379
+                ],
+                [
+                    1328,
+                    379
+                ],
+                [
+                    1328,
+                    434
+                ],
+                [
+                    1271,
+                    434
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Fading_channels_information-theoretic_and_communications_aspects__10.110918.720551_Science_Hub_10.1109_18.720551_page_47_img1.jpg",
+    "imageData": null,
+    "imageHeight": 650,
+    "imageWidth": 1485
+}

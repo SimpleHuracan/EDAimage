@@ -1,0 +1,155 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    416,
+                    200
+                ],
+                [
+                    496,
+                    200
+                ],
+                [
+                    496,
+                    279
+                ],
+                [
+                    416,
+                    279
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    415,
+                    30
+                ],
+                [
+                    496,
+                    30
+                ],
+                [
+                    496,
+                    111
+                ],
+                [
+                    415,
+                    111
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    818,
+                    112
+                ],
+                [
+                    899,
+                    112
+                ],
+                [
+                    899,
+                    192
+                ],
+                [
+                    818,
+                    192
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    584,
+                    39
+                ],
+                [
+                    751,
+                    39
+                ],
+                [
+                    751,
+                    102
+                ],
+                [
+                    584,
+                    102
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    582,
+                    207
+                ],
+                [
+                    752,
+                    207
+                ],
+                [
+                    752,
+                    270
+                ],
+                [
+                    582,
+                    270
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Design_of_Continuous-Time_Delta-Sigma_Modulators._Design_Techniques_for_Mash_Continuous-Time_Delta-S_10.1007_978-3-319-77225-7_4_page_20_img1.jpg",
+    "imageData": null,
+    "imageHeight": 354,
+    "imageWidth": 1201
+}

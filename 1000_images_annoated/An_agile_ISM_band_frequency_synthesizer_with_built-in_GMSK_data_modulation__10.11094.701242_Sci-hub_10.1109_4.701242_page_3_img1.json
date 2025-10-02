@@ -1,0 +1,446 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          179.0,
+          386.0
+        ],
+        [
+          309.0,
+          386.0
+        ],
+        [
+          309.0,
+          530.0
+        ],
+        [
+          179.0,
+          530.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          179.0,
+          297.0
+        ],
+        [
+          310.0,
+          297.0
+        ],
+        [
+          310.0,
+          352.0
+        ],
+        [
+          179.0,
+          352.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          884.0,
+          405.0
+        ],
+        [
+          1012.0,
+          405.0
+        ],
+        [
+          1012.0,
+          584.0
+        ],
+        [
+          884.0,
+          584.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          1098.0,
+          120.0
+        ],
+        [
+          1174.0,
+          120.0
+        ],
+        [
+          1174.0,
+          194.0
+        ],
+        [
+          1098.0,
+          194.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          883.0,
+          245.0
+        ],
+        [
+          992.0,
+          245.0
+        ],
+        [
+          992.0,
+          318.0
+        ],
+        [
+          883.0,
+          318.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          755.0,
+          456.0
+        ],
+        [
+          833.0,
+          456.0
+        ],
+        [
+          833.0,
+          531.0
+        ],
+        [
+          755.0,
+          531.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          181.0,
+          706.0
+        ],
+        [
+          471.0,
+          706.0
+        ],
+        [
+          471.0,
+          777.0
+        ],
+        [
+          181.0,
+          777.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          884.0,
+          119.0
+        ],
+        [
+          991.0,
+          119.0
+        ],
+        [
+          991.0,
+          193.0
+        ],
+        [
+          884.0,
+          193.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          400.0,
+          581.0
+        ],
+        [
+          435.0,
+          581.0
+        ],
+        [
+          435.0,
+          635.0
+        ],
+        [
+          400.0,
+          635.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          631.0,
+          457.0
+        ],
+        [
+          706.0,
+          457.0
+        ],
+        [
+          706.0,
+          531.0
+        ],
+        [
+          631.0,
+          531.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          432.0,
+          440.0
+        ],
+        [
+          471.0,
+          440.0
+        ],
+        [
+          471.0,
+          477.0
+        ],
+        [
+          432.0,
+          477.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          488.0,
+          581.0
+        ],
+        [
+          526.0,
+          581.0
+        ],
+        [
+          526.0,
+          637.0
+        ],
+        [
+          488.0,
+          637.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          342.0,
+          473.0
+        ],
+        [
+          382.0,
+          473.0
+        ],
+        [
+          382.0,
+          514.0
+        ],
+        [
+          342.0,
+          514.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          702.0,
+          120.0
+        ],
+        [
+          779.0,
+          120.0
+        ],
+        [
+          779.0,
+          193.0
+        ],
+        [
+          702.0,
+          193.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          522.0,
+          403.0
+        ],
+        [
+          561.0,
+          403.0
+        ],
+        [
+          561.0,
+          442.0
+        ],
+        [
+          522.0,
+          442.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "An_agile_ISM_band_frequency_synthesizer_with_built-in_GMSK_data_modulation__10.11094.701242_Sci-hub_10.1109_4.701242_page_3_img1.jpg",
+  "imageData": null,
+  "imageHeight": 890,
+  "imageWidth": 1296,
+  "description": ""
+}

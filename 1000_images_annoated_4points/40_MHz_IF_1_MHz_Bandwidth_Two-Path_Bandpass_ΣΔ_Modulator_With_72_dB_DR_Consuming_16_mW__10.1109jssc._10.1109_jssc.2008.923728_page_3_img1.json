@@ -1,0 +1,243 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    515.0,
+                    167.0
+                ],
+                [
+                    691.0,
+                    167.0
+                ],
+                [
+                    691.0,
+                    246.0
+                ],
+                [
+                    515.0,
+                    246.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    687.0,
+                    271.0
+                ],
+                [
+                    864.0,
+                    271.0
+                ],
+                [
+                    864.0,
+                    417.0
+                ],
+                [
+                    687.0,
+                    417.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    338.0,
+                    270.0
+                ],
+                [
+                    513.0,
+                    270.0
+                ],
+                [
+                    513.0,
+                    417.0
+                ],
+                [
+                    338.0,
+                    417.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    337.0,
+                    497.0
+                ],
+                [
+                    514.0,
+                    497.0
+                ],
+                [
+                    514.0,
+                    595.0
+                ],
+                [
+                    337.0,
+                    595.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    230.0,
+                    329.0
+                ],
+                [
+                    271.0,
+                    329.0
+                ],
+                [
+                    271.0,
+                    367.0
+                ],
+                [
+                    230.0,
+                    367.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    582.0,
+                    327.0
+                ],
+                [
+                    622.0,
+                    327.0
+                ],
+                [
+                    622.0,
+                    366.0
+                ],
+                [
+                    582.0,
+                    366.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "pentagon",
+            "score": null,
+            "points": [
+                [
+                    961.0,
+                    480.0
+                ],
+                [
+                    1104.0,
+                    480.0
+                ],
+                [
+                    1104.0,
+                    614.0
+                ],
+                [
+                    961.0,
+                    614.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "pentagon",
+            "score": null,
+            "points": [
+                [
+                    963.0,
+                    281.0
+                ],
+                [
+                    1104.0,
+                    281.0
+                ],
+                [
+                    1104.0,
+                    414.0
+                ],
+                [
+                    963.0,
+                    414.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        }
+    ],
+    "imagePath": "40_MHz_IF_1_MHz_Bandwidth_Two-Path_Bandpass_ΣΔ_Modulator_With_72_dB_DR_Consuming_16_mW__10.1109jssc._10.1109_jssc.2008.923728_page_3_img1.jpg",
+    "imageData": null,
+    "imageHeight": 659,
+    "imageWidth": 1435,
+    "description": ""
+}

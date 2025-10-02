@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    271,
+                    178
+                ],
+                [
+                    426,
+                    178
+                ],
+                [
+                    426,
+                    452
+                ],
+                [
+                    271,
+                    452
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    557,
+                    178
+                ],
+                [
+                    906,
+                    178
+                ],
+                [
+                    906,
+                    272
+                ],
+                [
+                    557,
+                    272
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    1086,
+                    178
+                ],
+                [
+                    1439,
+                    178
+                ],
+                [
+                    1439,
+                    273
+                ],
+                [
+                    1086,
+                    273
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    975,
+                    205
+                ],
+                [
+                    1030,
+                    205
+                ],
+                [
+                    1030,
+                    258
+                ],
+                [
+                    975,
+                    258
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    557,
+                    353
+                ],
+                [
+                    907,
+                    353
+                ],
+                [
+                    907,
+                    451
+                ],
+                [
+                    557,
+                    451
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    973,
+                    354
+                ],
+                [
+                    1326,
+                    354
+                ],
+                [
+                    1326,
+                    452
+                ],
+                [
+                    973,
+                    452
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Digital_Signal_Processing_with_Field_Programmable_Gate_Arrays__10.1007978-3-662-04613-5_10.1007_978-3-662-04613-5_page_225_img1.jpg",
+    "imageData": null,
+    "imageHeight": 541,
+    "imageWidth": 1609
+}

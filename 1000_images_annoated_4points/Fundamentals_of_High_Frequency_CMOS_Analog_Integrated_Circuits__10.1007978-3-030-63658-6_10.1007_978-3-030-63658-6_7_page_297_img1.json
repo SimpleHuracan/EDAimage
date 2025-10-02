@@ -1,0 +1,155 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    486,
+                    56
+                ],
+                [
+                    685,
+                    56
+                ],
+                [
+                    685,
+                    200
+                ],
+                [
+                    486,
+                    200
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    822,
+                    332
+                ],
+                [
+                    1022,
+                    332
+                ],
+                [
+                    1022,
+                    475
+                ],
+                [
+                    822,
+                    475
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    814,
+                    55
+                ],
+                [
+                    1014,
+                    55
+                ],
+                [
+                    1014,
+                    199
+                ],
+                [
+                    814,
+                    199
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    157,
+                    59
+                ],
+                [
+                    356,
+                    59
+                ],
+                [
+                    356,
+                    203
+                ],
+                [
+                    157,
+                    203
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    1145,
+                    58
+                ],
+                [
+                    1344,
+                    58
+                ],
+                [
+                    1344,
+                    203
+                ],
+                [
+                    1145,
+                    203
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Fundamentals_of_High_Frequency_CMOS_Analog_Integrated_Circuits__10.1007978-3-030-63658-6_10.1007_978-3-030-63658-6_7_page_297_img1.jpg",
+    "imageData": null,
+    "imageHeight": 514,
+    "imageWidth": 1795
+}

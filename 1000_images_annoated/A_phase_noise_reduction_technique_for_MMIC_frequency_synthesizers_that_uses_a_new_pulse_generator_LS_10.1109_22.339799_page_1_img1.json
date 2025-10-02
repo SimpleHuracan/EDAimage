@@ -1,0 +1,156 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          112.0,
+          43.0
+        ],
+        [
+          215.0,
+          43.0
+        ],
+        [
+          215.0,
+          111.0
+        ],
+        [
+          112.0,
+          111.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          446.0,
+          204.0
+        ],
+        [
+          576.0,
+          204.0
+        ],
+        [
+          576.0,
+          274.0
+        ],
+        [
+          446.0,
+          274.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          319.0,
+          43.0
+        ],
+        [
+          422.0,
+          43.0
+        ],
+        [
+          422.0,
+          111.0
+        ],
+        [
+          319.0,
+          111.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          202.1730769230769,
+          192.10576923076923
+        ],
+        [
+          352.1730769230769,
+          192.10576923076923
+        ],
+        [
+          352.1730769230769,
+          289.2211538461538
+        ],
+        [
+          202.1730769230769,
+          289.2211538461538
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          530.0,
+          52.0
+        ],
+        [
+          580.0,
+          52.0
+        ],
+        [
+          580.0,
+          102.0
+        ],
+        [
+          530.0,
+          102.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "A_phase_noise_reduction_technique_for_MMIC_frequency_synthesizers_that_uses_a_new_pulse_generator_LS_10.1109_22.339799_page_1_img1.jpg",
+  "imageData": null,
+  "imageHeight": 327,
+  "imageWidth": 763,
+  "description": ""
+}

@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    814,
+                    359
+                ],
+                [
+                    1005,
+                    359
+                ],
+                [
+                    1005,
+                    466
+                ],
+                [
+                    814,
+                    466
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    335,
+                    641
+                ],
+                [
+                    409,
+                    641
+                ],
+                [
+                    409,
+                    714
+                ],
+                [
+                    335,
+                    714
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    335,
+                    465
+                ],
+                [
+                    410,
+                    465
+                ],
+                [
+                    410,
+                    538
+                ],
+                [
+                    335,
+                    538
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    665,
+                    376
+                ],
+                [
+                    739,
+                    376
+                ],
+                [
+                    739,
+                    450
+                ],
+                [
+                    665,
+                    450
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    335,
+                    289
+                ],
+                [
+                    409,
+                    289
+                ],
+                [
+                    409,
+                    362
+                ],
+                [
+                    335,
+                    362
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    490,
+                    373
+                ],
+                [
+                    570,
+                    373
+                ],
+                [
+                    570,
+                    453
+                ],
+                [
+                    490,
+                    453
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    335,
+                    113
+                ],
+                [
+                    409,
+                    113
+                ],
+                [
+                    409,
+                    186
+                ],
+                [
+                    335,
+                    186
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Event-driven_Simulation_and_modeling_of_phase_noise_of_an_RF_oscillator._IEEE_Transactions_on_Circui_10.1109_tcsi.2005.844236_page_8_img1.jpg",
+    "imageData": null,
+    "imageHeight": 844,
+    "imageWidth": 1163
+}

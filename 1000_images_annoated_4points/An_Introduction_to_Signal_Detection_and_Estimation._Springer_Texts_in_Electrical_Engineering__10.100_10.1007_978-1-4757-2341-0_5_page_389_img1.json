@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    304,
+                    58
+                ],
+                [
+                    521,
+                    58
+                ],
+                [
+                    521,
+                    154
+                ],
+                [
+                    304,
+                    154
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    1053,
+                    455
+                ],
+                [
+                    1248,
+                    455
+                ],
+                [
+                    1248,
+                    656
+                ],
+                [
+                    1053,
+                    656
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    645,
+                    240
+                ],
+                [
+                    772,
+                    240
+                ],
+                [
+                    772,
+                    357
+                ],
+                [
+                    645,
+                    357
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    246,
+                    256
+                ],
+                [
+                    315,
+                    256
+                ],
+                [
+                    315,
+                    324
+                ],
+                [
+                    246,
+                    324
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    378,
+                    259
+                ],
+                [
+                    445,
+                    259
+                ],
+                [
+                    445,
+                    322
+                ],
+                [
+                    378,
+                    322
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    511,
+                    259
+                ],
+                [
+                    578,
+                    259
+                ],
+                [
+                    578,
+                    323
+                ],
+                [
+                    511,
+                    323
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\An_Introduction_to_Signal_Detection_and_Estimation._Springer_Texts_in_Electrical_Engineering__10.100_10.1007_978-1-4757-2341-0_5_page_389_img1.jpg",
+    "imageData": null,
+    "imageHeight": 694,
+    "imageWidth": 1555
+}

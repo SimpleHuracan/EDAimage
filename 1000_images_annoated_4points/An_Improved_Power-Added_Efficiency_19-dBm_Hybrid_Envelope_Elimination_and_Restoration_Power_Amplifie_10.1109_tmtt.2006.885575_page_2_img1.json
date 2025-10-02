@@ -1,0 +1,155 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    212,
+                    43
+                ],
+                [
+                    360,
+                    43
+                ],
+                [
+                    360,
+                    163
+                ],
+                [
+                    212,
+                    163
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    319,
+                    202
+                ],
+                [
+                    431,
+                    202
+                ],
+                [
+                    431,
+                    293
+                ],
+                [
+                    319,
+                    293
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    471,
+                    202
+                ],
+                [
+                    579,
+                    202
+                ],
+                [
+                    579,
+                    292
+                ],
+                [
+                    471,
+                    292
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    798,
+                    190
+                ],
+                [
+                    895,
+                    190
+                ],
+                [
+                    895,
+                    301
+                ],
+                [
+                    798,
+                    301
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    598,
+                    57
+                ],
+                [
+                    690,
+                    57
+                ],
+                [
+                    690,
+                    169
+                ],
+                [
+                    598,
+                    169
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\An_Improved_Power-Added_Efficiency_19-dBm_Hybrid_Envelope_Elimination_and_Restoration_Power_Amplifie_10.1109_tmtt.2006.885575_page_2_img1.jpg",
+    "imageData": null,
+    "imageHeight": 400,
+    "imageWidth": 1164
+}

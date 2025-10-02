@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    207,
+                    405
+                ],
+                [
+                    273,
+                    405
+                ],
+                [
+                    273,
+                    470
+                ],
+                [
+                    207,
+                    470
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    208,
+                    120
+                ],
+                [
+                    273,
+                    120
+                ],
+                [
+                    273,
+                    184
+                ],
+                [
+                    208,
+                    184
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    585,
+                    274
+                ],
+                [
+                    650,
+                    274
+                ],
+                [
+                    650,
+                    337
+                ],
+                [
+                    585,
+                    337
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    325,
+                    117
+                ],
+                [
+                    439,
+                    117
+                ],
+                [
+                    439,
+                    186
+                ],
+                [
+                    325,
+                    186
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    506,
+                    117
+                ],
+                [
+                    583,
+                    117
+                ],
+                [
+                    583,
+                    187
+                ],
+                [
+                    506,
+                    187
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    325,
+                    403
+                ],
+                [
+                    439,
+                    403
+                ],
+                [
+                    439,
+                    472
+                ],
+                [
+                    325,
+                    472
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Design_considerations_for_direct-conversion_receivers._IEEE_Transactions_on_Circuits_and_Systems_II__10.1109_82.592569_page_2_img4.jpg",
+    "imageData": null,
+    "imageHeight": 546,
+    "imageWidth": 769
+}

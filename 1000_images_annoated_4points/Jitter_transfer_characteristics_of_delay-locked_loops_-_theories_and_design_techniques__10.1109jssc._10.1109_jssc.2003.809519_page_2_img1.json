@@ -1,0 +1,214 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    627.0,
+                    136.0
+                ],
+                [
+                    732.0,
+                    136.0
+                ],
+                [
+                    732.0,
+                    242.0
+                ],
+                [
+                    627.0,
+                    242.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    387.0,
+                    267.0
+                ],
+                [
+                    494.0,
+                    267.0
+                ],
+                [
+                    494.0,
+                    374.0
+                ],
+                [
+                    387.0,
+                    374.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    860.0,
+                    161.0
+                ],
+                [
+                    918.0,
+                    161.0
+                ],
+                [
+                    918.0,
+                    216.0
+                ],
+                [
+                    860.0,
+                    216.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    652.0,
+                    375.0
+                ],
+                [
+                    784.0,
+                    375.0
+                ],
+                [
+                    784.0,
+                    481.0
+                ],
+                [
+                    652.0,
+                    481.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    414.0,
+                    159.0
+                ],
+                [
+                    471.0,
+                    159.0
+                ],
+                [
+                    471.0,
+                    215.0
+                ],
+                [
+                    414.0,
+                    215.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    228.0,
+                    160.0
+                ],
+                [
+                    287.0,
+                    160.0
+                ],
+                [
+                    287.0,
+                    216.0
+                ],
+                [
+                    228.0,
+                    216.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    209.5037593984962,
+                    266.35714285714283
+                ],
+                [
+                    310.25563909774434,
+                    266.35714285714283
+                ],
+                [
+                    310.25563909774434,
+                    374.62781954887214
+                ],
+                [
+                    209.5037593984962,
+                    374.62781954887214
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "Jitter_transfer_characteristics_of_delay-locked_loops_-_theories_and_design_techniques__10.1109jssc._10.1109_jssc.2003.809519_page_2_img1.jpg",
+    "imageData": null,
+    "imageHeight": 647,
+    "imageWidth": 1016,
+    "description": ""
+}

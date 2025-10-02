@@ -1,0 +1,213 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    533,
+                    99
+                ],
+                [
+                    625,
+                    99
+                ],
+                [
+                    625,
+                    232
+                ],
+                [
+                    533,
+                    232
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    517,
+                    251
+                ],
+                [
+                    649,
+                    251
+                ],
+                [
+                    649,
+                    380
+                ],
+                [
+                    517,
+                    380
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    269,
+                    193
+                ],
+                [
+                    387,
+                    193
+                ],
+                [
+                    387,
+                    283
+                ],
+                [
+                    269,
+                    283
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    270,
+                    75
+                ],
+                [
+                    387,
+                    75
+                ],
+                [
+                    387,
+                    163
+                ],
+                [
+                    270,
+                    163
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    50,
+                    196
+                ],
+                [
+                    123,
+                    196
+                ],
+                [
+                    123,
+                    272
+                ],
+                [
+                    50,
+                    272
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    270,
+                    312
+                ],
+                [
+                    388,
+                    312
+                ],
+                [
+                    388,
+                    402
+                ],
+                [
+                    270,
+                    402
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    51,
+                    340
+                ],
+                [
+                    123,
+                    340
+                ],
+                [
+                    123,
+                    418
+                ],
+                [
+                    51,
+                    418
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\An_11-ns_8K×18_CMOS_static_RAM_with_0.5-μm_devices__10.11094.5930_10.1109_4.5930_page_8_img1.jpg",
+    "imageData": null,
+    "imageHeight": 433,
+    "imageWidth": 793
+}

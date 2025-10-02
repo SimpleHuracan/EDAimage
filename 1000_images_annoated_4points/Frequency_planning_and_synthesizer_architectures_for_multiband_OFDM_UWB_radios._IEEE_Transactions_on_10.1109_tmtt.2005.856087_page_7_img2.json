@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    528,
+                    76
+                ],
+                [
+                    610,
+                    76
+                ],
+                [
+                    610,
+                    156
+                ],
+                [
+                    528,
+                    156
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    307,
+                    418
+                ],
+                [
+                    431,
+                    418
+                ],
+                [
+                    431,
+                    470
+                ],
+                [
+                    307,
+                    470
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    506,
+                    279
+                ],
+                [
+                    633,
+                    279
+                ],
+                [
+                    633,
+                    333
+                ],
+                [
+                    506,
+                    333
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    529,
+                    404
+                ],
+                [
+                    609,
+                    404
+                ],
+                [
+                    609,
+                    484
+                ],
+                [
+                    529,
+                    484
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    792,
+                    252
+                ],
+                [
+                    849,
+                    252
+                ],
+                [
+                    849,
+                    306
+                ],
+                [
+                    792,
+                    306
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    657,
+                    54
+                ],
+                [
+                    772,
+                    54
+                ],
+                [
+                    772,
+                    181
+                ],
+                [
+                    657,
+                    181
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Frequency_planning_and_synthesizer_architectures_for_multiband_OFDM_UWB_radios._IEEE_Transactions_on_10.1109_tmtt.2005.856087_page_7_img2.jpg",
+    "imageData": null,
+    "imageHeight": 570,
+    "imageWidth": 1166
+}

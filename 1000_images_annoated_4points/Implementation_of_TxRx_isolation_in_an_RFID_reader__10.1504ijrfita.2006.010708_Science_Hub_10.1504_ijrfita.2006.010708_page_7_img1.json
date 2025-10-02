@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    260,
+                    274
+                ],
+                [
+                    377,
+                    274
+                ],
+                [
+                    377,
+                    389
+                ],
+                [
+                    260,
+                    389
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    94,
+                    120
+                ],
+                [
+                    228,
+                    120
+                ],
+                [
+                    228,
+                    235
+                ],
+                [
+                    94,
+                    235
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    811,
+                    117
+                ],
+                [
+                    925,
+                    117
+                ],
+                [
+                    925,
+                    237
+                ],
+                [
+                    811,
+                    237
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    261,
+                    119
+                ],
+                [
+                    376,
+                    119
+                ],
+                [
+                    376,
+                    240
+                ],
+                [
+                    261,
+                    240
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    631,
+                    120
+                ],
+                [
+                    764,
+                    120
+                ],
+                [
+                    764,
+                    234
+                ],
+                [
+                    631,
+                    234
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    411,
+                    120
+                ],
+                [
+                    593,
+                    120
+                ],
+                [
+                    593,
+                    234
+                ],
+                [
+                    411,
+                    234
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Implementation_of_TxRx_isolation_in_an_RFID_reader__10.1504ijrfita.2006.010708_Science_Hub_10.1504_ijrfita.2006.010708_page_7_img1.jpg",
+    "imageData": null,
+    "imageHeight": 409,
+    "imageWidth": 1261
+}

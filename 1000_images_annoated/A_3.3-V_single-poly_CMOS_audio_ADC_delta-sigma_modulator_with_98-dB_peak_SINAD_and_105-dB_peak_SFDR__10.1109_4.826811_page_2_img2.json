@@ -1,0 +1,359 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          851.0,
+          54.0
+        ],
+        [
+          1009.0,
+          54.0
+        ],
+        [
+          1009.0,
+          163.0
+        ],
+        [
+          851.0,
+          163.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          443.0,
+          54.0
+        ],
+        [
+          603.0,
+          54.0
+        ],
+        [
+          603.0,
+          162.0
+        ],
+        [
+          443.0,
+          162.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          746.0,
+          188.0
+        ],
+        [
+          810.0,
+          188.0
+        ],
+        [
+          810.0,
+          245.0
+        ],
+        [
+          746.0,
+          245.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          340.0,
+          248.0
+        ],
+        [
+          404.0,
+          248.0
+        ],
+        [
+          404.0,
+          303.0
+        ],
+        [
+          340.0,
+          303.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          762.0,
+          90.0
+        ],
+        [
+          797.0,
+          90.0
+        ],
+        [
+          797.0,
+          125.0
+        ],
+        [
+          762.0,
+          125.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          655.0,
+          77.0
+        ],
+        [
+          710.0,
+          77.0
+        ],
+        [
+          710.0,
+          140.0
+        ],
+        [
+          655.0,
+          140.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          352.0,
+          89.0
+        ],
+        [
+          391.0,
+          89.0
+        ],
+        [
+          391.0,
+          126.0
+        ],
+        [
+          352.0,
+          126.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          1172.0,
+          247.0
+        ],
+        [
+          1356.0,
+          247.0
+        ],
+        [
+          1356.0,
+          358.0
+        ],
+        [
+          1172.0,
+          358.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          1172.0,
+          373.0
+        ],
+        [
+          1357.0,
+          373.0
+        ],
+        [
+          1357.0,
+          485.0
+        ],
+        [
+          1172.0,
+          485.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          251.0,
+          76.0
+        ],
+        [
+          308.0,
+          76.0
+        ],
+        [
+          308.0,
+          140.0
+        ],
+        [
+          251.0,
+          140.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "triangle",
+      "score": null,
+      "points": [
+        [
+          1063.0,
+          78.0
+        ],
+        [
+          1117.0,
+          78.0
+        ],
+        [
+          1117.0,
+          140.0
+        ],
+        [
+          1063.0,
+          140.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          1168.0,
+          54.0
+        ],
+        [
+          1354.0,
+          54.0
+        ],
+        [
+          1354.0,
+          167.0
+        ],
+        [
+          1168.0,
+          167.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "A_3.3-V_single-poly_CMOS_audio_ADC_delta-sigma_modulator_with_98-dB_peak_SINAD_and_105-dB_peak_SFDR__10.1109_4.826811_page_2_img2.jpg",
+  "imageData": null,
+  "imageHeight": 524,
+  "imageWidth": 1660,
+  "description": ""
+}

@@ -1,0 +1,214 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          440.0,
+          180.0
+        ],
+        [
+          543.0,
+          180.0
+        ],
+        [
+          543.0,
+          261.0
+        ],
+        [
+          440.0,
+          261.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          253.0,
+          179.0
+        ],
+        [
+          355.0,
+          179.0
+        ],
+        [
+          355.0,
+          261.0
+        ],
+        [
+          253.0,
+          261.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          183.0,
+          201.0
+        ],
+        [
+          223.0,
+          201.0
+        ],
+        [
+          223.0,
+          238.0
+        ],
+        [
+          183.0,
+          238.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          627.0,
+          181.0
+        ],
+        [
+          728.0,
+          181.0
+        ],
+        [
+          728.0,
+          260.0
+        ],
+        [
+          627.0,
+          260.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          882.0,
+          179.0
+        ],
+        [
+          969.0,
+          179.0
+        ],
+        [
+          969.0,
+          263.0
+        ],
+        [
+          882.0,
+          263.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          802.0,
+          202.0
+        ],
+        [
+          840.0,
+          202.0
+        ],
+        [
+          840.0,
+          238.0
+        ],
+        [
+          802.0,
+          238.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "pentagon",
+      "score": null,
+      "points": [
+        [
+          882.4661654135339,
+          357.4210526315789
+        ],
+        [
+          967.4285714285714,
+          357.4210526315789
+        ],
+        [
+          967.4285714285714,
+          441.63157894736844
+        ],
+        [
+          882.4661654135339,
+          441.63157894736844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "An_8.1_mW,_82_dB_Delta-Sigma_ADC_With_1.9_MHz_BW_and_98_dB_THD__10.1109jssc.2009.2022298_Sci-hub_10.1109_jssc.2009.2022298_page_4_img1.jpg",
+  "imageData": null,
+  "imageHeight": 478,
+  "imageWidth": 1192,
+  "description": ""
+}

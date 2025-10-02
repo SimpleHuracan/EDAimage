@@ -1,0 +1,185 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    155.0,
+                    141.0
+                ],
+                [
+                    325.0,
+                    141.0
+                ],
+                [
+                    325.0,
+                    275.0
+                ],
+                [
+                    155.0,
+                    275.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    444.0,
+                    142.0
+                ],
+                [
+                    612.0,
+                    142.0
+                ],
+                [
+                    612.0,
+                    275.0
+                ],
+                [
+                    444.0,
+                    275.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    732.0,
+                    142.0
+                ],
+                [
+                    901.0,
+                    142.0
+                ],
+                [
+                    901.0,
+                    275.0
+                ],
+                [
+                    732.0,
+                    275.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    731.0,
+                    413.0
+                ],
+                [
+                    901.0,
+                    413.0
+                ],
+                [
+                    901.0,
+                    546.0
+                ],
+                [
+                    731.0,
+                    546.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    969.0,
+                    430.0
+                ],
+                [
+                    1000.0,
+                    430.0
+                ],
+                [
+                    1000.0,
+                    458.0
+                ],
+                [
+                    969.0,
+                    458.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        },
+        {
+            "kie_linking": [],
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    970.0,
+                    501.0
+                ],
+                [
+                    998.0,
+                    501.0
+                ],
+                [
+                    998.0,
+                    530.0
+                ],
+                [
+                    970.0,
+                    530.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {}
+        }
+    ],
+    "imagePath": "PWM-Based_Adaptive_Sliding-Mode_Control_for_Boost_DC–DC_Converters__10.1109TIE.2012.2203769_10.1109_tie.2012.2203769_page_2_img1.jpg",
+    "imageData": null,
+    "imageHeight": 632,
+    "imageWidth": 1131,
+    "description": ""
+}

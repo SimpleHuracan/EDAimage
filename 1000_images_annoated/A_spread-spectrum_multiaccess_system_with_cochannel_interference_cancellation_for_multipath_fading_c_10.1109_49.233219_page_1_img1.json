@@ -1,0 +1,243 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          152.0,
+          316.0
+        ],
+        [
+          299.0,
+          316.0
+        ],
+        [
+          299.0,
+          398.0
+        ],
+        [
+          152.0,
+          398.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          151.0,
+          26.0
+        ],
+        [
+          299.0,
+          26.0
+        ],
+        [
+          299.0,
+          109.0
+        ],
+        [
+          151.0,
+          109.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          426.0,
+          25.0
+        ],
+        [
+          572.0,
+          25.0
+        ],
+        [
+          572.0,
+          108.0
+        ],
+        [
+          426.0,
+          108.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          427.0,
+          315.0
+        ],
+        [
+          574.0,
+          315.0
+        ],
+        [
+          574.0,
+          398.0
+        ],
+        [
+          427.0,
+          398.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          153.0,
+          172.0
+        ],
+        [
+          299.0,
+          172.0
+        ],
+        [
+          299.0,
+          253.0
+        ],
+        [
+          153.0,
+          253.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          427.0,
+          171.0
+        ],
+        [
+          573.0,
+          171.0
+        ],
+        [
+          573.0,
+          252.0
+        ],
+        [
+          427.0,
+          252.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          733.0,
+          195.0
+        ],
+        [
+          766.0,
+          195.0
+        ],
+        [
+          766.0,
+          225.0
+        ],
+        [
+          733.0,
+          225.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          652.7045454545454,
+          195.625
+        ],
+        [
+          688.5,
+          195.625
+        ],
+        [
+          688.5,
+          225.73863636363635
+        ],
+        [
+          652.7045454545454,
+          225.73863636363635
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "A_spread-spectrum_multiaccess_system_with_cochannel_interference_cancellation_for_multipath_fading_c_10.1109_49.233219_page_1_img1.jpg",
+  "imageData": null,
+  "imageHeight": 410,
+  "imageWidth": 902,
+  "description": ""
+}

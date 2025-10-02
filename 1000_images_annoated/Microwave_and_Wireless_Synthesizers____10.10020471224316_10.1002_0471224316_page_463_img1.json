@@ -1,0 +1,359 @@
+{
+  "version": "3.2.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          39.0,
+          253.0
+        ],
+        [
+          109.0,
+          253.0
+        ],
+        [
+          109.0,
+          305.0
+        ],
+        [
+          39.0,
+          305.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          330.0,
+          167.0
+        ],
+        [
+          400.0,
+          167.0
+        ],
+        [
+          400.0,
+          220.0
+        ],
+        [
+          330.0,
+          220.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          42.0,
+          488.0
+        ],
+        [
+          111.0,
+          488.0
+        ],
+        [
+          111.0,
+          542.0
+        ],
+        [
+          42.0,
+          542.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          266.0,
+          655.0
+        ],
+        [
+          444.0,
+          655.0
+        ],
+        [
+          444.0,
+          707.0
+        ],
+        [
+          266.0,
+          707.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          460.0,
+          161.0
+        ],
+        [
+          521.0,
+          161.0
+        ],
+        [
+          521.0,
+          222.0
+        ],
+        [
+          460.0,
+          222.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          455.0,
+          359.0
+        ],
+        [
+          525.0,
+          359.0
+        ],
+        [
+          525.0,
+          413.0
+        ],
+        [
+          455.0,
+          413.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          467.0,
+          653.0
+        ],
+        [
+          523.0,
+          653.0
+        ],
+        [
+          523.0,
+          707.0
+        ],
+        [
+          467.0,
+          707.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          230.0,
+          253.0
+        ],
+        [
+          283.0,
+          253.0
+        ],
+        [
+          283.0,
+          305.0
+        ],
+        [
+          230.0,
+          305.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          627.0,
+          360.0
+        ],
+        [
+          681.0,
+          360.0
+        ],
+        [
+          681.0,
+          414.0
+        ],
+        [
+          627.0,
+          414.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          34.0,
+          361.0
+        ],
+        [
+          115.0,
+          361.0
+        ],
+        [
+          115.0,
+          440.0
+        ],
+        [
+          34.0,
+          440.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "rectangle",
+      "score": null,
+      "points": [
+        [
+          452.0,
+          467.0
+        ],
+        [
+          532.0,
+          467.0
+        ],
+        [
+          532.0,
+          543.0
+        ],
+        [
+          452.0,
+          543.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "circle",
+      "score": null,
+      "points": [
+        [
+          317.0,
+          765.0
+        ],
+        [
+          401.0,
+          765.0
+        ],
+        [
+          401.0,
+          846.0
+        ],
+        [
+          317.0,
+          846.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Microwave_and_Wireless_Synthesizers____10.10020471224316_10.1002_0471224316_page_463_img1.jpg",
+  "imageData": null,
+  "imageHeight": 977,
+  "imageWidth": 793,
+  "description": ""
+}

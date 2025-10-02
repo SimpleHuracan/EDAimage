@@ -1,0 +1,155 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    230,
+                    256
+                ],
+                [
+                    360,
+                    256
+                ],
+                [
+                    360,
+                    395
+                ],
+                [
+                    230,
+                    395
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    462,
+                    276
+                ],
+                [
+                    674,
+                    276
+                ],
+                [
+                    674,
+                    382
+                ],
+                [
+                    462,
+                    382
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    1100,
+                    285
+                ],
+                [
+                    1235,
+                    285
+                ],
+                [
+                    1235,
+                    392
+                ],
+                [
+                    1100,
+                    392
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    400,
+                    531
+                ],
+                [
+                    746,
+                    531
+                ],
+                [
+                    746,
+                    683
+                ],
+                [
+                    400,
+                    683
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    790,
+                    290
+                ],
+                [
+                    1004,
+                    290
+                ],
+                [
+                    1004,
+                    397
+                ],
+                [
+                    790,
+                    397
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\[The_International_Series_in_Engineering_and_Computer_Science]_Architectures_for_RF_Frequency_Synthe_10.1007_b101917_page_103_img1.jpg",
+    "imageData": null,
+    "imageHeight": 736,
+    "imageWidth": 1385
+}

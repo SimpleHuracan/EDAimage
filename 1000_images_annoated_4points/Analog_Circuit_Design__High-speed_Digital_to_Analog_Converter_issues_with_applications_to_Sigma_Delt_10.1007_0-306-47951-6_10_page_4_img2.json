@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    245,
+                    312
+                ],
+                [
+                    315,
+                    312
+                ],
+                [
+                    315,
+                    373
+                ],
+                [
+                    245,
+                    373
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    479,
+                    188
+                ],
+                [
+                    632,
+                    188
+                ],
+                [
+                    632,
+                    283
+                ],
+                [
+                    479,
+                    283
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    691,
+                    188
+                ],
+                [
+                    760,
+                    188
+                ],
+                [
+                    760,
+                    273
+                ],
+                [
+                    691,
+                    273
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "triangle",
+            "score": null,
+            "points": [
+                [
+                    820,
+                    185
+                ],
+                [
+                    891,
+                    185
+                ],
+                [
+                    891,
+                    271
+                ],
+                [
+                    820,
+                    271
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    525,
+                    314
+                ],
+                [
+                    577,
+                    314
+                ],
+                [
+                    577,
+                    362
+                ],
+                [
+                    525,
+                    362
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    364,
+                    217
+                ],
+                [
+                    396,
+                    217
+                ],
+                [
+                    396,
+                    249
+                ],
+                [
+                    364,
+                    249
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Analog_Circuit_Design__High-speed_Digital_to_Analog_Converter_issues_with_applications_to_Sigma_Delt_10.1007_0-306-47951-6_10_page_4_img2.jpg",
+    "imageData": null,
+    "imageHeight": 428,
+    "imageWidth": 1027
+}

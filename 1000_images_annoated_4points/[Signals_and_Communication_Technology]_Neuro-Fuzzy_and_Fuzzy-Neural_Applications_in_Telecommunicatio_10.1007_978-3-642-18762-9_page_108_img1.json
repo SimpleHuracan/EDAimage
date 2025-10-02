@@ -1,0 +1,155 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    816,
+                    33
+                ],
+                [
+                    1050,
+                    33
+                ],
+                [
+                    1050,
+                    156
+                ],
+                [
+                    816,
+                    156
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    1245,
+                    33
+                ],
+                [
+                    1477,
+                    33
+                ],
+                [
+                    1477,
+                    153
+                ],
+                [
+                    1245,
+                    153
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    384,
+                    35
+                ],
+                [
+                    667,
+                    35
+                ],
+                [
+                    667,
+                    159
+                ],
+                [
+                    384,
+                    159
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    93,
+                    36
+                ],
+                [
+                    243,
+                    36
+                ],
+                [
+                    243,
+                    159
+                ],
+                [
+                    93,
+                    159
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    622,
+                    308
+                ],
+                [
+                    850,
+                    308
+                ],
+                [
+                    850,
+                    425
+                ],
+                [
+                    622,
+                    425
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\[Signals_and_Communication_Technology]_Neuro-Fuzzy_and_Fuzzy-Neural_Applications_in_Telecommunicatio_10.1007_978-3-642-18762-9_page_108_img1.jpg",
+    "imageData": null,
+    "imageHeight": 449,
+    "imageWidth": 1562
+}

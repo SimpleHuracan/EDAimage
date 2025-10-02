@@ -1,0 +1,184 @@
+{
+    "version": "3.2.3",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    727,
+                    456
+                ],
+                [
+                    780,
+                    456
+                ],
+                [
+                    780,
+                    507
+                ],
+                [
+                    727,
+                    507
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "rectangle",
+            "score": null,
+            "points": [
+                [
+                    370,
+                    268
+                ],
+                [
+                    515,
+                    268
+                ],
+                [
+                    515,
+                    410
+                ],
+                [
+                    370,
+                    410
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    727,
+                    171
+                ],
+                [
+                    781,
+                    171
+                ],
+                [
+                    781,
+                    222
+                ],
+                [
+                    727,
+                    222
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    1199,
+                    458
+                ],
+                [
+                    1252,
+                    458
+                ],
+                [
+                    1252,
+                    507
+                ],
+                [
+                    1199,
+                    507
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    938,
+                    171
+                ],
+                [
+                    991,
+                    171
+                ],
+                [
+                    991,
+                    221
+                ],
+                [
+                    938,
+                    221
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        },
+        {
+            "label": "circle",
+            "score": null,
+            "points": [
+                [
+                    1201,
+                    172
+                ],
+                [
+                    1250,
+                    172
+                ],
+                [
+                    1250,
+                    221
+                ],
+                [
+                    1201,
+                    221
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "difficult": false,
+            "shape_type": "rectangle",
+            "flags": {},
+            "attributes": {},
+            "kie_linking": []
+        }
+    ],
+    "imagePath": "..\\dataset\\1000_images\\Adaptive_Filters_(Theory_and_Applications)__Transform_Domain_Adaptive_Filters__10.10029781118591352._10.1002_9781118591352.ch7_page_31_img2.jpg",
+    "imageData": null,
+    "imageHeight": 545,
+    "imageWidth": 1530
+}
